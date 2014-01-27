@@ -1,0 +1,468 @@
+Page 1 of 15 © 2013 Factiva, Inc. All rights reserved. 
+Intel in $1.6bn DSP comms buy. .....................................................................................................................................2 
+Intel Stakes Out 3G Claim : Giant buying wireless tech holder DSPC for $1.6B.(DSP Communications)(Company 
+Business and Marketing).................................................................................................................................................3 
+Intel to buy DSP Communications for $1.6 billion. ..........................................................................................................5 
+THE AMERICAS - Intel to buy Israeli chip designer........................................................................................................6 
+Intel Buys DSP Communications for Mobile Phone Chipset. ..........................................................................................7 
+FOCUS-Intel to buy DSP Communications for $1.6 billion. ............................................................................................8 
+Intel sees DPS deal closing in 30-60 days. ...................................................................................................................10 
+FULL TEXT-Intel to buy DSP Comm for $1.6 bln cash. ................................................................................................11 
+Intel To Acquire DSP Communications In $1.6 Billion Cash Deal.................................................................................13 
+Intel CEO -2: Internet Device Mkt A New 'Beachhead'>INTC .......................................................................................14 
+Intel eyes comms IC company. .....................................................................................................................................15
+
+Page 2 of 15 © 2013 Factiva, Inc. All rights reserved. 
+Intel in $1.6bn DSP comms buy. 
+Intel in $1.6bn DSP comms buy. 
+225 words 
+20 October 1999 
+Electronics Weekly 
+ELCWKY 
+6
+English 
+(c) 1999 Reed Business Information Not Available for Redissemination 
+Intel is buying wireless chipmaker DSP Communications for $1.6bn as it continues its torrid pace of acquisitions 
+in communications markets. 
+The deal follows on the heels of Intel's acquisition of network gear maker iPivot last week for $500m. Intel will pay 
+cash for Israel-based DSP Communications which has developed chipsets, reference designs and related 
+technologies for cellular communications products. 
+"It brings tremendous experience in cellular digital and voice technologies," said Intel CEO Craig Barrett. 
+"Cellular technology is emerging as a new high-speed method of connecting to the Internet and we believe over 
+time will become increasingly important for connecting PCs to the Internet." 
+Intel has made about 14 acquisitions over the last two years as it expands beyond its core microprocessor 
+markets. 
+The deal was unveiled as Intel announced third quarter results which were below analyst estimates. The firm 
+blamed lower prices of its microprocessors as it continues with its strategy of aggressive price cuts to keep 
+competitor AMD from establishing its products in key PC markets. 
+Intel said that it shipped record numbers of microprocessors with total revenues of $7.33bn for the third quarter. 
+It is also suffering from product delays with its Coppermine microprocessor and the 820 chipset which supports 
+Rambus memories. 
+Copyright Reed Business Information 1999 
+Not Available for Redissemination. 
+Document elcwky0020010904dvak001sd
+
+Page 3 of 15 © 2013 Factiva, Inc. All rights reserved. 
+Intel Stakes Out 3G Claim : Giant buying wireless tech holder DSPC for $1.6B.(DSP Communications)(Company Business and Marketing) 
+Intel Stakes Out 3G Claim : Giant buying wireless tech holder DSPC for $1.6B.(DSP 
+Communications)(Company Business and Marketing) 
+GALE MORRISON 
+555 words 
+18 October 1999 
+Electronic News 
+ELNW 
+10 
+ISSN 1061-6624; Volume 45; Issue 42 
+English 
+Copyright 1999 Gale Group Inc. All rights reserved. 
+Intel Corp. has become even more determined in its desire to be the component supplier for the Internet. 
+In the most direct bid yet to claim wireless communications market share of Texas Instruments, Motorola and 
+Lucent Technologies, Intel, Santa Clara, Calif., is acquiring DSP Communications Inc. of Cupertino, Calif., for 
+about $1.6 billion. 
+DSPC specializes in chipsets, reference designs, software and other system expertise for wireless handsets. Intel 
+intends to leverage that into wireless data interface components for computing systems. 
+Craig Barrett, Intel president and chief executive officer, and Ron Smith, vice president and general manager of 
+the Computing Enhancement Group of which DSPC will be a part, said the acquisition is part of Intel's 
+fundamental belief that the Internet is going wireless. 
+Barrett said that just as the wired infrastructure with the Internet explosion went from carrying mostly voice calls to 
+carrying mostly data, so too will the wireless infrastructure. Intel wants to have the components ready for a world 
+where data is received over a wireless Internet. 
+A wireless Internet will come with the so-called 3G, shorthand for third-generation wireless communications. In 
+the Global 3G implementation that Qualcomm Inc. of San Diego (with its hold on code division multiple access, or 
+CDMA patents) has laid out, the airwaves will carry voice, data and video simultaneously, not over separate lines 
+as in the wired world. 
+Dozens of semiconductor industry players - from EDA player Mentor Graphics Corp. to test house Schlumberger 
+Ltd. - are rallying their business strategy around this vision. Qualcomm even recently pulled up stakes on its 
+handset business to focus on proliferating this technology, via royalties and licenses of the chip and system 
+expertise it has patented. 
+For the critical infrastructure - base stations, transmitters, etc. - half of the 3G equation, Qualcomm has 40 
+manufacturers on board and Sprint and Lucent Technologies networks business running trials in the first half of 
+next year. 
+Smith and Davidi Gilo, DSPC chairman, said that the two companies have a killer combination for wireless 
+components. They will offer the Intel flash memory that OEMs already prefer most and Intel's "best MIPS per 
+watt" StrongARM embedded processor with DSPC's expertise for current handset configurations as well as the 
+coming 3G. 
+Intel and DSPC still have to negotiate some tricky competitor/collaborator relationships. DSPC will start shipping 
+an IBM co-developed RF subsystem this week. The bank analysts attending the acquisition tried to prod the two 
+firms to explain how the existing DSPC/Qualcomm agreements will be successfully transferred to Intel. Several 
+cited the apparent difficulty Philips Semiconductors had with this exact issue in its VLSI Technology Inc. 
+acquisition. 
+Smith would only reply, "To the extent required, Intel either already has or is in a position to acquire the licenses 
+(from Qualcomm)." 
+Qualcomm, for its part, devoted last week to Telecom '99 in Geneva. A company spokeswoman said, "DSPC's 
+CDMA license does not automatically transfer to Intel. Licensing agreements will need to be negotiated with Intel. 
+DSPC's current license covers IS-95 CDMA, which is not 3G."
+
+Page 4 of 15 © 2013 Factiva, Inc. All rights reserved. 
+FULL TEXT Electronic News Publishing Corp. THIS IS THE FULL TEXT: COPYRIGHT 1999 Cahners Publishing 
+Company Subscription: $69.00 per year. Published weekly. 
+Document elnw000020010827dvai002eu
+
+Page 5 of 15 © 2013 Factiva, Inc. All rights reserved. 
+Intel to buy DSP Communications for $1.6 billion. 
+Intel to buy DSP Communications for $1.6 billion. 
+209 words 
+16 October 1999 
+The Times of India 
+TOI 
+English 
+(c) 1999 The Times of India Group 
+SAN FRANCISCO: Intel Corp. has agreed to buy wireless telephone chip maker DSP Communications Inc. in a 
+$1.6 billion deal, the companies said on Thursday, the latest in a series of aggressive moves by Intel to go 
+beyond its traditional microprocessor business. 
+Under the terms of the deal, Intel, the world's largest chip maker, will pay $36 in cash for each share of DSPC, 
+which is based in Cupertino, California. The company develops chip sets, software and other key technologies for 
+wireless handsets. 
+"I think the acquisition of DSP Communications absolutely fits into our strategic vision," Craig Barrett, Intel's 
+president and chief executive, said on a conference call. "Our vision is that the Internet will increasingly go 
+wireless ... especially in the form of handheld devices." 
+Barrett said the cellular communications market segment was emerging as a very important element of the 
+Internet and was bound to become much more important in the future. 
+The deal comes just two days after Intel reported third-quarter earnings of 55 cents a share that were below Wall 
+Street's expectations, as prices of the company's core microprocessors fell in the quarter. (Reuters). 
+(c) 1999 The Times of India Group. 
+Document toi0000020010912dvag00b4k
+
+Page 6 of 15 © 2013 Factiva, Inc. All rights reserved. 
+THE AMERICAS - Intel to buy Israeli chip designer. 
+THE AMERICAS - Intel to buy Israeli chip designer. 
+By AVI MACHLIS. 
+433 words 
+15 October 1999 
+Financial Times 
+FTFT 
+29 
+English 
+(c) 1999 The Financial Times Limited. All rights reserved 
+Intel, the world's biggest chipmaker, has agreed to acquire DSP Communications of Israel, which develops 
+software and chips for use in cellular telephones, for $1.6bn in cash. 
+"Cellular communications technology is emerging as a very important element of the internet, and this acquisition 
+is consistent with Intel's strategy of being the building block supplier to the world internet economy," said Craig 
+Barrett, Intel president and chief executive. 
+The deal is Intel's biggest cash acquisition to date, and ranks second overall to its all-stock purchase of Level One 
+Communications, which was valued at $2.2bn when the deal was announced in March. 
+It is also the biggest foreign acquisition of an Israeli technology company, dwarfing the purchase in March of New 
+Dimension Software by Houston's BMC Software for more than $650m. 
+Intel said DSPC would improve its ability to address the growing market for wireless internet access devices. 
+"Internet access is increasingly going wireless, via handheld devices, and we are very excited about the business 
+opportunities," said Mr Barrett. 
+DSPC, which is a leading supplier of chips and software to cellular telephone manufacturers, particularly in 
+Japan, "brings tremendous experience in cellular digital and voice technologies which, when combined with Intel's 
+data and internet expertise will provide a more complete solution to the broad cellular market segment", Mr 
+Barrett added. 
+Intel will buy all of DSPC's outstanding shares for $36 a share, a premium of 28 per cent to Wednesday's closing 
+price. 
+DSPC shares had jumped to $35 1/16 by mid-session yesterday, while Intel rose $5/16 to $72 7/16. 
+The acquisition was expected to be accretive "early in the next decade", said Mr Barrett. 
+Davidi Gilo, DSPC chief executive and founder, said a small company like DSPC had to link up with a 
+multinational to compete against semiconductor giants such as Motorola and Texas Instruments. 
+"It was clear to us that we needed a strategic partner," he said. 
+Founded in 1987, DSPC has its headquarters in Silicon Valley, but 80 per cent of its 300 employees, and most of 
+the research and development operations, are based in Israel. 
+The company had net income of $29m on revenues of $131m in 1998. 
+Analysts said the acquisition was in line with Intel's strategy. 
+"DSPC has a fantastic array of technologies which companies like Intel do not have the time to invent from 
+scratch," said Eddy Shalev, director of CIBC Oppenheimer's Tel Aviv affiliate. 
+Copyright Financial Times Limited 1999. All Rights Reserved. 
+Document ftft000020010905dvaf00kp4
+
+Page 7 of 15 © 2013 Factiva, Inc. All rights reserved. 
+Intel Buys DSP Communications for Mobile Phone Chipset. 
+Intel Buys DSP Communications for Mobile Phone Chipset. 
+355 words 
+15 October 1999 
+Computergram International 
+CGIN 
+ISSN: 0268-716X 
+English 
+Copyright 1999 Gale Group Inc. All rights reserved. 
+Intel Corp has announced that it intends to buy DSP Communications Inc for $1.6bn to increase its presence in 
+the mobile phone chipset market. Initially, Intel will use software and baseband technology from the Cupertino, 
+California-based company to develop chipsets for the CDMA, TDMA and PDC standards. Intel hopes that the 
+acquisition will stand it in good stead as third generation mobile standards solidify and the market for wireless 
+data services grows. 
+DSPC will become a wholly owned subsidiary and will be part of Intel's Computing Enhancement Group. Intel will 
+combine its silicon with DSPC's algorithms, the CEO of DSPC, David Gilo, said that he expected the integration 
+effort to take between twelve and eighteen months. Intel CEO, Craig Barrett, said that the acquisition would build 
+on the strength of Intel's StrongARM processor and Flash memory chips in the handset market. However, Intel 
+was keen to stress that the deal would not affect its existing work on mobile phone chipsets with Qualcomm Inc, 
+Texas Instruments Inc and Analog Devices Inc. 
+DSPC is particularly strong in the Japanese market, working with customers such as NTT Mobile 
+Communications Network Inc and Sanyo Corp. Ron Smith, vice president and general manager of the Computing 
+Enhancement Group said that Intel sees DSPC's Japanese presence as a way for Intel to establish a head start 
+in the 3G market because Japan will have 3G networks up and running before the US. In the future, Smith also 
+envisages the Bluetooth short- range wireless interconnect chips being integrated with DSPC- developed 
+chipsets. 
+However, Intel was less forthcoming on the question of patents and licenses. DSPC has frequently cross-licensed 
+or otherwise bought technology to help develop its products from companies such as Qualcomm. Neither Barrett 
+nor Smith would be drawn on the question, other than to say that Intel either had or would buy whatever patents it 
+needed. Interestingly, DSPC is already working with IBM on PDC chipsets, but Gilo said that the subsidiary would 
+continue to work with IBM and actively seek other chipset deals. 
+FULL TEXT 
+Document cgin000020010826dvaf005h5
+
+Page 8 of 15 © 2013 Factiva, Inc. All rights reserved. 
+FOCUS-Intel to buy DSP Communications for $1.6 billion. 
+FOCUS-Intel to buy DSP Communications for $1.6 billion. 
+488 words 
+14 October 1999 
+11:50 
+Reuters News 
+LBA 
+English 
+(c) 1999 Reuters Limited 
+SAN FRANCISCO, Oct 14 (Reuters) - Intel Corp. has agreed to buy wireless telephone chip maker DSP 
+Communications Inc., in a $1.6 billion deal, the companies said on Thursday, the latest in a series of aggressive 
+moves by Intel to move beyond its traditional microprocessor business. 
+Under the terms of the deal, Intel, the world's largest chip maker, will pay $36 in cash for each share of DSP, 
+which is based in California but does most of its research and development in Israel. 
+DSP's shares jumped 7-1/8, more than 25 percent, to 35-1/8 in morning trading on the New York Stock 
+Exchange. 
+The deal, which Intel says is part of its plan to develop more Internet products, comes just two days after Intel 
+reported third-quarter earnings of 55 cents a share, 2 cents below the analysts' consensus estimate of 57 cents a 
+share excluding acquisition costs. 
+Intel's stock was off 1 at 71-1/8 on Nasdaq. 
+"DSPC brings tremendous experience in cellular digital and voice technologies which, when combined with Intel's 
+data and Internet expertise, will provide a more complete solution to the broad cellular market segment," Intel 
+Chief Executive Officer Craig Barrett said in a statement. 
+"Cellular technology is emerging as a new high-speed method of connecting to the Internet and we believe over 
+time will become increasingly important for connecting PCs to the Internet," he said. 
+Mona Eraiba, senior vice president at Gruntal & Co. said DSP was a good piece in Intel's expansion plan. 
+"It just fits with a strategy they have been pursuing which is to build a whole broad range of products related to 
+networking and communications," Eraiba said in a telephone interview. "It is a good company." 
+Intel has made other acquisitions this year in the telecommunications industry, including the $780 million 
+purchase of Dialogic Corp., the $3.5 billion acquisition of Level One Communications, and the $180 million 
+purchase of Shiva Corp. 
+DSP's board of directors has already approved the deal, which is conditional upon DSP shareholders offering a 
+majority of shares in the $36 tender offer. DSP's current and former chief executive officers have already 
+tendered their shares, the companies said. 
+"Combining DSPC's cellular expertise with Intel's semiconductor and data capabilities will create a leading 
+provider of cellular voice products, as well as establish voice and data solutions for the future," DSP Chairman 
+Davidi Gilo said in a statement. "The industry needs suppliers that can deliver solutions such as chipset, design 
+and software to meet customers' cellular technology needs." 
+The companies said in a statement they do not anticipate any immediate changes to their respective product lines 
+as a result of the deal. DSP will also continue to deliver products under existing agreements. 
+((-San Francisco newsroom 1 415 677 2542)). 
+(C) Reuters Limited 1999. 
+Document lba0000020010909dvae022m3
+
+Page 9 of 15 © 2013 Factiva, Inc. All rights reserved.
+
+Page 10 of 15 © 2013 Factiva, Inc. All rights reserved. 
+Intel sees DPS deal closing in 30-60 days. 
+Intel sees DPS deal closing in 30-60 days. 
+146 words 
+14 October 1999 
+13:27 
+Reuters News 
+LBA 
+English 
+(c) 1999 Reuters Limited 
+SAN FRANCISCO, Oct 14 (Reuters) - Intel Corp. president and chief executive Craig Barrett said he expects the 
+company's just-announced $1.6 billion deal to buy DSP Communications Inc. to close within 30 to 60 days. 
+"It will require government approval," Barrett told analysts and reporters on a conference call. "I don't suspect 
+there will be any second requests. I would expect it to close in a 30 to 60 day timeframe." 
+Intel said it is too early to determine what kind of a charge the company will take for the deal. Barrett expects all of 
+the company's recently announced acquisitions combined to be accretive to Intel's earnings early in the next 
+decade, but he was not more specific. 
+((therese.poletti@reuters.com, SF Bureau, 415/677-2542)). 
+(C) Reuters Limited 1999. 
+Document lba0000020010909dvae021w2
+
+Page 11 of 15 © 2013 Factiva, Inc. All rights reserved. 
+FULL TEXT-Intel to buy DSP Comm for $1.6 bln cash. 
+FULL TEXT-Intel to buy DSP Comm for $1.6 bln cash. 
+1,097 words 
+14 October 1999 
+08:49 
+Reuters News 
+LBA 
+English 
+(c) 1999 Reuters Limited 
+NEW YORK, Oct 14 (Reuters) - Intel Corp. will buy wireless telephone chip maker DSP Communications Inc. for 
+$1.6 billion in cash in Intel's latest move to move beyond its core chip business, the companies said on Thursday, 
+- PRESS RELEASE - 
+SANTA CLARA, Calif.-(BUSINESS WIRE)-Oct. 14, 1999-Intel Corporation and DSP Communications, Inc. 
+(NYSE: DSP) today announced the companies have entered into a definitive agreement under which Intel would 
+acquire DSP Communications, Inc (DSPC) for $36 a share in an all-cash tender offer valued at approximately 
+$1.6 billion. 
+DSPC is a leading supplier of solutions for digital cellular communications products. DSPC products enable new 
+generations of feature-rich, compact, lightweight wireless handsets by providing a complete solution, including 
+chipsets, reference design, software and other key technologies. 
+This acquisition is an important element of Intel's plan to become the leading building block supplier to the 
+Internet. In recent years, cellular telephone adoption has exploded on a worldwide basis. Cellular voice and data 
+applications are growing at a rapid pace and emerging cellular broadband data communications networks can 
+enable new Internet applications. In addition, cellular communication is expected to be integrated into new types 
+of Internet clients, such as handheld devices and mobile computers, which will include voice, data and Internet 
+access. 
+"DSPC brings tremendous experience in cellular digital and voice technologies which, when combined with Intel's 
+data and Internet expertise, will provide a more complete solution to the broad cellular market segment," said 
+Craig Barrett, president and chief executive officer of Intel. "Cellular technology is emerging as a new high-speed 
+method of connecting to the Internet and we believe over time will become increasingly important for connecting 
+PCs to the Internet." 
+"Combining DSPC's cellular expertise with Intel's semiconductor and data capabilities will create a leading 
+provider of cellular voice products, as well as establish voice and data solutions for the future," said Davidi Gilo, 
+chairman and chief executive officer of DSPC. "The industry needs suppliers that can deliver solutions such as 
+chipset, design and software to meet customers' cellular technology needs." 
+DSPC's cellular technology solutions allow cellular handset manufacturers to build better devices with superior 
+performance, high integration and the smallest form factors while significantly reducing power consumption, 
+time-to-market and overall system cost. DSPC provides expertise in digital cellular technologies for personal 
+digital cellular (PDC), time division multiple access (TDMA), code division multiple access (CDMA) and 
+third-generation (3G) standards. 
+Under the agreement, DSPC would become a wholly owned subsidiary of Intel reporting within Intel's Computing 
+Enhancement Group. DSPC employees will continue as employees of the new subsidiary. The companies do not 
+anticipate any immediate changes to their respective product lines and DSPC intends to continue delivering 
+products to customers under existing agreements, as well as maintain its existing manufacturing relationships. 
+The agreement provides for a cash tender offer to acquire all of the outstanding shares of DSPC common stock 
+at $36 per share, which will commence by Intel within five business days. The Board of Directors of DSPC has 
+approved the definitive agreement and has recommended that DSPC stockholders tender their shares pursuant 
+to the offer. Intel's obligations to accept shares tendered in the offer will be conditional upon the tender of a 
+majority of outstanding DSPC shares on a fully-diluted basis, regulatory approvals and other customary 
+conditions. The current and former chief executive officers of DSPC have agreed to tender their shares in the
+
+Page 12 of 15 © 2013 Factiva, Inc. All rights reserved. 
+offer. It is expected that all shares not purchased in the tender offer will be converted into the right to receive $36 
+per share in a second-step merger following the tender offer. 
+Headquartered in Silicon Valley, DSPC is a leading independent developer and supplier of form-fit reference 
+designs, chipsets and software to mobile phone manufacturers. DSPC develops, markets, licenses, and sells 
+application specific integrated circuits (ASICs) based on digital signal processing (DSP) technology, software 
+stacks, and reference design development kits for advanced wireless voice and data communications 
+applications. DSPC wireless technology products support leading global standards for CDMA, TDMA, and PDC, 
+and will also support emerging third generation (3G) standards such as Wideband CDMA and cdma2000. The 
+company's customers include Cadence, Denso, Kenwood, Kyocera, Kokusai, Lucent Technologies, Motorola, 
+NEC, Philips, Pioneer, SANYO, Sharp, and SK Teletech. DSPC maintains a presence worldwide with offices in 
+the United States, Japan, Israel, and Canada. DSPC stock is traded on the New York Stock Exchange under the 
+symbol DSP. For more information, please visit http://www.dspc.com. 
+Intel, the world's largest chip maker, is also a leading manufacturer of computer, networking and communications 
+products. Additional information about Intel is available at http://www.intel.com/pressroom. 
+This release contains forward-looking statements based on current expectations or beliefs, as well as a number of 
+assumptions about future events, and these statements are subject to factors and uncertainties that could cause 
+actual results to differ materially from those described in the forward-looking statements. The reader is cautioned 
+not to put undue reliance on these forward-looking statements, which are not a guarantee of future performance 
+and are subject to a number of uncertainties and other factors, many of which are outside the control of Intel and 
+DSPC. The forward-looking statements in this release address a variety of subjects including, for example, the 
+expected date of closing of the acquisition and the potential benefits of the merger. The following factors, among 
+others, could cause actual results to differ materially from those described in these forward-looking statements: 
+the risk that DSPC's business will not be successfully integrated with Intel's business; costs associated with the 
+merger; the successful completion of the tender; the inability to obtain the approval of DSPC's stockholders; 
+matters arising in connection with the parties' efforts to comply with applicable regulatory requirements relating to 
+the transaction; risks associated with entering into new market segments; and increased competition and 
+technological changes in the industries in which Intel and DSPC compete. For a detailed discussion of these and 
+other cautionary statements, please refer to Intel's and DSPC's filings with the Securities and Exchange 
+Commission, including their respective Annual Reports on Form 10-K for the year ended Dec. 26, 1998, for Intel, 
+and Dec. 31, 1998, for DSPC and their respective Quarterly Reports on Form 10-Q for the quarter ended March 
+27, 1999, for Intel and the quarter ended March 31, 1999, for DSPC. 
+(C) Reuters Limited 1999. 
+Document lba0000020010909dvae01v59
+
+Page 13 of 15 © 2013 Factiva, Inc. All rights reserved. 
+Intel To Acquire DSP Communications In $1.6 Billion Cash Deal 
+Intel To Acquire DSP Communications In $1.6 Billion Cash Deal 
+394 words 
+14 October 1999 
+08:49 
+Dow Jones Business News 
+DJON 
+English 
+(Copyright (c) 1999, Dow Jones & Company, Inc.) 
+SANTA CLARA, Calif. -(Dow Jones)- Extending its buying spree, semiconductor giant Intel Corp. Thursday said it 
+agreed to acquire DSP Communications Inc, a developer of chip sets and products for mobile-communications 
+services, for $1.6 billion in cash. 
+The deal calls for Intel (INTC) to pay $36 a share for all outstanding shares of Cupertino, Calif.-based DSP (DSP). 
+The offer represents a 29% premium to DSP's closing price Wednesday of $28 on the New York Stock Exchange. 
+At the close of trading Thursday, DSP shares were up $6.938, or 25%, at $34.938. Intel shares closed up $1.219, 
+at $73.344. 
+Under the agreement, DSP would become a wholly owned subsidiary of Intel, reporting within Intel's computing 
+enhancement group. DSP employees will continue as employees of the new subsidiary. 
+DSP specializes in so-called digital signal processing, or DSP, chip sets for wireless phones and other devices. 
+The company provides expertise in digital cellular technologies for personal digital cellular, or PDC, time division 
+multiple access, or TDMA, code division multiple access, or CDMA, and third-generation wireless phone 
+standards. DSP had 1998 net income of $29.4 million, on $131.1 million in revenue. 
+Intel said the DSP purchase is part of its move to become the leading building block supplier to the Internet. As it 
+searches for new growth, Intel is expanding beyond microprocessors into networking gear, server and 
+communication appliances, and Internet services. Each is designed to capitalize on the growth of the Internet. 
+"DSPC brings tremendous experience in cellular digital and voice technologies which, when combined with Intel's 
+data and Internet expertise, will provide a more complete solution to the broad cellular market segment," said 
+Craig Barrett, president and chief executive officer of Intel. "Cellular technology is emerging as a new high-speed 
+method of connecting to the Internet and we believe over time will become increasingly important for connecting 
+PCs to the Internet." 
+The deal follows Intel's disappointing earnings report Tuesday and last week's announcement that it will acquire 
+privately held IPivot Inc., a maker of networking equipment and software tailored for online-commerce 
+applications, for $500 million, extending the company's $4.5 billion acquisition spree this year. 
+Copyright (c) 1999 Dow Jones & Company, Inc. 
+All Rights Reserved. 
+Document djon000020020330dvae00472
+
+Page 14 of 15 © 2013 Factiva, Inc. All rights reserved. 
+Intel CEO -2: Internet Device Mkt A New 'Beachhead'>INTC 
+Intel CEO -2: Internet Device Mkt A New 'Beachhead'>INTC 
+By Christopher Grimes 
+336 words 
+14 October 1999 
+13:30 
+Dow Jones News Service 
+DJ 
+English 
+(Copyright (c) 1999, Dow Jones & Company, Inc.) 
+NEW YORK (Dow Jones)--Intel Corp. (INTC), anticipating an explosion in small devices that wirelessly connect to 
+the Internet, agreed to buy DSP Communications Inc. (DSP) for $1.6 billion in cash. 
+"The cellular communications market is bound to become much more important as we go forward," said Craig 
+Barrett, Intel's chief executive, in a conference call. "Our vision is that the Internet will increasingly go wireless." 
+DSP Communications develops software and chipsets that are used in cell phones. The company avoids direct 
+competition in the general DSP chip market with companies like Texas Instruments Inc. (TXN), Lucent 
+Technologies Inc. (LU) or Analog Devices Inc. (ADI). 
+While Barrett said Intel will pursue DSP's current cell phone business, he considers the emerging Internet device 
+market a "beachhead" to be conquered. 
+In a recent interview with Dow Jones Newswires, Barrett said Intel should have spotted the possiblity that wireless 
+could be the next big thing a few years ago. 
+"A couple of years ago, you could have anticipated that wireless was going to be increasingly in our future,," 
+Barrett said. "And Intel might have started a basic research effort in wireless." 
+Intel has been on an outright buying spree this year, spending more than $5 billion in areas well outside its 
+traditional PC chip business. It bought Level One Technologies for $2.42 billion to gain a foothold in the 
+networking and communications business. 
+Intel offered $36 a share for DSP Communications; the stock closed Wednesday at 28 and had a 52-week high of 
+32 5/8 in June. After the deal was announced, DSP shares soared 7 1/16, or 25.2%, to 35 1/8. The deal was 
+Intel's largest all-cash acquisition. 
+In the conference call, Barrett said he sees the deal closing within 30 to 60 days, and he said he didn't expect any 
+regulatory hurdles. 
+(MORE) DOW JONES NEWS 10-14-99 
+01:30 PM 
+Document dj00000020010827dvae06uj0
+
+Page 15 of 15 © 2013 Factiva, Inc. All rights reserved. 
+Intel eyes comms IC company. 
+Intel eyes comms IC company. 
+186 words 
+10 March 1999 
+Electronics Weekly 
+ELCWKY 
+4
+English 
+(c) 1999 Reed Business Information Not Available for Redissemination 
+Intel has signalled a new focus with its intention to acquire communications IC firm Level One Communications in 
+a $2.2bn deal. 
+One of Intel's largest acquisitions to date is surprising for it involves for the first time a traditional telecoms chip 
+supplier. 
+Intel CEO Craig Barrett said that the deal will provide Intel "with the silicon building blocks necessary to supply 
+the rapidly growing demands created by the Internet and e-commerce". 
+Intel had an alliance with Level One before deciding to acquire the company. Unlike Intel's previous investments 
+which are designed to help spur sales of microprocessors, this investment signals Intel's interest in developing 
+broadband communications and telecoms chips. It also hints at a concern at Intel about future growth in its 
+microprocessor business. 
+Intel is expected to follow up its Level One acquisition with a focus on developing fast communications ICs. 
+It recently announced a deal with Analog Devices to develop a new generation of DSP chips. Such chips would 
+be ideal for network communications applications. 
+Copyright Reed Business Information 1999 
+Not Available for Redissemination. 
+Document elcwky0020010904dv3a0002f 
+Search Summary 
+Text Craig Barrett AND DSP 
+Date 01/01/1990 to 01/01/2000 
+Source All Publications 
+Author All Authors 
+Company Intel Corp. 
+Subject Acquisitions/Mergers/Takeovers 
+Industry All Industries 
+Region All Regions 
+Language English
+

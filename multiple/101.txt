@@ -1,0 +1,656 @@
+Page 1 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Technology......................................................................................................................................................................2 
+Dell Buries Speculators Six Dollars Under ......................................................................................................................3 
+Heard on the Street / Financial Analysis and Commentary.............................................................................................5 
+Dell Inc . poised to acquire data storage provider ...........................................................................................................8 
+Dell boss says transformation is on way .........................................................................................................................9 
+Dell aims to acquire storage company ..........................................................................................................................10 
+RPT-EXCLUSIVE-UPDATE 2-Dell's CEO: transformation is on the way .....................................................................12 
+UPDATE 6-Dell offers nearly $1 bln to buy Compellent................................................................................................14 
+HEARD ON THE STREET: Dell Buries Speculators Six Dollars Under........................................................................16 
+Deals offer Dell many paths to grow --- Though H-P won bidding war for 3PAR, PC maker has other options for 
+branching out beyond its core... ....................................................................................................................................17 
+Dell to acquire EqualLogic, provider of iSCSI SAN solutions for virtualised IT environments, for $1.4bn in cash............ 
+19 
+Compellent Issues Statements on Dell Decision to Acquire EqualLogic.......................................................................21
+
+Page 2 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Technology
+FB Business, Technology 
+Technology 
+104 words 
+11 December 2010 
+South China Morning Post 
+SCMP 
+1
+English 
+(c) 2010 South China Morning Post Publishers Limited, Hong Kong. All rights reserved. 
+Dell chief pins hopes on acquisitions 
+Dell's chief executive wants to drive the acquisitions that will prove crucial to its long-term future. But he says 
+firmly he will not pay unreasonable prices for the new pieces. Nearly four years into Michael Dell's second stint 
+as chief executive, the company finds itself lagging larger rivals in the race to become one-stop shops for 
+corporate IT needs. In a move to expand its presence in cloud computing, Dell is bidding for storage specialists 
+Compellent Technologies in a deal valued at close to US$1 billion. Full report B4 
+Document SCMP000020101210e6cb0001b
+
+Page 3 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Dell Buries Speculators Six Dollars Under 
+Heard on the Street 
+Dell Buries Speculators Six Dollars Under 
+By Rolfe Winkler 
+316 words 
+10 December 2010 
+The Wall Street Journal 
+J
+C12 
+English 
+(Copyright (c) 2010, Dow Jones & Company, Inc.) 
+[Financial Analysis and Commentary] 
+Michael Dell should try his hand at Texas Hold 'Em. He clearly has the nerve to call a bluff. 
+Dell's likely $27.50 take-under offer for storage-firm Compellent Technologies is an 18% discount to 
+Wednesday's $33.65 close. After rich bids for 3Par and Isilon Systems, Dell is restoring some sense to the hyped 
+sector. For investors, it's a reminder to keep their heads, even when a company looks a clear target. 
+Entering the week, Compellent shares were up 140% since Dell's failed 3Par bid lit a fire under the sector in 
+August. Compellent's finance chief then begged off a technology conference, sending takeover speculation into 
+overdrive. 
+But Dell and Compellent reined in price expectations Thursday with a joint statement of deal talks pitched well 
+below the market price. 
+That would mean a valuation of four times next year's revenue, says Stifel Nicolaus analyst Aaron Rakers. 3Par 
+and Isilon sold for double that to Hewlett-Packard and EMC. 
+With shares trading about 6% above the suggested offer price, speculators haven't folded just yet. But Dell is 
+playing a solid hand. Given rivals H-P and EMC already have sealed storage deals, there are few obvious buyers 
+for midrange storage specialist Compellent, which isn't as desirable as high-end 3Par or Isilon. 
+Dell would be settling for a less-attractive option. But Gartner analyst Roger Cox says that selling its own 
+midrange product, rather than continuing to resell one of EMC's, could help Dell's gross margins in the business 
+to triple. 
+Dell still faces an uphill battle against larger rivals with more complete product portfolios, but investors should take 
+comfort it isn't going all-in with their precious capital.
+
+Page 4 of 22 © 2013 Factiva, Inc. All rights reserved. 
+License this article from Dow Jones Reprint Service 
+Document J000000020101210e6ca0000t
+
+Page 5 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Heard on the Street / Financial Analysis and Commentary 
+Heard on the Street / Financial Analysis and Commentary 
+1,313 words 
+10 December 2010 
+The Wall Street Journal Europe 
+WSJE 
+32 
+English 
+(Copyright (c) 2010, Dow Jones & Company, Inc.) 
+Fed's success is in the eye of the investor 
+Define "failure." That is important in assessing the Federal Reserve's latest bond-buying program and the 
+accompanying surge in Treasury yields. 
+Measured by one ostensible goal of lowering interest rates, the program has flopped. The yield on 10-year 
+Treasurys has risen about 0.7 percentage point since the Fed in early November announced it would purchase 
+$600 billion worth of Treasurys. For investors, that means the value of the bonds has dropped nearly 5.5%, while 
+the price of the 30-year bond, which is more sensitive to changes in yield because of its longer duration, has 
+fallen more than 7%. 
+But the ultimate goal of lower rates was to boost economic growth. In that sense, the Fed's drastic actions were a 
+form of economic insurance -- or a huge roll of the dice, depending on your point of view. When it comes to 
+bolstering growth prospects, or at least investors' belief in them, the Fed may earn a better grade. 
+As the Fed formalized its plan to buy government bonds, the economy was likely beginning to gather some steam 
+after a summer slowdown. Yet that was far from certain. The Fed wanted to reinflate asset prices in a bid to juice 
+confidence. And it was keen to act quickly because it saw no fiscal stimulus for the economy from a gridlocked 
+Congress. 
+The economy has since shown signs of improvement, and a tax-cut compromise is at hand, though there is still 
+some uncertainty about whether congressional Democrats will go along with it. Not only would that avoid the 
+economic drag from an effective tax increase, but the political deal includes what TD Securities estimates is an 
+additional $300 billion in fiscal stimulus. That comes from a payroll-tax cut and other measures markets hadn't 
+expected. 
+If investors are pushing Treasury yields higher because they believe better economic days are indeed ahead, and 
+stocks and other assets are rising in value, that is the kind of failure the Fed can probably live with. In fact, its 
+bond buying last year pushed Treasury yields sharply higher. They slumped again shortly after the buying ended. 
+The danger is that fears of deflation are overblown and the Fed needlessly jumped the gun, eroding its credibility. 
+Any loss of credibility, hard-won under Paul Volcker, wouldn't bode well if investors push yields even higher in 
+anticipation of rising inflation. Such a move could start to again drag on economic growth. If its words start to 
+carry less weight, the Fed would have to act more aggressively. 
+Equally worrying is the thought politicians will take advantage of the Fed's commitment to money printing to avoid 
+dealing with runaway deficits. In the first six months of next year, the Fed's bond buying should be roughly 
+equivalent to net issuance of Treasurys, according to FTN Financial. That is a scary thought indeed, both for 
+investors and the Fed. 
+-- David Reilly 
+It's a pipe dream for insurers in China 
+Is China the promised land for insurers? Back in 2001, when restrictions on foreign firms were lifted, it certainly 
+looked that way. But the industry's high hopes are waning. 
+Dutch insurer Aegon will restructure its loss-making Asian business. Aegon still sees opportunity in China, but for 
+the bulk of foreign insurers, turning a profit there will be a struggle.
+
+Page 6 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Chinese opportunities appear mouth-watering. Insurance penetration is low. China is already the world's 
+sixth-largest insurance market by premiums, with annual growth of 15% expected in coming years. 
+But foreign insurers' operations there are restricted. Virtually all must operate in a joint venture with a local 
+partner. Domestic firms can apply for national licenses; foreign players must apply to expand separately in 
+different regions. The combined market share of foreign life insurers is just 5%; that of property and casualty 
+insurers is just 1%. Both figures have fallen in the last five years. 
+Some insurers are happy with a small slice of a very large pie. But competition is fierce: 27 foreign life companies 
+and 18 property-and-casualty players compete with home-grown behemoths such as China Life Insurance and 
+Ping An Insurance. 
+No major foreign firms have pulled out of China to date, but many are considering their options. Foreign insurers 
+expect no imminent growth in their market share. They anticipate greater competition from banks, which are 
+gradually entering the insurance market. And the majority of foreign firms PricewaterhouseCoopers surveyed in 
+September said they believed their Chinese partners would like to leave the joint venture. 
+Foreign insurers' best bet might be to own a minority stake in a less-fettered local operator, as Zurich Financial 
+Services and Ageas do. Alternatively, some areas of the market, such as reinsurance, enjoy fewer restrictions 
+than life or general insurance. But for the majority of foreign players, dreams of Chinese profits will remain just 
+that. 
+-- Hester Plumridge 
+Dell buries 
+speculators six 
+dollars under 
+Michael Dell should try his hand at Texas Hold 'Em. He clearly has the nerve to call a bluff. 
+Dell's potential $27.50 take-under offer for storage-firm Compellent Technologies comes at a whopping 18% 
+discount to Wednesday's close. After blowout bids for 3Par and Isilon Systems, Dell is reinjecting some sense 
+into the hyped sector. For investors, it is a reminder not to get carried away by takeover talk. 
+At the start of this week, Compellent shares already were up 140% since Dell's original 3Par bid lit a fire under the 
+sector in August. Then Compellent's finance chief suddenly canceled an engagement at a technology conference, 
+and speculators pushed the stock even higher, expecting an imminent deal. 
+But Dell and Compellent reined in price expectations with a joint statement of deal talks pitched well below the 
+market price. 
+That would mean a relatively sober valuation of four times next year's revenue, says Stifel Nicolaus analyst Aaron 
+Rakers. 3Par and Isilon sold for double that to Hewlett-Packard and EMC. 
+With shares trading about 6% above the suggested offer price, speculators haven't folded just yet. But Dell is 
+playing a solid hand. Given that rivals H-P and EMC already have agreed to storage deals, there are few obvious 
+buyers for midrange storage specialist Compellent, which isn't as desirable as higher-end rivals 3Par or Isilon, 
+anyway. 
+Dell would be settling for a less-attractive option. But Gartner analyst Roger Cox says that selling its own 
+midrange product, rather than continuing to resell one of EMC's, could help Dell's gross margins in the business 
+to triple. 
+Dell still faces an uphill battle against larger rivals with more complete product portfolios, but investors should take 
+comfort it isn't going all-in with their precious capital. 
+-- Rolfe Winkler 
+Overheard
+
+Page 7 of 22 © 2013 Factiva, Inc. All rights reserved. 
+The 1987 "Wall Street" film sparked a sequel this fall. Has it now spawned a real-life copycat? The SEC has 
+charged a business consultant and his uncle with trading on inside knowledge, distributed using coded language 
+like that used in "Wall Street" -- a movie about insider trading gone bad. 
+Brett A. Cohen and his uncle David V. Myers allegedly received inside information from Cohen's fraternity brother, 
+who was tipped off by his actual brother about a deal at biotech firm Sequenom. Lawyers for Mr. Cohen and Mr. 
+Myers didn't return calls seeking comment. An email to Cohen asked, "[a]ny word related to Blu H@rsesh0e? La 
+Jolla says the times are ripe." In "Wall Street," the phrase "Blue Horseshoe loves Anacott Steel" is used. The frat 
+brother's brother lived and worked near La Jolla, Calif. When trying to dodge the SEC, perhaps keeping it in the 
+family isn't enough. 
+License this article from Dow Jones Reprint Service 
+Document WSJE000020101210e6ca0000n
+
+Page 8 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Dell Inc . poised to acquire data storage provider 
+BUSINESS 
+Dell Inc. poised to acquire data storage provider 
+Associated Press 
+188 words 
+10 December 2010 
+Tulsa World 
+TUL 
+FINAL 
+E1 
+English 
+© 2010 World Publishing Company. Provided by ProQuest Information and Learning. All rights reserved. 
+Dell Inc. said Thursday it's close to acquiring data storage provider Compellent Technologies Inc. for about 
+$876 million. 
+The move would extend a recent string of deals in the data- storage industry as tech firms position themselves to 
+help big companies and government agencies deal with ever increasing amounts of digital information. 
+Round Rock, Texas-based Dell, historically a computer maker, is among many companies with an eye on cloud 
+computing - seen as the next area of rapid growth and sweeter profits in the tech industry. 
+"Dell is clearly changing as a business and evolving into much more of an IT solutions provider," Chairman and 
+CEO Michael Dell said. "If you think about five years ago, we would have a series of ingredients that we would 
+sell to customers - notebooks, desktops, servers. Those are all kind of necessary ingredients. 
+"But where Dell is actually evolving is much more as a solutions provider. And to do that, we need many more 
+new capabilities and ingredient technologies and intellectual property." 
+Compellent Technologies is based in Eden Prairie, Minn. 
+Document TUL0000020101211e6ca0001y
+
+Page 9 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Dell boss says transformation is on way 
+Dell boss says transformation is on way 
+355 words 
+10 December 2010 
+Business and Finance Daily News Service 
+BNFD 
+English 
+Copyright (c) 2010, Media World Ltd 
+Dell's billionaire chief executive has said he wants to drive acquisitions in order to secure the long-term future fo 
+the firm. 
+But he has also warned that he will not pay unreasonable prices for acquisitions, citing increasingly frothy 
+technology valuations. 
+Nearly four years into Michael Dell's second stint as chief executive, the company finds itself lagging larger rivals 
+like Hewlett Packard and IBM in the race to become one-stop shops for corporate IT needs. 
+In a major move to expand its presence in the hot area of cloud computing, Dell has announced that it is bidding 
+for storage specialists Compellent Technologies in a deal valued at close to USD 1bn. Dell says the company is 
+indeed becoming more diversified, and wants to be a major player in both data center equipment and the 
+fast-growing mobile market. "Five or 10 years ago people would say Dell is a PC company. Well, news flash -- 
+most of our margin and profit doesn't come from PCs. I don't think people get that," Dell has said in a rare, 
+exclusive interview. "Margins are going in the right direction, the mix of the business is shifting in a pretty 
+considerable way, the picture is starting to emerge more clearly what Dell is becoming." Asked what the Dell of 
+the future might look like, he downplayed the role of individual product categories, which he called "ingredients" in 
+a broader IT menu. Once the world's top PC maker and a mainstay of business-school case studies, Dell has 
+shed market share and now vies with Acer for second place. More than half its business still comes from selling 
+low-margin, commodity PCs. But Michael Dell has made no secret he is determined to diversify the company into 
+more profitable areas -- such as software, services and storage. The CEO who started out upgrading PCs from 
+his college dorm room acknowledged that plenty of work still lay ahead to compete with rivals like IBM, HP and 
+Apple. "It takes time, but clearly the company is changing," he said. (c) Reuters 
+Document BNFD000020101210e6ca0000b
+
+Page 10 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Dell aims to acquire storage company 
+Dell aims to acquire storage company 
+Kirk Ladendorf 
+651 words 
+10 December 2010 
+Austin American-Statesman 
+AAS 
+Final 
+B7 
+English 
+© 2010 Austin American Statesman. Provided by ProQuest Information and Learning. All Rights Reserved. 
+Dell Inc., which was thwarted in efforts to make an major acquisition in September, announced Thursday that it 
+has offered $876 million for another company, Compellent Technologies Inc., a storage solutions company 
+based in Eden Prairie, Minn. 
+Dell said it had offered $27.50 a share for Compellent and added that it is "in advanced discussions regarding a 
+possible business combination of the two companies." 
+The offer was well below Compellent's market price of $33.65 at the end of Wednesday. Its stock dropped $4.61 
+a share, or 13.7 percent, to close at $29.04 a share Thursday. Analysts said investor speculation had driven up 
+Compellent's stock because of recent purchases of storage technology companies for premium prices. 
+Compellent's stock price had doubled in the three months before Thursday's announcement. 
+The offer is Dell's first sizable acquisition move since it fell short in its bidding war with Hewlett-Packard Co. for 
+storage vendor 3PAR Inc. in September. H-P's winning bid for that company was nearly $2.4 billion. Dell offered 
+little comment on the deal, but CEO Michael Dell said the company expects to make several acquisitions a year 
+as it adds to its strengths in promising new areas of information technology. 
+"We need many more new capabilities and ingredients and technologies and intellectual property," Dell said at a 
+briefing of international journalists Thursday in Round Rock. "We have been buying eight or so companies a year, 
+and I think you will see us continue to do that in areas where we see inflection points in technology where there is 
+a lot of value that can be created for customers." 
+Such areas, he said, include resource sharing in data centers, cloud computing services and mobile computing, 
+among others. 
+Dell is unlikely to face a bidding war for Compellent, analysts said, because other storage companies, including 
+H-P and EMC Corp., already have invested heavily in that area in recent months. 
+"This is not a transformational acquisition for Dell, but it is a step in the right direction," said Ashok Kumar with 
+Rodman & Renshaw. "They need to deepen their portfolio. Compellent is not the pick of the litter by any stretch, 
+not even close. We don't expect a white knight (another bidder) to come in for Compellent. The company has 
+been shopped around for some time and the other players have already made their moves in storage. 
+"There are no other suitors for Compellent, so Dell is the last option for them." 
+Analyst Rob Enderle with the Enderle Group said Dell, like other large computer-makers, is trying to become a 
+"one-stop shop" offering a variety of products and services to business customers. 
+Dell has strengths that make it well-suited for midsize businesses. Dell considers midtier customers to be those 
+with between 100 and 5,000 employees. 
+"This market requires unique products that are less complex and easier to install and less costly than the typical 
+products that folks generally attempt to sell in this segment," Enderle said. "Dell continues to be willing to buy 
+companies at reasonable prices to fill out its portfolio." 
+The trend in information technology is to offer a wider range of products and services and for vendors like Dell to 
+gain more "account control" over the total spending on technology that their customers make, Enderle said. 
+Compellent, founded in 2002, has 450 workers and reported a profit of $2.4 million on revenue of $110.4 million 
+through the first three quarters of this year.
+
+Page 11 of 22 © 2013 Factiva, Inc. All rights reserved. 
+The company makes a range of data storage systems that enable customers to efficiently make better use of 
+storage hardware while keeping track of important business data. Its customers include the Federal Bureau of 
+Investigation and Savvis Inc., a leading player in computer hosting services. 
+kladendorf@statesman,com; 445-3622 
+Document AAS0000020101213e6ca00009
+
+Page 12 of 22 © 2013 Factiva, Inc. All rights reserved. 
+RPT-EXCLUSIVE-UPDATE 2-Dell's CEO: transformation is on the way 
+RPT-EXCLUSIVE-UPDATE 2-Dell's CEO: transformation is on the way 
+963 words 
+9 December 2010 
+21:00 
+Reuters News 
+LBA 
+English 
+(c) 2010 Reuters Limited 
+(Changes headline tag to EXCLUSIVE to reflect nature of the interview) 
+* Company moving in right direction - CEO 
+* Sees bubble in smaller tech company valuations 
+* Opportunity with small and medium-sized businesses 
+* Wants to be a player in smartphones, tablets (Revises first sentence; adds comments by Michael Dell and 
+other Dell executive, company background) 
+By Gabriel Madway 
+ROUND ROCK, Texas, Dec 9 (Reuters) - Dell Inc's billionaire chief executive, arguing that his efforts to transform 
+his company have gone unnoticed by some on Wall Street, wants to drive the acquisitions that will prove crucial 
+to its long-term future. 
+But he is also starting to see warning signs of increasingly frothy technology valuations, and said firmly he will not 
+pay unreasonable prices to acquire new pieces. 
+Nearly four years into Michael Dell's second stint as chief executive, the company finds itself lagging larger rivals 
+like Hewlett Packard Co and International Business Machines Corp in the race to become one-stop shops for 
+corporate IT needs. 
+In a major move to expand its presence in the hot area of cloud computing, Dell announced it is bidding for 
+storage specialists Compellent Technologies Inc in a deal valued at close to $1 billion. [ID:nN09223816] 
+Dell says the company is indeed becoming more diversified, and wants to be a major player in both data center 
+equipment and the fast-growing mobile market. 
+"Five or 10 years ago people would say Dell is a PC company. Well, news flash -- most of our margin and profit 
+doesn't come from PCs. I don't think people get that," Dell said in a rare, exclusive interview on Thursday. 
+"Margins are going in the right direction, the mix of the business is shifting in a pretty considerable way, the 
+picture is starting to emerge more clearly what Dell is becoming." 
+Asked what the Dell of the future might look like, he downplayed the role of individual product categories, which 
+he called "ingredients" in a broader IT menu. 
+RIGHTING THE SHIP 
+Once the world's top PC maker and a mainstay of business-school case studies, Dell has shed market share and 
+now vies with Acer Inc for second place. 
+More than half its business still comes from selling low-margin, commodity PCs. But Michael Dell has made no 
+secret he is determined to diversify the company into more profitable areas -- such as software, services and 
+storage. 
+The CEO who started out upgrading PCs from his college dorm room acknowledged that plenty of work still lay 
+ahead to compete with rivals like IBM, HP and Apple Inc .
+
+Page 13 of 22 © 2013 Factiva, Inc. All rights reserved. 
+"It takes time, but clearly the company is changing," he said. 
+Dell was presiding over an event at corporate headquarters to promote what he sees as a major opportunity 
+selling equipment and services to small- and medium-sized businesses, a segment often overlooked by investors 
+but which makes up roughly a quarter of sales and a third of operating income. 
+"Dell has an enormous channel that can sell to these customers, and this is also where all the growth is," said 
+Dell, who founded the company in the 1980s while still a college student. 
+Steve Felice, who leads Dell's mid-market business, said such companies are the largest group of spenders on 
+IT. 
+"They're often ignored from a technology standpoint," he said. 
+NEEDS MORE CONVINCING? 
+Michael Dell stepped down as CEO in 2004, but returned in early 2007 to try to revive his company, which 
+remained too dependent on PC sales as the market matured. 
+Dell raised its yearly profit outlook last month, but investors will need more convincing before they grant the 
+company a higher multiple. [ID:nN18114219] 
+Since Michael Dell reassumed the helm, the company has had its ups and downs, amid deep job cuts and 
+restructuring. But Dell pointed to the strong third-quarter results and said the company is now hiring thousands, 
+though he expressed surprise it cannot find enough qualified people to fill vacancies. 
+To help drive growth, it has also launched a major push into mobile devices, introducing both a smartphone and a 
+tablet, although analysts say that effort has failed to gain traction thus far. 
+"It's early stages for us. We've got a lot more products planned next year, particularly as the tablet comes into the 
+mainstream here," he said. 
+He noted that the company has been acquiring around eight companies a year, a big change from a decade ago, 
+when the company did not engage in M&A. 
+"We're absolutely changing our role in the industry," he said. "At the extreme, you could have said Dell started out 
+as more of distributor, and now you see Dell as an IP owner," he said, referring to intellectual property. 
+The company's purchase of storage company EqualLogic in 2008 is widely deemed successful. But the jury is still 
+out on last year's acquisition of services company Perot Systems, its biggest-ever purchase. Dell lost out to HP 
+this year in a dramatic bidding war for storage company 3Par. 
+With roughly $14 billion in cash and investments, Dell has a considerable war chest at its disposal, and still plans 
+to be aggressive in adding pieces to its business. But Michael Dell saw some froth in valuations, and the 
+company will be disciplined. 
+"We don't have to go buy companies, and if the valuations aren't reasonable, we're not going to buy them," he 
+said. 
+Shares of Round Rock, Texas-based Dell slipped 0.2 percent to close at $13.65 on Thursday. (Reporting by 
+Gabriel Madway; Editing by Edwin Chan and Matthew Lewis) 
+DELL/ (EXCLUSIVE, INTERVIEW, UPDATE 2, REPEAT)|LANGEN|ABN|E|RBN|U|Z 
+Document LBA0000020101210e6ca00032
+
+Page 14 of 22 © 2013 Factiva, Inc. All rights reserved. 
+UPDATE 6-Dell offers nearly $1 bln to buy Compellent 
+UPDATE 6-Dell offers nearly $1 bln to buy Compellent 
+873 words 
+9 December 2010 
+08:56 
+Reuters News 
+LBA 
+English 
+(c) 2010 Reuters Limited 
+* Dell offers $27.50 per share for data storage company 
+* In exclusive agreement to negotiate a deal 
+* Offer below Compellent's Wednesday close after big runup 
+* Valued around 5 times sales, cheaper than 3PAR or Isilon 
+* Compellent shares fall nearly 14 pct to $29.04 (Adds names of financial advisors in penultimate paragraph) 
+By Ritsuko Ando and Nadia Damouni 
+NEW YORK, Dec 9 (Reuters) - Dell Inc offered to buy data storage company Compellent Technologies Inc for 
+nearly $1 billion to expand beyond PCs and catch up with rivals Hewlett-Packard Co and IBM in new technologies 
+like cloud computing. 
+Three months after losing out to HP in a bidding war for another storage firm, 3Par, Dell said on Thursday it is 
+bidding $27.50 a share for Compellent. 
+That was an 18 percent discount from Compellent's closing Nasdaq price on Wednesday, although the shares 
+had already risen 90 percent since late October when Reuters reported that a deal was being discussed. 
+Speculation also heated up earlier this week after the company backed out of a Barclays technology conference. 
+Compellent shares closed Thursday down 13.7 percent at $29.04, but were still above Dell's bid, indicating some 
+investors expect a higher bid could emerge. Dell shares were little changed, ending down 3 cents at $13.65. 
+Dell entered an exclusive agreement with Compellent to negotiate a merger, and the companies said they were 
+holding "advanced discussions." They added there could be no assurance that they would reach a deal. 
+But a source familiar with the matter said both parties were pleased with the price. "The deal was inked at $27.50 
+and both parties wanted a deal at that price," the source said. 
+Dell, HP, and International Business Machines have all been pursuing acquisitions in the past year in an attempt 
+to position themselves for an economic recovery and become "one stop shops" for corporate clients' technology 
+needs. 
+Dell founder and chief executive Michael Dell told Reuters in an interview on Thursday that his company's efforts 
+to transform from its roots as a computer maker have gone unnoticed by some on Wall Street. 
+He said most of Dell's margin and profit now comes from areas other than PCs. "I don't think people get that." 
+[ID:nN09288163] 
+But some analysts say that even with a successful Compellent deal, Dell has far to go in catching up with HP and 
+IBM in areas like cloud computing. (For a graphic on recent cloud-computing deals, click on: 
+http://r.reuters.com/wum49q ) 
+Data storage plays a crucial role in cloud computing, the accessing of remote computing power and data over the 
+Internet. Dell entered this market in 2008 with its purchase of EqualLogic.
+
+Page 15 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Eden Prairie, Minnesota-based Compellent specializes in storage and recovery of data for small and 
+medium-sized businesses, compared to the high end business targeted by 3PAR. 
+CHEAPER THAN 3PAR 
+The Compellent deal appears to be a consolation prize for Dell, which lost 3PAR to HP in September. Some 
+analysts had said HP's final offer of over $2 billion for 3PAR was excessive, driven by the heated bidding war. 
+The source said the bid valued Compellent at $946 million, around five times sales, compared to multiples of over 
+eight that HP offered for 3PAR and EMC offered for Isilon . 
+While some analysts said Dell did well to settle for the more affordable option, others said Compellent, unlike 
+3PAR, was not capable of addressing the needs of customers with large data centers. 
+"For Dell, it does nothing to help answer some of the big questions that investors have about its strategy in cloud 
+computing," said Canaccord Genuity analyst Paul Mansky, whose target price of $27.50 was matched exactly by 
+Dell's offer. 
+"Dell's going to have to do one of two things. It's either going to have to look at private companies which are by 
+definition not as big in terms of an installed base, or you're going to have to seriously consider new partnerships." 
+The recent data storage deals have left few potential acquisition targets in the sector, although CommVault 
+Systems Inc as well as privately held Pillar Data Systems and DataDirect Networks are also seen as potential 
+targets. 
+Some analysts and bankers say NetApp Inc could also be a target, but at a market capitalization of nearly $20 
+billion, they say it could be too big and the major technology companies have already bought storage 
+technologies. 
+IBM in September announced a deal to buy data analytics company Netezza for $1.7 billion. 
+Morgan Stanley and Blackstone Group advised Compellent, while UBS advised Dell, the source said. Compellent 
+held preliminary meetings with Frank Quattrone's Qatalyst Partners, which advised 3Par when it was courted by 
+HP and Dell, but did not retain them, said the source. 
+Dell and Compellent said they do not plan to comment further until an agreement is reached or discussions are 
+ended. (Additional reporting by Sinead Carew in New York and Gabriel Madway in Round Rock, Texas; Editing 
+by Derek Caney and Tim Dobbyn) 
+COMPELLENT/DELL (UPDATE 6)|LANGEN|ABN|E|RBN|U|RNP|DNP|PCO 
+Document LBA0000020101209e6c9000z9
+
+Page 16 of 22 © 2013 Factiva, Inc. All rights reserved. 
+HEARD ON THE STREET: Dell Buries Speculators Six Dollars Under 
+HEARD ON THE STREET: Dell Buries Speculators Six Dollars Under 
+By Rolfe Winkler 
+A DOW JONES COLUMN 
+440 words 
+9 December 2010 
+15:09 
+Dow Jones News Service 
+DJ 
+English 
+(c) 2010 Dow Jones & Company, Inc. 
+Michael Dell should try his hand at Texas Hold 'Em; he clearly has the nerve to call a bluff. 
+Dell's potential $27.50 take-under offer for storage-firm Compellent Technologies comes at a whopping 18% 
+discount to Wednesday's close. After blowout bids for 3Par and Isilon Systems, Dell is reinjecting some sense 
+into the hyped sector. For investors, it's a reminder not to get carried away by takeover talk. 
+At the start of this week, Compellent shares were already up 140% since Dell's original 3Par bid lit a fire under the 
+sector in August. Then Compellent's finance chief suddenly canceled an engagement at a technology conference, 
+and speculators pushed the stock even higher, expecting an imminent deal. 
+But Dell and Compellent reined in price expectations with a joint statement of deal talks pitched well below the 
+market price. That would mean a relatively sober valuation of four times next year's revenue, says Stifel Nicolaus 
+analyst Aaron Rakers. 3Par and Isilon sold for double that to Hewlett-Packard and EMC. 
+With shares trading about 6% above the suggested offer price, speculators haven't folded just yet. But Dell is 
+playing a solid hand. Given that rivals H-P and EMC have already agreed to storage deals, there are few obvious 
+buyers for midrange storage specialist Compellent, which isn't as desirable as higher-end rivals 3Par or Isilon, 
+anyway. 
+Dell would be settling for a less-attractive option. But Gartner analyst Roger Cox says that selling its own 
+midrange product, rather than continuing to resell one of EMC's, could help Dell's gross margins in the business 
+triple. 
+Dell still faces an uphill battle against larger rivals with more complete product portfolios, but investors should take 
+comfort it isn't going all-in with their precious capital. 
+(Rolfe Winkler joined The Wall Street Journal from ThomsonReuters, where he wrote commentary on finance and 
+economics. Previously, he was an analyst at Matador Capital Management, a long-short U.S. equity hedge fund. 
+He can be reached at 212-416-3025 or by email at rolfe.winkler@wsj.com) 
+(TALK BACK: We invite readers to send us comments on this or other financial news topics. Please email us at 
+TalkbackAmericas@dowjones.com. Readers should include their full names, work or home addresses and 
+telephone numbers for verification purposes. We reserve the right to edit and publish your comments along with 
+your name; we reserve the right not to publish reader comments.) [ 12-09-10 1509ET ] 
+5090 
+Document DJ00000020101209e6c9000io
+
+Page 17 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Deals offer Dell many paths to grow --- Though H-P won bidding war for 3PAR, PC maker has other options for branching out beyond its core... 
+Deals offer Dell many paths to grow --- Though H-P won bidding war for 3PAR, PC maker has other 
+options for branching out beyond its core business 
+By Ben Worthen 
+737 words 
+8 September 2010 
+The Wall Street Journal Europe 
+WSJE 
+21 
+English 
+(Copyright (c) 2010, Dow Jones & Company, Inc.) 
+Dell Inc. may have lost out to Hewlett-Packard Co. last week in its bid to acquire storage maker 3PAR Inc., but 
+the company has other options as it looks to expand beyond its core personal-computer business. 
+While Dell could potentially pursue another maker of data-storage systems, such as Compellent Technologies 
+Inc. or Isilon Systems Inc., which have products similar to 3PAR's, the PC maker could benefit just as much by 
+spending some of its $12.4 billion of cash on technology companies that specialize in other fields, analysts said. 
+They added that Dell will need to make several deals if it wants to achieve its goal of becoming a one-stop 
+technology shop for businesses. 
+"It's not like 3PAR is the one shot that would have gotten them there," said Rob Cihra, an analyst at Caris & Co. 
+"It would have been one of many." 
+Interest in Dell's next moves has grown since the company withdrew Thursday from the bidding battle for 3PAR, a 
+storage company in the fast-growing field of "cloud computing," after H-P raised its bid to $2.1 billion, far above 
+Dell's original offer of $1.1 billion on Aug. 16. 
+The loss of 3PAR is a blow to Dell Chief Executive Michael Dell's strategy to transform the company from a 
+computer distributor to a broader supplier of technology to businesses. Since Mr. Dell returned as CEO in 2007, 
+the Round Rock, Texas, company has bolstered its server and networking business and added new storage and 
+software products to its catalog, among other moves. 
+Dell has relied in part on acquisitions, including a $1.4 billion deal for closely held storage maker EqualLogic Inc. 
+in 2007 and a $3.9 billion purchase of service provider Perot Systems Corp. in 2009. Last year Mr. Dell recruited 
+Dave Johnson, a top mergers-and-acquisitions executive at International Business Machines Corp., to beef up 
+M&A expertise at Dell. 
+Dell declined to comment on its strategy or to make executives available for interviews. 
+Dell still has plenty of other companies it could acquire. While 3PAR's product is considered the top of the line in 
+the storage field, companies such as Compellent, Isilon or Comm Vault Systems Inc. make technology that could 
+help round out Dell's storage portfolio, analysts said. 
+A spokesman for Compellent said the 3PAR acquisition "validates" his company's strategy. An Isilon spokesman 
+would say only that Isilon is committed to providing products for its customers. CommVault didn't respond to a 
+request for comment. 
+Dell could choose to expand its presence in other businesses, such as by buying another services firm or a 
+software maker, said Rick Villars, an analyst at research company IDC. All of these businesses are more 
+profitable than the company's core PC operations, which is a big reason that Dell keeps looking to diversify. 
+Indeed, the percentage of Dell's revenue from PCs has declined steadily since Mr. Dell's return. In fiscal 2007, PC 
+sales accounted for 61% of Dell's $57.4 billion in total sales. Through the latest fiscal first half ended July 30, PC 
+sales were 55% of Dell's $30.4 billion in sales.
+
+Page 18 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Today, the fastest-growing part of Dell's business is its services organization, whose revenue jumped 55% to $3.8 
+billion in the six months ended July 30 from $2.5 billion a year earlier, and servers and networking, where revenue 
+rose 37% to $3.7 billion over the period from $2.7 billion the year before. 
+By contrast, Dell's consumer-PC business lost $4 million over the past six months, while overall sales of $8.8 
+billion to large businesses added $571 million to the company's bottom line. 
+Dell can acquire several new technologies for the $2.5 billion or so it would have had to spend to acquire 3PAR, 
+said Steve Dupliese, an analyst at research company Enterprise Strategy Group. 
+The company could benefit from buying small companies with limited distribution for their products because its 
+sales force and reseller agreements would allow it to take those products to a broader audience, Mr. Dupliese 
+said. 
+License this article from Dow Jones Reprint Service 
+Document WSJE000020100908e6980001c
+
+Page 19 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Dell to acquire EqualLogic, provider of iSCSI SAN solutions for virtualised IT environments, for $1.4bn in cash 
+Dell to acquire EqualLogic, provider of iSCSI SAN solutions for virtualised IT environments, for $1.4bn in 
+cash 
+472 words 
+6 November 2007 
+Optical Networks Daily 
+OBSERV 
+English 
+(c) 2007 Electronics International Disclaimer: Whilst every effort has been taken to ensure the accuracy of the 
+information contained in this report, neither Electronics International nor its agents or sources can be held 
+responsible for any inaccuracy. 
+November 5th Dell of Round Rock, Texas, the world's second largest PC producer, capitalised at around $67 
+billion and with a workforce of over 83,000, which offers products and services including: 
+a. Desktop computer systems and workstations. 
+b. Mobility products consisting of notebook computers, mobile workstations and MP3 players. 
+c. Software and peripherals. 
+d. Servers, networking products and storage devices. 
+e. Services including infrastructure consulting, deployment, asset recovery and recycling, training, enterprise and 
+client support, and managed lifecycle. 
+Has signed a definitive agreement to pay $1.4 billion in cash for EqualLogic of Nashua, New Hampshire, a 
+supplier of storage products based on proprietary virtualisation software. 
+Founded in May 2001, with sales of $68.1 million in 2006 and with 384 employees as of March 2007, EqualLogic 
+targets mid-sized enterprises unable to justify the high procurement and ongoing management costs of other SAN 
+alternatives to retain, access, manage and protect their data. 
+EqualLogic employs software based on the iSCSI network protocol that severs the traditional tie between stored 
+data and disk drive hardware, masks the complexity of the underlying storage configuration and enables storage 
+arrays to cooperate with one another to automatically share resources and balance workloads. 
+In August 2007 the company filed with the SEC to launch an IPO with a maximum expected value of $125 million 
+in which it noted: 
+1. Primary competitors are EMC, Network Appliance, HP, Sun, Hitachi, IBM, Compellent Technologies, 
+LeftHand Networks and 3PAR. 
+2. For all of 2006, EqualLogic depended for 17% of its revenue on businesses outside North America and for the 
+first nine months of 2007 18%. 
+3. It serves over 3,200 customers in 30 countries via more than 500 channel partners. 
+The acquisition, expected to close late in the fourth quarter of Dell's fiscal year 2008, or early in the first quarter of 
+fiscal 2009, is intended to strengthen Dell's product and channel capability in simplifying and virtualizing IT for 
+global customers. Dell noted that iSCSI SAN technology is the fastest growing part of the storage business. 
+Upon completion of the transaction, Dell plans to grow EqualLogic's channel-partner programs with current and 
+future EqualLogic-branded products, and also incorporate EqualLogic technology into future generations of its 
+Dell PowerVault storage line, available through the channels and direct from Dell. 
+Michael Dell, CEO and Chairman of Dell, was quoted as saying: 
+- "Our customers will be dealing with the largest increase in data we have seen in our history over the next few 
+years".
+
+Page 20 of 22 © 2013 Factiva, Inc. All rights reserved. 
+- "Leading the iSCSI revolution will help Dell accelerate IT simplification and virtualisation and will drive the Dell 
+value proposition into more areas of the enterprise storage business". 
+For further information go to http://www.opticalkeyhole.com 
+Document OBSERV0020071106e3b600003
+
+Page 21 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Compellent Issues Statements on Dell Decision to Acquire EqualLogic 
+Compellent Issues Statements on Dell Decision to Acquire EqualLogic 
+466 words 
+5 November 2007 
+16:15 
+Business Wire 
+BWR 
+English 
+(c) 2007 Business Wire. All Rights Reserved. 
+EDEN PRAIRIE, Minn. - (BUSINESS WIRE) - Compellent Technologies, Inc. (NYSE Arca: CML) released the 
+following statements today regarding the announcement Dell Inc. made that it intends to acquire EqualLogic for 
+$1.4 billion. 
+Phil Soran, Chairman and CEO of Compellent, said: 
+“ Dell’s acquisition of EqualLogic adds further momentum to the market for network storage solutions that support 
+iSCSI. We agree with Michael Dell’s statement that our customers will be dealing with the largest increase in 
+data we have seen in our history over the next few years. We believe that the simplification and virtualization of 
+storage needs to be an essential element of any storage vendors’ market strategy. 
+The path to the virtual data center, though, should be lined with storage area network (SAN) products that offer 
+simultaneous support for both iSCSI and FC server connections. A flexible approach to connectivity allows 
+businesses to optimize their storage resources and select the right technology for each application, rather than 
+being forced into a connectivity choice that may not work best for their business.” 
+Tony Asaro, senior analyst of Enterprise Strategy Group, said: 
+“Our research has found that a large number of end users often want Fibre Channel (FC) and iSCSI within the 
+same storage system to get the most out of their storage resources. FC is the dominate storage interconnect and 
+will remain so for years to come. iSCSI is rapidly emerging and will continue to do so, and having the versatility of 
+supporting both protocols is valuable to end users and the market.” 
+Scott Winslow, CEO of Winslow Technology Group, a Compellent partner, said: 
+”Today's news validates what Winslow Technology Group has long believed: that it makes complete sense for 
+customers to have choice in how they connect their servers to their storage. Yet, now more than ever I’m glad we 
+choose to exclusively sell Compellent because of the stability and vision of its leadership team. We always know 
+where Compellent stands regarding product and sales strategy and that’s allowed us to just focus on designing 
+the right solution for customers." 
+Compellent’s leadership team, including Phil Soran, will visit the New York Stock Exchange this Wednesday, Nov. 
+7, to celebrate the company’s recent initial public offering, the third-highest performing IPO in 2007, by ringing the 
+Opening Bell(SM). 
+About Compellent 
+Compellent is a leading provider of enterprise-class network storage solutions that are highly scalable, 
+feature-rich and designed to be easy to use and cost effective. Compellent Technologies’ principal offices are 
+located in Eden Prairie, Minn. For more information, please visit: http://www.compellent.com . 
+Document BWR0000020071105e3b5009hw 
+Search Summary 
+Text Michael Dell AND Compellent Technologies 
+Date 01/01/1990 to 01/01/2011 
+Source All Publications
+
+Page 22 of 22 © 2013 Factiva, Inc. All rights reserved. 
+Author All Authors 
+Company Dell, Inc. 
+Subject Acquisitions/Mergers/Takeovers 
+Industry All Industries 
+Region All Regions 
+Language English
+

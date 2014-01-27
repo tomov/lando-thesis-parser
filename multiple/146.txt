@@ -1,0 +1,270 @@
+Page 1 of 8 © 2013 Factiva, Inc. All rights reserved. 
+Cisco To Buy Spectrum Management Specialist Cognio................................................................................................2 
+Company Finance Alert - Broadband Trends Boost Cisco Results.................................................................................3 
+Cisco Might Not Suit WebEx ...........................................................................................................................................4 
+Cisco Systems to buy WebEx for $3.2 billion..................................................................................................................6 
+JOHN SHINAL'S TECH INVESTOR: Cisco Ponies Up For Growth With WebEx Acquisition.........................................7
+
+Page 2 of 8 © 2013 Factiva, Inc. All rights reserved. 
+Cisco To Buy Spectrum Management Specialist Cognio 
+Cisco To Buy Spectrum Management Specialist Cognio 
+442 words 
+18 September 2007 
+CMP TechWeb 
+CMPT 
+English 
+© 2007 CMP Media LLC. All rights reserved. 
+Cisco Systems on Tuesday agreed to acquire Cognio, a top provider of spectrum analysis and management tools 
+for wireless networks. 
+Cognio provides spectrum technology that improves performance, reliability, and security of wireless networks. Its 
+Spectrum Expert tool analyzes, diagnoses, and locates devices within a company's wireless environment. It then 
+isolates problems in the spectrum from problems in the network and helps ease management of the network. 
+Cognio, which has a customer base of more than 1,000, sells its spectrum analysis products directly and in 
+partnership with other wireless networking providers such as AirMagnet, Fluke Networks, and WildPackets. 
+The company is privately held and supported by investments from North Bridge Venture Partners, ABS Ventures, 
+and Avansis Ventures. Terms of the deal were not disclosed. 
+With the acquisition, Cisco will gain complementary and differentiating technology, intellectual property, and a 
+team of Cognio experts to expand its own unified wireless networking offerings, the company said. 
+"As mobility applications and wireless networks become more pervasive, our customers want to treat their [radio 
+frequency] environments like true assets. With the Cognio acquisition, Cisco is able to deliver its customers 
+powerful tools that greatly enhance the management of this valuable asset. When this acquisition closes, Cisco 
+will offer the Cognio Spectrum Expert tools that give customers great visibility into their wireless environments," 
+said Ben Gibson, director of Cisco's Mobility Solutions. 
+An example is a retailer that may have old frequency-hopping gear in its facility. With Cisco's new product 
+offering, the retailer can identify the old gear as a source of interference and address it to ensure maximum 
+wireless local area network performance, Gibson said. 
+Wireless networking is part of Cisco's "advanced technology" lineup, which also includes application networking 
+services, home networking, security, storage networking, and unified communications. 
+The acquisition is expected to close in the first quarter of Cisco's 2008 fiscal year. Cognio will be integrated into 
+Cisco's Wireless Networking Business Unit, under the Ethernet and Wireless Technology Group. 
+Cisco is well-known for making acquisitions to move into new markets or expand its leadership in existing ones. 
+Cognio will be Cisco's 122nd acquisition. In May, Cisco purchased Web conferencing company WebEx 
+Communications for $3.2 billion. The deal was among Cisco's five largest acquisitions ever and is expected to 
+help Cisco compete with Microsoft in unified communications and collaboration. 
+Cisco's CEO John Chambers said at the company's Networkers user conference earlier this year that Cisco is 
+confident its expertise in networking and its ability to catch market transitions through acquisitions is the ticket to 
+being a leading vendor. 
+Document CMPT000020070919e39i0000f
+
+Page 3 of 8 © 2013 Factiva, Inc. All rights reserved. 
+Company Finance Alert - Broadband Trends Boost Cisco Results 
+Company Finance Alert - Broadband Trends Boost Cisco Results 
+484 words 
+9 May 2007 
+Business Monitor International 
+EMDN 
+English 
+© Copyright 2007 Business Monitor International. 
+Cisco Systems has attributed its record revenues of US$8.9bn for March 2007 as a testament to its 'ability to 
+foresee market transitions' enabling the operator to 'deliver the right products' to the market. Cisco's recent 
+earnings statement addresses the rising demand among telecom operators for internet networks, as they seek to 
+fulfil consumer demand. For the first time ever, Cisco announced that consumer-led growth had surpassed 
+corporate user demand for internet services. In believes the global internet market is witnessing a greater 
+demand from consumers for next-generation services on the back of the popularity in blogging and wikis, online 
+information sources contributed to by individuals, the most famous being Wikipedia. Cisco's chief executive John 
+Chambers believes that this trend 'will drive the industry in the next decade.' 
+NEXT GENERATION TECNOLOGIES LEAD THE WAY Cisco Systems Product Revenue 
+Composition (%) 
+Q307 US$bn Y-o-Y Increase (%) 
+Routers 1.8 16 
+Switchers 3.1 15 
+Advanced Technologies 2.1* 36 
+Others 0.5 33 
+Service Revenues 1.4 19 
+Total Revenues 8.9 21 
+Source: Operator Results; *includes US$589mn from 
+Scientific-Atlanta 
+The trend Cisco is witnessing is in line with developments in its home market, with the US accounting for the bulk 
+of its business in terms of geography. As of March 2007, North America accounted for over 50% of product 
+orders. There are no less than nine broadband service providers in the US, a good indication of competition in the 
+market, which BMI estimates grew by 26% in 2006, forecast to rise by a further 22% this year. Competition has 
+been heightened further due to continuing battles between cable operators and the traditional telcos in the 
+broadband market leading to the rollout of WVAS services as they seek to offer triple and quad-play in the market 
+at competitive prices. 
+Cisco, which has been building outside of its traditional switcher and router business should benefit considerably 
+from the rising competition among cable and telecoms operators in the US broadband market. Indeed, Cisco 
+anticipates that the battle in the broadband market should be advantageous following it purchase of set-top box 
+maker Scientific-Atlanta last year at a cost of US$6.9bn. Following this, the company has plans to purchase 
+WebEX Communications, an online videoconferencing company at a cost of US$3.2bn, which should become an 
+additional revenue growth driver. 
+While these acquisitions should yield stronger growth in future, analysts are projecting that June 2007 could see a 
+slowdown in revenue growth, compared to the earlier three quarters which rose in the high 20s on a sequential 
+basis. This, they have attributed to the first time inclusion of Scientific-Atlanta in Cisco's first full-year results. 
+Meanwhile, further potential negative impacts could result from a slower US economy, which has affected some 
+stock prices. 
+Americas Telecommunications Insight 
+Document EMDN000020070510e3590000g
+
+Page 4 of 8 © 2013 Factiva, Inc. All rights reserved. 
+Cisco Might Not Suit WebEx 
+Plugged In 
+Cisco Might Not Suit WebEx 
+By Mark Veverka 
+613 words 
+19 March 2007 
+Barron's 
+B
+English 
+(c) 2007 Dow Jones & Company, Inc. 
+Did the right company buy WebEx communications? 
+Cowan software analyst Peter Goldmacher thinks not. The WebEx bull has long believed the Santa Clara, Calif. 
+software company is under-appreciated, but he's not confident that Cisco Systems is the right fit to realize what 
+he sees as its potential -- becoming an on-demand dynamo for big enterprise-software users. 
+The ever-acquisitive Cisco (ticker: CSCO) last week announced it agreed to buy WebEx (WEBX), a maker of 
+Web communications and corporate-collaboration software, for $3.2 billion, or $57 a share -- including the 
+company's roughly $300 million in existing cash. That's a 23% premium to WebEx's pre-deal close of 46.20. 
+Shares were trading Friday at 56.61. If approved by both boards, the all-cash deal will close before August, 
+according to Cisco. 
+"I'm wearing my black arm band," said Goldmacher in mock protest. 
+That's not to say Goldmacher's clients aren't smiling. If they bought when he started extolling the virtues of 
+WebEx in early January of last year, with the shares at 21.50, the purchase price represents a near-three-bagger. 
+And if Barron's readers acted on his advice following our positive feature story last year ("Why WebEx Will 
+Shine,"June 12, 2006), they would have about doubled their investment. 
+Handsome proceeds aside, did management do the right thing? It boils down to whether you think WebEx is a 
+"communications" company or a "data" company, Goldmacher asserts. If you prefer it as a communications play, 
+Cisco is a good fit; if you believe that it's an on-demand data supplier, then a large enterprise-software suitor 
+would make a better partner, he argues. Goldmacher contends that 28 times 2007 free cash flow is a 
+"reasonable" price, but doesn't rule out counter-bids from IBM (IBM), SAP (SAP) or Oracle (ORCL). 
+"In my mind, it would be much better served being acquired by someone like Oracle," whose salesforce is better 
+suited to sell the subscription service to its existing customers, Goldmacher says. 
+WebEx is best known as a provider of rich-video-conferencing services over the Internet, but its Web-based 
+collaborative software applications that allow workers to share information simultaneously from different corporate 
+silos could be an enterprise jewel. Cisco says it bought WebEx as a way for the networking giant to reach more 
+small-business customers. But WebEx Chief Executive Subrah Iyar insists that Cisco understands the 
+on-demand potential, too. 
+"We are not selling (our potential) short," Iyar told Barron's. "They get it." 
+Cisco Chief Development Officer Charles Giancarlo (who intriguingly announced the deal without CEO John 
+Chambers present) says that WebEx's expected $450 million-plus in sales this year won't boost Cisco earnings 
+for its fiscal year ending June 29. Most analysts don't expect the deal to have much effect on Cisco (CSCO) 
+shares in the near-term, but they see WebEx contributing to the company's efforts to add products and services 
+at the edges of networks. Cisco shares were flat on the day of the deal, and were quoted Friday at 25.82. 
+Did Oracle or SAP already make a pass? Iyar acknowledged that "software companies" showed interest, but he 
+says Cisco came on strong and "moved fast." In fact, Cisco officials told Iyar that they were going to enter 
+Web-based collaboration either way. "In reality, they will do it with you or without you," Iyar mused. 
+---
+
+Page 5 of 8 © 2013 Factiva, Inc. All rights reserved. 
+For Barron's subscription information call 1-888-BARRONS ext. 685 or inquire online at 
+http://www.barronsmag.com/subscription/subscription.html . 
+Document B000000020070317e33j0000n
+
+Page 6 of 8 © 2013 Factiva, Inc. All rights reserved. 
+Cisco Systems to buy WebEx for $3.2 billion 
+Business 
+Cisco Systems to buy WebEx for $3.2 billion 
+Ron Day and Ari Levy 
+Bloomberg News 
+504 words 
+16 March 2007 
+Ottawa Citizen 
+OTCT 
+English 
+Copyright © 2007 Ottawa Citizen 
+SAN FRANCISCO 
+SAN FRANCISCO - Cisco Systems Inc. agreed to buy WebEx Communications Inc., the largest provider of 
+Internet teleconferencing services, for $3.2 billion to counter Microsoft Corp.'s expansion in the market. 
+WebEx investors will receive $57 a share in cash, the companies said in a statement yesterday. The offer is 
+23-per-cent higher than the Santa Clara, California-based company's closing share price of $46.20 on 
+Wednesday. 
+Cisco, the world's biggest maker of computer-networking equipment, will offer a combined service that includes 
+WebEx with its products for online phone calls and messages. The company and Microsoft are battling for 
+corporate customers who want to simulate face-to-face meetings, a business that may more than double by 2011, 
+according to researcher Frost & Sullivan Inc. 
+"It's a very attractive market, a growth market," said Ari Bensinger, an equity analyst at Standard & Poor's in New 
+York. "We like the video conferencing aspects of this deal. Cisco provides the corresponding pieces for this." 
+Cisco said the purchase won't affect earnings excluding some items in fiscal 2008. 
+The companies said they expect the deal to close in the fourth quarter of Cisco's 2007 fiscal year. 
+The purchase, Cisco's largest since the acquisition of Scientific-Atlanta Inc. last year, gives chief executive officer 
+John Chambers increased access to a market that is growing faster than its traditional business for switches and 
+routers. WebEx's services for holding conferences on the Internet and sharing web-based documents focus 
+mainly on small and medium-sized companies. 
+"We have a lot of strength in voice and video, which we think can help to improve their user experience," Cisco 
+chief development officer Charlie Giancarlo said in an interview yesterday. 
+Cisco jumped into the video-conferencing market last year with the release of TelePresence, a web-based system 
+that transmits life-sized images to remote conference rooms. Mr. Giancarlo said in December it may be the 
+quickest Cisco product to reach $1 billion in annual sales. 
+Demand for conferencing services is rising as companies look to slash spending on hotels and plane tickets. By 
+using TelePresence, Cisco expects to cut its own travel-related expenses by 20 per cent, Mr. Chambers said last 
+year. WebEx customer Automatic Data Processing Inc. said the web-based program allowed the company to 
+save 20 per cent on training costs. 
+Frost & Sullivan predicts the global web-conferencing market will reach $2.1 billion in annual sales by 2011, 
+compared with $753.8 million last year. 
+The purchase of WebEx is the second deal for Cisco this week. The company on March 13 agreed to buy 
+NeoPath Networks to gain the closely held company's storage technology. 
+Photo: Steve Marcus, Reuters / Cisco Systems, which is guided by chairman and CEO John Chambers, above, 
+has agreed to purchase online Internet-conferencing company WebEx Communications for $3.2 billion. 
+Document OTCT000020070316e33g0003z
+
+Page 7 of 8 © 2013 Factiva, Inc. All rights reserved. 
+JOHN SHINAL'S TECH INVESTOR: Cisco Ponies Up For Growth With WebEx Acquisition 
+JOHN SHINAL'S TECH INVESTOR: Cisco Ponies Up For Growth With WebEx Acquisition 
+772 words 
+15 March 2007 
+15:07 
+Dow Jones Business News 
+DJON 
+English 
+(c) 2007 Dow Jones & Company, Inc. 
+By John Shinal 
+SAN FRANCISCO (Dow Jones) - You've got to hand it to Cisco Systems Inc. Chief Executive John Chambers 
+and the company's board of directors for their sense of timing. 
+Just as Cisco was about to lose the benefit of favorable year-over-year sales growth comparisons provided by its 
+2006 acquisition of Scientific-Atlanta, Chambers pulled the trigger on another huge deal to help shore up growth. 
+The acquisition of WebEx, a provider of Internet-based teleconferencing services, may help allay investor 
+concerns that have pushed Cisco shares down 11% since January. 
+Whether WebEx (WEBX) is a good long-term investment at $3.2 billion in cash remains to be seen. 
+What is clear is from the price of the deal is that Chambers is willing to pay more for growth than he was a year 
+ago. 
+Price-to-sales is the metric that bankers and venture capitalists use to estimate the potential value of an 
+acquisition target. They use that ratio, rather than price-to-earnings, because they know that while young, 
+fast-growing companies can use all sorts of accounting gymnastics to tweak their net income number, top-line 
+growth is more transparent. 
+Even if you subtract WebEx's cash from the purchase price, Cisco is paying more than seven times WebEx's 
+$380 million in 2006 sales for the company. Using the average Wall Street analyst estimate of $458 million for 
+WebEx's 2007 sales, Cisco is still paying more than six times expected annual sales. 
+Compare that to what Cisco (CSCO) paid for Scientific-Atlanta, whose sales have helped push Cisco's overall 
+sales growth forecast to a range of 15% to 20%, compared to the previous range between 10% and 15%. 
+When Cisco announced that transaction in November, 2005, Wall Street analysts expected Scientific-Atlanta to 
+post 2006 sales of $2.1 billion. If you subtract the Atlanta firm's cash holdings at the time from the cash purchase 
+price ($6.9 billion minus $1.6 billion), Cisco paid $5.3 billion, or less than three times Scientific-Atlanta's annual 
+sales. 
+To be sure, WebEx is nicely profitable, with analysts expecting earnings of $1.68 a share this year. 
+But given WebEx's puny size compared to Cisco, which is expected to post sales of more than $34 billion for the 
+fiscal year ending in July, those earnings aren't even enough to move Cisco's net income needle. 
+Indeed, Cisco said the deal will be neutral to earnings in its next fiscal year once one-time charges related to the 
+deal are subtracted. 
+What Chambers bought with WebEx, whose sales are expected to rise 20% this year, is some top-line growth. 
+That he pulled the trigger even though the stock had gained more than 40% during the last 12 months -- and was 
+trading not far from a 52-week high - shows how much he's willing to pay for it. 
+The worries that have pushed Cisco shares down from multi-year highs stem from the fact that Cisco's largest 
+business -- selling networking gear to corporate customers -- has been and will continue to produce sales growth 
+in the low double digits at best.
+
+Page 8 of 8 © 2013 Factiva, Inc. All rights reserved. 
+Given the monster 27% sales growth Cisco posted last month for its most-recent quarter, Scientific-Atlanta is no 
+doubt providing the combined company with more growth than Cisco expected when it unveiled the deal. 
+For the current quarter, Cisco - which to its credit has continued to report stand-alone numbers even after the 
+deal closed -- forecast revenue growth in the range of 15% to 17% excluding Scientific-Atlanta sales and 19% to 
+20% including its results. 
+But once Cisco starts reporting year-ago numbers that include Scientific-Atlanta sales, its growth is expected to 
+slow. In fact, analysts expected Cisco to report sales growth of less than 14% for the fiscal year ending in July, 
+2008. 
+But that was before Cisco decided to buy WebEx, which should push that number higher. 
+There was a time when Cisco would have used its high-flying stock to finance the deal, but those days are gone. 
+Given its ability to generate around $2 billion in cash every quarter, it now uses that method to fund its 
+acquisitions. As stated above, it will take a while to find out what kind of return Cisco shareholders get for that 
+investment. 
+For now, though, investors who bought the stock expecting top-line growth of at least 15% can rest easier for at 
+least another year. [ 03-15-07 1507ET ] 
+Document DJON000020070315e33f0000n 
+Search Summary 
+Text John Chambers AND Webex 
+Date 01/01/1990 to 01/01/2008 
+Source All Publications 
+Author All Authors 
+Company Cisco Systems, Inc. 
+Subject Acquisitions/Mergers/Takeovers 
+Industry All Industries 
+Region All Regions 
+Language English
+

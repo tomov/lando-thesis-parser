@@ -1,0 +1,1374 @@
+Page 1 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC announces acquisition of Network Intelligence ......................................................................................................2 
+EMC to acquire Network Intelligence for $175m, closes acquisition of RSA Security for $2.1bn cash...........................4 
+EMC Completes RSA Security Acquisition, Announces Acquisition of Network Intelligence; New Security Division 
+Formed to Deliver Information.........................................................................................................................................6 
+Threatened with irrelevance, EMC responds with expansion .........................................................................................9 
+TALES OF THE TAPE: Security Fears Prompt Tech Co Mergers................................................................................12 
+EMC ACQUISITION -- Storage-Security Tango............................................................................................................14 
+EMC Chief: Acquisition Will Pay Off..............................................................................................................................15 
+RSA: Sale Would Not Change Strategy ........................................................................................................................16 
+EMC and RSA to unite in $2.1 billion ceremony ...........................................................................................................18 
+EMC buys digital security provider ................................................................................................................................19 
+EMC announces definitive agreement to acquire RSA Security, further advancing information-centric security; Market 
+leaders in information... .................................................................................................................................................20 
+EMC to buy RSA Security for nearly $2.1 billion ...........................................................................................................23 
+EMC to buy RSA Security for nearly $2.1 billion ...........................................................................................................25 
+EMC Shares Plunge on Word of $2.1B Deal ................................................................................................................27 
+UPDATE 3-EMC to buy RSA Security for nearly $2.1 bln.............................................................................................28 
+UPDATE: EMC CEO:Buy Aids Transition To Information-Mgmt Co .............................................................................30 
+EMC Announces Definitive Agreement to Acquire RSA Security, Further Advancing Information-Centric Security; 
+Market Leaders in Information.......................................................................................................................................32 
+EMC to buy RSA Security for nearly $2.1 billion ...........................................................................................................35 
+EMC to buy RSA Security for nearly $2.1 billion ...........................................................................................................37
+
+Page 2 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC announces acquisition of Network Intelligence 
+EMC announces acquisition of Network Intelligence 
+871 words 
+30 September 2006 
+The Asian Banker Interactive 
+ASABIN 
+English 
+(c) 2006 TAB INTERNATIONAL PTE LTD 
+EMC Corporation (NYSE:EMC), the leader in information management and storage, has announced it has 
+completed the acquisition of Massachusetts-based RSA Security (NASDAQ:RSAS), the leader in protecting and 
+managing online identities and digital assets. Under the terms of the definitive agreement announced on June 29, 
+2006, EMC paid $28.00 per share in cash in exchange for each outstanding share of RSA and the assumption of 
+outstanding options for a total purchase price of approximately $2.1 billion, net of RSA's existing cash balance. 
+RSA Security stockholders approved the acquisition on Thursday, September 14, 2006. 
+EMC also announced it has signed a definitive agreement to acquire Massachusetts-based Network Intelligence 
+joins market leaders which will create the new information security division of EMC. The acquisition of Network 
+Intelligence is expected to close by the end of business on September 18, 2006. 
+Joe Tucci, EMC's Chairman, President and CEO, said, "Information security continues to dominate the spending 
+intentions of CIO's around the world. The battlefront in security has quickly shifted from securing the network 
+perimeter to protecting and securing the information itself-wherever that information lives and wherever it moves." 
+"The additions of RSA and Network Intelligence to the EMC family enables us to execute on our 
+information-centric security strategy to help organizations around the world secure their information throughout its 
+lifecycle and reduce the associated cost of regulatory compliance." 
+EMC's information-centric security strategy comprises five integrated elements that enable organizations to 
+systematically and comprehensively secure their information. Those elements help customers assess the risk to 
+their information, secure the people who access that information, secure the infrastructure through which that 
+access takes place, directly protect the confidentiality and integrity of the information itself, and manage security 
+information and events to assure effectiveness and ease the burden of compliance. 
+RSA Security adds industry-leading enterprise identity and access management products, consumer identity and 
+fraud protection solutions, encryption and key management software and tremendous security knowledge and 
+expertise to EMC's expanding, information-centric security product and service portfolio. Network Intelligence 
+advances EMC's information-centric security strategy by providing tools that enable companies to collect, monitor, 
+analyze and report on security event-related activity throughout the IT infrastructure - in the network, in enterprise 
+pplications, on mainframes, on esktops, in storage devices or elsewhere. Solutions from Network Intelligence 
+ease the burden of proving compliance with securitypolicy and regulations, which is an enormous cost- and 
+time-management issue today. 
+Operating under the RSA brand, EMC's security division will be headquartered in Bedford, Massachusetts, and 
+led by Art Coviello, the former CEO of RSA Security. Coviello is an Executive Vice President of EMC and the 
+President of RSA reporting directly to Tucci. "It's becoming critical that security move beyond a point product 
+solution. Customers are in need of security that is built in and broadly distributed within the IT infrastructure to 
+protect people, gear and data as a cohesive solution," said Coviello. "EMC now has the resources and expertise 
+to give customers seamless and pervasive security that allows them to leverage their information as a valuable 
+asset rather than a potential liability." 
+EMC also announced the establishment of a $2.2 billion short-term, unsecured credit facility which it is using to 
+pay for the RSA acquisition. David Goulden, EMC Executive Vice President and Chief Financial Officer, said, 
+"The availability of this credit facility benefits EMC because it enables us to complete the acquisition while 
+avoiding the cost of monetizing our short term investments ahead of normal maturity, providing a very efficient 
+way for us to utilize the strength of our balance sheet."
+
+Page 3 of 38 © 2013 Factiva, Inc. All rights reserved. 
+Additionally, EMC reaffirmed its commitment to spend at least $3 billion repurchasing EMC shares during 2006. 
+"When you consider the opportunity ahead of us, EMC stock at these levels continues to be one of the best 
+values in the market, and we will continue to fund our buy back program," added Goulden. 
+Immediately following the announcement of EMC's intent to acquire RSA Security, the two companies assembled 
+cross-functional teams to develop extensive integration plans designed to maximize business leverage and 
+efficiencies. Key areas of integration include: 
+Organization - RSA Security becomes the foundation of EMC's new information security division. Under Coviello's 
+leadership, the RSA name, brand, products and services will all be maintained. Network Intelligence will become 
+a business unit within the new security division. General and administrative functions will be integrated within 
+EMC. 
+Sales, Service and Distribution - The new security division will have dedicated sales, pre-sales, marketing and 
+service resources to achieve its goals and advance its security-related partner initiatives while actively leveraging 
+EMC's worldwide field organization to reach more customers. 
+Research and Development - The security division will retain dedicated development resources and continue to 
+accelerate the delivery of its full portfolio of security solutions while also leading the development and delivery of 
+an industry-first common security platform (CSP). EMC's CSP will dramatically accelerate the integration of core 
+security services throughout EMC's portfolio of products, providing customers with a common, open baseline of 
+built-in security for the information infrastructure. 
+Re-disseminated by The Asian Banker 
+Document ASABIN0020060929e29u0001d
+
+Page 4 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC to acquire Network Intelligence for $175m, closes acquisition of RSA Security for $2.1bn cash 
+EMC to acquire Network Intelligence for $175m, closes acquisition of RSA Security for $2.1bn cash 
+570 words 
+22 September 2006 
+Optical Networks Daily 
+OBSERV 
+English 
+(c) 2006 Electronics International Disclaimer: Whilst every effort has been taken to ensure the accuracy of the 
+information contained in this report, neither Electronics International nor its agents or sources can be held 
+responsible for any inaccuracy. 
+Announced Date: 9/18/2006 EMC has completed the acquisition of Massachusetts-based RSA Security, supplier 
+of solutions for protecting and managing online identities and digital assets. 
+Under the terms of the definitive agreement announced on June 29, 2006, EMC paid $28.00 per share in cash in 
+exchange for each outstanding share of RSA and the assumption of outstanding options for a total purchase price 
+of approximately $2.1 billion, net of RSA's existing cash balance. RSA Security stockholders approved the 
+acquisition on Thursday, September 14, 2006. 
+EMC also announced it has signed a definitive agreement to acquire Massachusetts-based Network Intelligence, 
+a privately-held provider of security information and event management products, in a cash transaction valued at 
+approximately $175 million. The acquisition of Network Intelligence is expected to close on September 18, 2006. 
+EMC will combine the operations of RSA and Network Intelligence to create a new information security division. 
+Joe Tucci, EMC's chairman, president and CEO, said, "The additions of RSA and Network Intelligence to EMC 
+will enable the company to execute on its information-centric security strategy to help organisations to secure 
+their information throughout its lifecycle and reduce costs associated with regulatory compliance". 
+EMC's information-centric security strategy comprises five integrated elements designed to enable organisations 
+to secure their information. The elements help customers assess the risk to their information, secure the people 
+that access the information, secure the infrastructure through which access takes place, directly protect the 
+confidentiality and integrity of the information itself, and manage security information and events. 
+RSA Security adds enterprise identity and access management products, consumer identity and fraud protection 
+solutions, encryption and key management software and brings security knowledge and expertise to EMC. 
+Network Intelligence provides tools designed to enable companies to collect, monitor, analyse and report on 
+security event-related activity throughout the IT infrastructure - in the network, in enterprise applications, on 
+mainframes, on desktops, in storage devices or elsewhere. 
+Operating under the RSA brand, EMC's security division will be headquartered in Bedford, Massachusetts and 
+led by Art Coviello, the former CEO of RSA Security. Coviello is an EVP of EMC and the president of RSA, 
+reporting directly to Joe Tucci. 
+EMC also announced the establishment of a $2.2 billion short-term, unsecured credit facility that it is using to fund 
+the RSA acquisition. In addition, EMC reaffirmed its commitment to spend at least $3 billion repurchasing EMC 
+shares during 2006. 
+Immediately following the announcement of EMC's intent to acquire RSA Security, the two companies assembled 
+cross-functional teams to develop extensive integration plans designed to maximise business leverage and 
+efficiencies. Key areas of integration include: 
+- Organisation - RSA Security becomes the foundation of EMC's new information security division. Network 
+Intelligence will become a business unit within the new security division. General and administrative functions will 
+be integrated within EMC. 
+- Sales, service and distribution - the new security division will have dedicated sales, pre-sales, marketing and 
+service resources, while also utilising EMC's worldwide field organisation.
+
+Page 5 of 38 © 2013 Factiva, Inc. All rights reserved. 
+- Research and development - the security division will retain dedicated development resources and will seek to 
+develop and deliver a common security platform (CSP). EMC's CSP aims to accelerate the integration of core 
+security services throughout its portfolio of products. 
+For further information go to http://www.opticalkeyhole.com 
+Document OBSERV0020060922e29m0000o
+
+Page 6 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC Completes RSA Security Acquisition, Announces Acquisition of Network Intelligence; New Security Division Formed to Deliver Information... 
+EMC Completes RSA Security Acquisition, Announces Acquisition of Network Intelligence; New Security 
+Division Formed to Deliver Information-centric Security Solutions and Secure Information Throughout its 
+Lifecycle 
+1,333 words 
+18 September 2006 
+08:30 
+Business Wire 
+BWR 
+English 
+(c) 2006 Business Wire. All Rights Reserved. 
+HOPKINTON, Mass. - (BUSINESS WIRE) - Sept. 18, 2006 - EMC Corporation (NYSE:EMC), the leader in 
+information management and storage, today announced it has completed the acquisition of Massachusetts-based 
+RSA Security (NASDAQ:RSAS), the leader in protecting and managing online identities and digital assets. Under 
+the terms of the definitive agreement announced on June 29, 2006, EMC paid $28.00 per share in cash in 
+exchange for each outstanding share of RSA and the assumption of outstanding options for a total purchase price 
+of approximately $2.1 billion, net of RSA's existing cash balance. RSA Security stockholders approved the 
+acquisition on Thursday, September 14, 2006. 
+EMC also announced it has signed a definitive agreement to acquire Massachusetts-based Network Intelligence, 
+a privately-held leader in the security information and event management market, in a cash transaction valued at 
+approximately $175 million. The acquisition of RSA and Network Intelligence joins market leaders which together 
+will create the new information security division of EMC. The acquisition of Network Intelligence is expected to 
+close by the end of business on September 18, 2006. 
+Joe Tucci, EMC's Chairman, President and CEO, said, "Information security continues to dominate the spending 
+intentions of CIO's around the world. The battlefront in security has quickly shifted from securing the network 
+perimeter to protecting and securing the information itself--wherever that information lives and wherever it 
+moves." 
+"The additions of RSA and Network Intelligence to the EMC family enable us to execute on our 
+information-centric security strategy to help organizations around the world secure their information throughout its 
+lifecycle and reduce the associated cost of regulatory compliance." 
+EMC's information-centric security strategy comprises five integrated elements that enable organizations to 
+systematically and comprehensively secure their information. Those elements help customers assess the risk to 
+their information, secure the people who access that information, secure the infrastructure through which that 
+access takes place, directly protect the confidentiality and integrity of the information itself, and manage security 
+information and events to assure effectiveness and ease the burden of compliance. 
+RSA Security adds industry-leading enterprise identity and access management products, consumer identity and 
+fraud protection solutions, encryption and key management software and tremendous security knowledge and 
+expertise to EMC's expanding, information-centric security product and service portfolio. Network Intelligence 
+advances EMC's information-centric security strategy by providing tools that enable companies to collect, monitor, 
+analyze and report on security event-related activity throughout the IT infrastructure - in the network, in enterprise 
+applications, on mainframes, on desktops, in storage devices or elsewhere. Solutions from Network Intelligence 
+ease the burden of proving compliance with security policy and regulations, which is an enormous cost- and 
+time-management issue today. 
+Operating under the RSA brand, EMC's security division will be headquartered in Bedford, Massachusetts and 
+led by Art Coviello, the former CEO of RSA Security. Coviello is an Executive Vice President of EMC and the 
+President of RSA, reporting directly to Tucci. "It's becoming critical that security move beyond a point product 
+solution. Customers are in need of security that is built in and broadly distributed within the IT infrastructure to 
+protect people, gear and data as a cohesive solution," said Coviello. "EMC now has the resources and expertise 
+to give customers seamless and pervasive security that allows them to leverage their information as a valuable 
+asset rather than a potential liability."
+
+Page 7 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC also announced the establishment of a $2.2 billion short-term, unsecured credit facility which it is using to 
+pay for the RSA acquisition. David Goulden, EMC Executive Vice President and Chief Financial Officer, said, 
+"The availability of this credit facility benefits EMC because it enables us to complete the acquisition while 
+avoiding the cost of monetizing our short term investments ahead of normal maturity, providing a very efficient 
+way for us to utilize the strength of our balance sheet." 
+Additionally, EMC reaffirmed its commitment to spend at least $3 billion repurchasing EMC shares during 2006. 
+"When you consider the opportunity ahead of us, EMC stock at these levels continues to be one of the best 
+values in the market, and we will continue to fund our buy back program," added Goulden. 
+Immediately following the announcement of EMC's intent to acquire RSA Security, the two companies assembled 
+cross-functional teams to develop extensive integration plans designed to maximize business leverage and 
+efficiencies. Key areas of integration include: 
+-- Organization - RSA Security becomes the foundation of EMC's new information security division. Under 
+Coviello's leadership, the RSA name, brand, products and services will all be maintained. Network Intelligence 
+will become a business unit within the new security division. General and administrative functions will be 
+integrated within EMC. 
+-- Sales, Service and Distribution- The new security division will have dedicated sales, pre-sales, marketing and 
+service resources to achieve its goals and advance its security-related partner initiatives while actively leveraging 
+EMC's worldwide field organization to reach more customers. 
+-- Research and Development- The security division will retain dedicated development resources and continue to 
+accelerate the delivery of its full portfolio of security solutions while also leading the development and delivery of 
+an industry-first common security platform (CSP). EMC's CSP will dramatically accelerate the integration of core 
+security services throughout EMC's portfolio of products, providing customers with a common, open baseline of 
+built-in security for the information infrastructure. 
+About EMC 
+EMC Corporation (NYSE: EMC) is the world leader in products, services, and solutions for information 
+management and storage that help organizations extract the maximum value from their information, at the lowest 
+total cost, across every point in the information lifecycle. Information about EMC's products and services can be 
+found at www.EMC.com . 
+About RSA 
+RSA, the Security Division of EMC, is the expert in information-centric security, enabling the protection of 
+information throughout its lifecycle. RSA enables customers to cost-effectively secure critical information assets 
+and online identities wherever they live and at every step of the way, and manage security information and events 
+to ease the burden of compliance. 
+RSA offers industry-leading solutions in identity assurance and access management, encryption, security 
+information management and anti-fraud protection, bringing trust to millions of user identities, the transactions 
+that they perform, and the data that is generated. For more information, please visit www.rsa.com and 
+www.EMC.com . 
+EMC and RSA are registered trademarks of EMC Corporation. All other trademarks are the property of their 
+respective owners. 
+This release contains "forward-looking statements" as defined under the Federal Securities Laws. Actual results 
+could differ materially from those projected in the forward-looking statements as a result of certain risk factors, 
+including but not limited to: (i) adverse changes in general economic or market conditions; (ii) delays or reductions 
+in information technology spending; (iii) risks associated with acquisitions and investments, including the 
+challenges and costs of integration, restructuring and achieving anticipated synergies; (iv) competitive factors, 
+including but not limited to pricing pressures and new product introductions; (v) the relative and varying rates of 
+product price and component cost declines and the volume and mixture of product and services revenues; (vi) 
+component and product quality and availability; (vii) the transition to new products, the uncertainty of customer 
+acceptance of new product offerings and rapid technological and market change; (viii) insufficient, excess or 
+obsolete inventory; (ix) war or acts of terrorism; (x) the ability to attract and retain highly qualified employees; (xi) 
+fluctuating currency exchange rates; and (xii) other one-time events and other important factors disclosed
+
+Page 8 of 38 © 2013 Factiva, Inc. All rights reserved. 
+previously and from time to time in EMC's filings with the U.S. Securities and Exchange Commission. EMC and 
+RSA disclaim any obligation to update any such forward-looking statements after the date of this release. 
+Document BWR0000020060918e29i002yr
+
+Page 9 of 38 © 2013 Factiva, Inc. All rights reserved. 
+Threatened with irrelevance, EMC responds with expansion 
+Threatened with irrelevance, EMC responds with expansion 
+By BRIAN BERGSTEIN 
+AP Technology Writer 
+1,582 words 
+23 August 2006 
+16:52 
+Associated Press Newswires 
+APRS 
+English 
+(c) 2006. The Associated Press. All Rights Reserved. 
+HOPKINTON, Mass. (AP) - Dennis Hoffman has his suit jacket off and a blue marker in hand, ready to sketch his 
+view of the massive transformation at EMC Corp. He begins by writing "CIO." 
+That would be "chief information officer" -- the executive in many companies who determines how technology 
+dollars are spent. But while EMC is well known in tech, it hasn't always had CIOs' ears. 
+After all, EMC built its business selling data storage hardware. And for many CIOs, the logistics of archiving files 
+on humming disks were easily delegated to storage-specific underlings. 
+That worked well enough for EMC when its storage gear was a must-have for many companies. But for years the 
+cost of disk space has plummeted, pressuring profits. And with technology becoming increasingly complex, many 
+CIOs are consolidating their vendors to give them "fewer throats to choke," in the words of Hoffman, EMC's vice 
+president for information security. 
+These factors threatened to squeeze EMC into irrelevance. And so EMC has responded by expanding. It has 
+spent $7 billion buying companies and assets in the past three years, topped by this summer's $2.1 billion deal for 
+RSA Security Inc. 
+Instead of just providing machines to store business data, the new EMC hopes to secure files from prying eyes, 
+funnel information into Internet applications and track records for regulatory compliance. It wants to scout for 
+problems throughout networks and automate fixes. 
+"The biggest obstacle we face is what we spent the whole decade of the '90s doing -- that EMC is the storage 
+company," said CEO Joe Tucci. "We have to get customers to view us, as we're calling it now, as an information 
+infrastructure company." 
+But EMC isn't just fighting perceptions. By seeking to be a more intimate (and better-paid) adviser to CIOs, EMC 
+is picking a fight with powerful competitors. 
+Notably, IBM Corp. and Hewlett-Packard Co. have much bigger staffs of consultants and longer histories of 
+serving as throats for CIOs to choke. IBM and HP are also leading storage vendors, plus they offer servers and 
+other key parts of business systems. EMC relies on partnerships, including one with Dell Inc., to help customers 
+get servers. 
+That difference is huge to customers like Dr. Fred Clark, CIO for the Medical University of South Carolina. 
+When the center recently adopted new health care software, Clark decided to run it on IBM servers and replace 
+EMC storage with IBM machines. Clark believes using only IBM systems will ensure better performance. He also 
+likes having just one call to make in case of trouble. 
+"If you have a single vendor, you have more leverage with them," Clark said. "If they're not performing, we don't 
+pay them, and it doesn't take them long to pick up the phone and say, `What's going on?'" 
+Meanwhile, rivals such as Oracle Corp. and Microsoft Corp. are using their software -- already deeply ingrained in 
+corporations -- as a sturdy basis from which to reach some of the same fields EMC is targeting, such as 
+document management.
+
+Page 10 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC also has to stay ahead of nibbling competitors in data storage who claim that EMC's expansion is making it 
+lose focus. 
+"It's going to be interesting to see how successful EMC actually is," said analyst Rich Ptak of Ptak, Noel & 
+Associates. "They're faced with the dilemma of moving into a whole new space without losing their core market. 
+They can and will be able to capture a piece of it, but whether or not they're going to move up to the top tier ... is 
+still an open question." 
+EMC has already taken huge steps. It now gets more revenue from software and services than from hardware. 
+Thanks largely to its $1.7 billion acquisition of Documentum Inc. in 2003, it leads a hot software field known as 
+"enterprise content management," in which disparate documents are brought together for business applications. 
+"I think they come to the table today with a much better story, a holistic solution," said James Hull, head of 
+engineering services at MasterCard Inc., a large EMC customer. 
+Analysts say EMC has done well at swallowing its many acquisitions, one of the thorniest tasks in technology. 
+Notably, top executives from several companies bought by EMC have stayed aboard rather than using their 
+newfound wealth to move on. 
+That might reflect EMC's strategy of trying not to overly mess with the operations of acquired companies. Joseph 
+Walton, who oversees integration, describes it as "protecting the acquired company from EMC." 
+"They're not coming in telling us how it's going to be," said RSA chief Art Coviello. 
+The downside can be that, at least at first, many EMC customers find themselves called on by multiple sales 
+people. EMC has moved toward a system in which large customers get a single point of contact. But every new 
+acquisition reshuffles the process. 
+It is perhaps because of this flux that EMC still struggles to spread the word about where it's headed. 
+"We have major relevancy that's just not understood," said Mark Lewis, EMC's chief development officer. "It's a 
+cultural change on the outside." 
+Yet this change might be nothing compared to one EMC survived a few years ago. 
+Founded in 1979, EMC was part of a seminal shift in computing. Previously, centralized mainframes handled 
+most computing tasks, including storing information. The new era was largely about gaining efficiencies from 
+distributing those resources -- first with the rise of flexible servers and then with external data storage machines. 
+In the 1990s, EMC's top-of-the-line storage devices helped many companies that were moving onto the Web and 
+generating copious digital records. EMC was the decade's best performer on the New York Stock Exchange. 
+Then the tech bubble burst, wiping out many customers or their capital. Competitors such as Compaq Computer 
+Corp. grabbed market share with lower-priced storage systems. In just two years, EMC's revenue cratered from 
+$8.9 billion to $5.4 billion. The stock crashed from $100 to $4. One-fourth of the employees had to go. 
+Suddenly a company with a reputation for arrogance faced humbling questions. Tucci, who had turned around a 
+bankrupt Wang Global in the '90s, found himself with another rebound project after he became EMC's CEO in 
+2001. 
+Now, revenue is nearing $11 billion. The stock has spent the past 52 weeks between $9 and $15, and the work 
+force is 28,000, above the dot-com era peak of 24,000. 
+Some executives credit EMC's hard-charging environment, where a significant chunk of compensation is 
+determined by whether employees meet specific goals set by managers. "EMC people work like their hair's on 
+fire," Hoffman said. 
+EMC expanded its share of the $16 billion external-disk storage market to 27.3 percent last year, a rise of 1.6 
+percentage points, according to IDC. That increase equaled the gains posted by HP and IBM combined; HP held 
+18.5 percent and IBM had 13.7 percent. 
+But competitors say EMC, perhaps distracted by its overhaul, is leaving them openings. EMC admitted that 
+execution issues this spring left it unable to meet some orders for a new storage system.
+
+Page 11 of 38 © 2013 Factiva, Inc. All rights reserved. 
+IBM and other rivals also cite a concept known as "virtualization." Among other things, it lets network 
+administrators maximize the efficiency of their storage setups. 
+This would figure to be a natural for EMC, given its storage expertise and its $635 million acquisition of VMWare 
+Inc., a leader in virtualizing the operation of servers. 
+But EMC was late getting a major storage virtualization product, Invista, off the ground. Executives say EMC was 
+careful in developing Invista rather than rushing it into a young market. 
+"You put all the (industry's) virtualization revenues in a thimble, you'd have plenty of room for your thumb," Tucci 
+said. 
+However, even reasonably explained delays may lead to perceptions that EMC can't afford. 
+"The larger vendors, all included, they're slow to innovate in some of these things," said Toby Ford, chief technical 
+officer of USinternetworking Inc., which has EMC storage but recently bought a virtualized system from 3Pardata 
+Inc., a private vendor backed by Oracle, Symantec Corp. and Sun Microsystems Inc. 
+One large EMC customer, Steve McCaa, principal technical architect at legal records analyzer Kroll Ontrack Inc., 
+says that if Invista's ongoing development achieves its goals, it should outperform existing virtualization 
+techniques. 
+Still, he added: "I think Invista development has been a little slower than I would like to have seen." He's not sure 
+whether to blame EMC's perfectionism or the company's transformation. 
+"I do have a fear that as they try to expand that information focus they're going to lose some of the engineering 
+prowess they've shown in the storage environment," McCaa said. 
+EMC executives say they're not finished mapping the future, and seem to have some flexibility. The company has 
+no debt. Even with its acquisition spree it has had enough cash to be a big buyer of its own stock -- to the tune of 
+$1 billion last year and $3 billion this year. 
+"If you look at the tools they have, they're pretty far along," said analyst Jasmine Noel at Ptak, Noel. "What they 
+haven't done yet is put the wrapper on it." 
+9 | 20060828T080000Z | adv28 
+Document APRS000020060823e28n002oz
+
+Page 12 of 38 © 2013 Factiva, Inc. All rights reserved. 
+TALES OF THE TAPE: Security Fears Prompt Tech Co Mergers 
+TALES OF THE TAPE: Security Fears Prompt Tech Co Mergers 
+By Riva Richmond 
+Of DOW JONES NEWSWIRES 
+1,190 words 
+11 July 2006 
+14:00 
+Dow Jones News Service 
+DJ 
+English 
+(c) 2006 Dow Jones & Company, Inc. 
+NEW YORK (Dow Jones)--EMC Corp.'s (EMC) pricey acquisition of RSA Security Inc. (RSAS) is evidence that 
+the anxiety induced by a barrage of recent high-profile data-security breaches is driving a major shift in the 
+technology industry - one not fully appreciated by Wall Street. 
+Breach-notification laws now in force in some 23 states have spawned a steady stream of disturbing news reports 
+over the last two years about hacker break-ins, inside jobs, and lost laptops and backup tapes exposing reams of 
+sensitive information about companies and consumers alike. Since the watershed ChoicePoint Inc. (CPS) case of 
+February 2005, when information about 145,000 customers may have been handed over to thieves, organizations 
+have revealed that some 89 million consumer records may have been exposed in 236 incidents, according to a 
+tally by the advocacy group Privacy Rights Clearinghouse. 
+Fears of embarrassing break-ins, as well as increasing pressure for better security from government regulators 
+and business partners, are pushing organizations to beef up their computer defenses and creating demand for 
+better data-security tools. And that demand appears to be driving a new wave of information-industry 
+consolidation, as large providers of data storage and backup systems seek ways to bring security functions into 
+their offerings. 
+On June 29, storage giant EMC said it would pay about $2.3 billion to acquire RSA Security. EMC Chief 
+Executive Joe Tucci said gaining RSA's technologies for encrypting data and ensuring only authorized people 
+can access sensitive information was vital to EMC's future success in the marketplace. Such tools, Tucci said, 
+would allow EMC to respond to customer demand that it transform itself from "the place where information lives" 
+to the place where it "lives securely." 
+EMC's stock fell 8.5% on the news, hitting a 52-week low of $10.11 on June 30, as some investors questioned the 
+deal's strategic rationale and its high price tag. The stock has recovered somewhat, trading recently at $10.50. 
+Shares were trading at $11.25 before the acquisition announcement. 
+EMC's deal with RSA, however, seemed to validate another large acquisition that was considerably more 
+unpopular on Wall Street: Symantec Corp.'s (SYMC) giant $10.25 billion purchase of Veritas Software a year ago. 
+Symantec said the ambitious merger would allow it to better meet customers' needs with systems that combined 
+its security prowess with Veritas' data-backup and storage strengths. Symantec's stock, which was trading 
+recently at $14.90, has fallen about 50% since the plan to buy Veritas came to light in December 2004, as 
+investors debated the deal's strategic wisdom and fretted about a big, risky integration. 
+But when it comes to assessing strategy, "Wall Street is a step behind," says Jerry Silva, an analyst at research 
+firm Tower Group, which advises financial-services companies on technology matters. "If you're an operations 
+person at an institution [that buys information products], you understand where those mergers are coming from," 
+he says. "There is this connection between data and security we haven't sorted out yet, but the connection is 
+there." 
+At the heart of the matter are new challenges posed by the boom in digital data, Internet use and mobile devices 
+at corporations and among consumers made possible by the remarkable technological advances of the last 
+decade. Because these data are so valuable and reside on networks that can be - and are - compromised by 
+hackers and unscrupulous employees, a sizable criminal enterprise has also sprung up. Corporate technology 
+professionals, who must now do battle daily with cyber thieves, are growing increasingly frustrated with costly -
+
+Page 13 of 38 © 2013 Factiva, Inc. All rights reserved. 
+and complex - bolted-on security products. They are crying out for simpler defenses that are built in to their 
+information infrastructures. 
+Technology companies have rushed to respond. The same forces behind the EMC-RSA and Symantec-Veritas 
+mergers also pushed Microsoft Corp. (MSFT) into the security arena. And they led network-equipment makers 
+like Cisco Systems Inc. (CSCO) and Juniper Networks Inc. (JNPR) to acquire security technologies they could 
+integrate into network infrastructures. Even personal-computer makers have been adding fingerprint readers and 
+other security technologies to their machines. 
+"As an industry, we've never been able to respond to a threat as quickly," says Silva of Towers Group. 
+The rush to meld storage and security is music to the ears of John Halamka, chief information officer of 
+Boston-based CareGroup Healthcare System and a large EMC customer. 
+His 300-person staff is responsible for a system that supports 3,000 doctors and 9,000 other employees in 
+eastern Massachusetts and holds and protects nine million medical records. Today's technology means that 
+decisions about who can see what data are enforced by software applications. Since CareGroup runs 146 critical 
+applications, that means it has 146 different security systems. "Imagine if it was only one [security system], sitting 
+in the storage," Halamka says. Not only would security be less of a headache, but adherence to security policies 
+would be easier and protection could happen closer to the data itself, where it is more effective, he says. 
+EMC and RSA want to make this vision a reality. They plan to build in access controls that will secure sensitive 
+data, whether the information is in motion or at rest in storage systems. EMC and RSA are already developing a 
+common security platform for their products, says Dennis Hoffman, EMC's vice president for information security. 
+Down the road, the combined company also hopes to leverage RSA's growth engine - its newer business, based 
+on its Cyota acquisition, of helping companies authenticate consumer users and detect fraudulent activity - into a 
+full-fledged consumer business, RSA Chief Executive Art Coviello says. "There will be lots and lots of data that 
+will accumulate on people's computers," he explains. "Protecting access to that information will become an 
+important part of our long-term strategy." 
+EMC and RSA will likely tussle with Symantec in the race for this converging market. Since the "Code Red" worm 
+outbreak shook the security industry in 2003, Symantec has been pursuing a vision that information security, 
+backup, storage and management must all go hand in hand. 
+Symantec declined to comment on its acquisition plans or whether it bid for RSA. But Symantec, which has 
+steadily made acquisitions to fulfill its vision, may well try to buy an RSA competitor. 
+Symantec "has to realize that if they're backing up data that's not encrypted, the customer still has an area of 
+exposure we'd like to get rid of," says Robert Graham, chief information officer at Farmers and Merchants Bank of 
+Long Beach, Calif., a Symantec customer who has been a fan of its merger with Veritas. "If you look at the future 
+and where everything's going, these things make sense to combine together," Graham said. 
+(Riva Richmond covers Internet companies and computer-security software makers for Dow Jones Newswires.) 
+-By Riva Richmond, Dow Jones Newswires; 201-938-5670; riva.richmond@dowjones.com [ 07-11-06 1400ET ] 
+70769 
+Document DJ00000020060711e27b000bj
+
+Page 14 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC ACQUISITION -- Storage-Security Tango 
+News Filter 
+EMC ACQUISITION -- Storage-Security Tango 
+Darrell Dunn 
+173 words 
+3 July 2006 
+InformationWeek 
+IWK 
+17 
+1096 
+English 
+Copyright (c) 2006 CMP Media LLC 
+Symantec raised eyebrows when it bought storage vendor Veritas last year, and now EMC plans to acquire RSA 
+Security for about $2.1 billion. The marriage of storage systems and security technologies could be a strong union 
+after all. 
+Under CEO Joe Tucci, EMC has been on a quest to expand beyond storage hardware in recent years. It has 
+used acquisitions to move into content, information life-cycle, and business-process management. In the past two 
+months, it has acquired several smaller companies, including ProActivity, which makes software for analyzing and 
+managing data. EMC sees data security tools from RSA as a logical addition to a strategy for information 
+life-cycle management. Information security "has become an inseparable attribute of information management," 
+Tucci said in a statement. EMC will make RSA its information security division if the deal closes as expected this 
+fall. 
+Then, like Symantec, EMC needs to prove it can make these acquired pieces work together for its customers. 
+http://informationweek.com/ 
+Document IWK0000020060703e2730000a
+
+Page 15 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC Chief: Acquisition Will Pay Off 
+Plugged In 
+EMC Chief: Acquisition Will Pay Off 
+By Mark Veverka 
+503 words 
+3 July 2006 
+Barron's 
+B
+31 
+English 
+(c) 2006 Dow Jones & Company, Inc. 
+EMC CEO Joe Tucci tells it like it is. He's refreshingly candid. In fact, Tucci is so open sometimes that it drives 
+his PR folks crazy. And when he says that his interests are aligned with his shareholders' -- especially regarding 
+his recent decision to buy RSA Security for about $2.1 billion, or a hefty five times RSA's 2007 sales estimates -- 
+the facts bear him out. 
+Earlier this year, Tucci and his top managers unveiled a three-year compensation plan directly pegged to 
+earnings-per-share growth. "If I wanted to collect the $21 million or whatever it is, I could have just sat back and 
+bought back" more shares than are included in the company's current buyback plan and boosted earnings that 
+way, Tucci said in a telephone interview. "But that's not what I'm here to do." 
+Instead, he spent big to win a bidding war for a top-tier player in what many corporate-technology buyers deem 
+Job 1: network security. Thursday, Tucci defended EMC's (ticker: EMC) planned buyout of RSA (RSAS) -- a 
+network-security outfit that makes access tokens -- after being grilled by financial analysts over the acquisition. 
+"This was a competitive situation. You have to pay up for No. 1," the CEO from Brooklyn said on the call. "This 
+company and this space is incredibly hot." The deal will shave about three cents from 2007 earnings, but should 
+begin adding to profits in '08. Symantec (SYMC) was the other bidder. 
+Analysts also questioned whether the business directly relates to EMC's core data-storage business and software 
+units, including virtualization star VMware. Tucci replies that, when it comes to security, "customers are going 
+beyond asking for this. They are demanding this." 
+Tucci thinks the RSA deal will bring more than just profits from cost savings, arguing that the EMC sales force will 
+be able to grow RSA's top line. His track record on acquisitions is impressive, with the buyout of once-troubled 
+storage software maker Legato an exception. Problems in Asia with that business dogged EMC last quarter. 
+Tucci pledges that the core storage business will grow at a rate in the "teens" -- no easy task, as arch-rival 
+Network Appliance (NTAP) moves up the product ladder and a re-energized Hewlett-Packard (HPQ) keeps 
+sharpening its game. IBM (IBM) certainly hasn't let up, either. 
+The short-term earnings hit from the RSA deal could put more pressure on EMC stock, which at Thursday's close 
+of 11.25, was 24% off its 52-week high. Nobody is more unhappy about that than Tucci. But he thinks the 
+acquisition ultimately will pay off nicely for the company and its investors. Says Tucci: "You have to play this 
+game right, and I'm playing this game as a shareholder." 
+--- 
+For Barron's subscription information call 1-888-BARRONS ext. 685 or inquire online at 
+http://www.barronsmag.com/subscription/subscription.html . 
+Document B000000020060701e27300008
+
+Page 16 of 38 © 2013 Factiva, Inc. All rights reserved. 
+RSA: Sale Would Not Change Strategy 
+Technology 
+RSA: Sale Would Not Change Strategy 
+By Daniel Wolfe 
+506 words 
+3 July 2006 
+American Banker 
+AMB 
+19 
+Vol. 171, No. 126 
+English 
+(c) 2006 American Banker and SourceMedia, Inc. All rights reserved. 
+WASHINGTON -- RSA Security Inc. says its consumer online banking security business would not be changed 
+after the vendor sells itself to the data storage company EMC Corp. 
+"RSA will continue to build and invest in this business, as both companies believe that the protection of online 
+consumers' identity is a burgeoning business that is just beginning to take off," said Art Coviello, RSA's president 
+and chief executive, said in a presentation to analysts after the deal was announced. 
+John Worrall, RSA's senior vice president of marketing, said in an interview Friday that RSA would retain its 
+brand and Mr. Coviello would remain in charge of it. Chris Young, a senior vice president and general manager, 
+would remain in charge of its consumer division. 
+EMC has told RSA that "there are no plans whatsoever to change our focus on the consumer segment," Mr. 
+Worrall said. "EMC has a very large customer set in financial services." 
+After the market closed Thursday, EMC said it would buy RSA for $28 a share, or $2.1 billion. The seller's stock 
+RSA closed Thursday at $22.88 a share but surged 18.4% Friday to close at $27.10. 
+The acquisition is expected to close late this quarter or early next quarter. 
+RSA's initial approach to securing consumers online was to sell banks passcode-generating tokens similar to 
+those used on corporate networks. A few U.S. financial services companies, like E-Trade Financial Corp., bought 
+the tokens for consumer use, but many were more interested in using software to protect most of their online 
+consumers. 
+In October the Federal Financial Institutions Examination Council mandated that banks start using Web 
+authentication stronger than a password by the end of 2006. RSA beefed up its offerings by buying two security 
+software developers: Cyota Inc. in December and PassMark Security Inc. in April. 
+Cyota's customers included JPMorgan Chase & Co. and Washington Mutual Inc.; PassMark's included Bank of 
+America Corp. 
+Joe Tucci, EMC's chairman, president, and chief executive, said RSA's customers should not worry that this plan 
+would change its focus. He said he hopes to use RSA's technology to improve his company's data storage 
+products. 
+Avivah Litan, a vice president and research director at the Stamford, Conn., market research company Gartner 
+Inc., said the deal is "pretty bad news for consumer authentication," because EMC's focus is corporate networks. 
+Even without the EMC deal, RSA is facing trouble, she said. She recently spoke to some Cyota product users 
+who said the quality of Cyota's customer service dropped after RSA bought it. 
+Since Cyota caters to some large banking companies, "these are the kinds of clients you don't want to lose." Mr. 
+Worrall said he was not directly involved with Cyota's service, but "if it needs attention, we'll give it attention." 
+(c) 2006 American Banker and SourceMedia, Inc. All rights reserved. http://www.americanbanker.com 
+http://www.sourcemedia.com
+
+Page 17 of 38 © 2013 Factiva, Inc. All rights reserved. 
+Document AMB0000020060703e2730000l
+
+Page 18 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC and RSA to unite in $2.1 billion ceremony 
+EMC and RSA to unite in $2.1 billion ceremony 
+By Tim McElligott 
+592 words 
+30 June 2006 
+Prism Insight 
+NSGHT 
+Online Exclusive - Telephony 
+English 
+© 2006 Prism Business Media Inc. All rights reserved. 
+Information management and information security will become the single entity they need to be for EMC as it 
+announced this week its $2.1 billion plan to acquire RSA Security. EMC and RSA are the market leaders in their 
+respective areas. EMC leads in information management and storage and RSA is a major provider of identity and 
+access management solutions. RSA also does encryption and key management and anti-fraud protection. These 
+capabilities will enhance EMC's expanding, information-centric security portfolio. Upon completion of the 
+acquisition, RSA will operate as EMC's Information Security Division, headquartered in Bedford, Mass. Art 
+Coviello, currently president and CEO of RSA, will become an executive vice president of EMC and president of 
+the new division. “Information security is a top priority among executives around the world, and it has become an 
+inseparable attribute of information management. 
+Businesses can't secure what they don't manage,” said Joe Tucci, chairman, president and CEO of EMC. RSA's 
+focus has been to ensure the authenticity and protection of an enterprise’s people, information and transactions, 
+whether those entities reside within the enterprise, are remote or transient. Tucci said EMC is committed to 
+applying the resources required to continue to expand RSA's leading market share while integrating its 
+technology with his company’s products. The information security aspect of the RSA acquisition represents the 
+fifth pearl on Tucci’s “string of pearls” strategy, which he has pursued over the last few years, largely through 
+acquisition. The others include; a VMware infrastructure (acquired in January 2004 for about $635 million); 
+content management, using Documentum (acquired in late 2003 for approximately $1.7 billion) and Captiva 
+(acquired in late 2005 for $275 million) as a foundation; resource management with Smarts (acquired in 1Q05 for 
+$260 million) and the SRM control center as a foundation; and storage virtualization with Invista (an internally 
+developed storage router) and Rainfinity (acquired August 2005 for under $100 million) as its base. Regarding the 
+fifth pearl of information security, Tucci said, “We had a small amount of revenue in that space and now…you can 
+see how with RSA Security joining the EMC family, we will have an opportunity to grow that.” Tucci said that on a 
+pro forma basis he expects the new business to start out in 2007 at a $500 million run rate, which is the goal for 
+all five businesses. Also driving this acquisition are market dynamics such as information security being the top 
+concern among CIOs, a 75% instance among U.S. companies of data loss due to security breeches and the 
+increasing regulatory requirements such as Sarbanes-Oxley. EMC's four-part solution to information-centric 
+security is designed to secure information throughout its lifecycle. It assesses the security of information, secures 
+the information infrastructure, protects sensitive information and manages security information and events. RSA's 
+encryption and key management technology will be central to EMC's strategy to directly protect information. 
+“Security must be an integral part of the information infrastructure,” Coviello said. “[This] will accelerate the 
+integration of security into the information infrastructure." Tucci said EMC is where information lives and 
+tomorrow you will see it is where information lives securely. “We fundamentally and deeply believe that the 
+technology company that seamlessly integrates information storage with information management with 
+information protection with information security and centrally manages and orchestrates their information 
+infrastructure will be a huge winner in the technology market place,” he said. 
+Document NSGHT00020060630e26u000af
+
+Page 19 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC buys digital security provider 
+EMC buys digital security provider 
+Doug Beizer, Staff Writer 
+252 words 
+30 June 2006 
+Newsbytes News Network 
+NBYT 
+English 
+(c) 2006 Newsbytes News Network 
+United States, 2006 Jun 30 (NB). EMC Corp. will acquire RSA Security Inc., a provider of technology for 
+protecting and managing identities and digital assets, for about $2.1 billion in cash. 
+Through the acquisition EMC will be able to offer better security to its customers. 
+“Bringing RSA into the fold provides EMC with industry-leading identity and access management technologies 
+and best-in-class encryption and key management software to help EMC deliver information lifecycle 
+management securely,” said Joe Tucci, EMC’s chairman, president and CEO. 
+EMC of Hopkinton, Mass., has about 22,700 employees and ranks No. 61 on Washington Technology’s 2006 Top 
+100 list of the largest federal IT contractors. 
+Recently General Dynamics Corp. C4 Systems unit implemented EMC Smarts as a core piece of its broadband 
+enterprise network communications system for the Army. General Dynamics uses EMC Smarts automated 
+analysis and impact assessment engine to ensure availability of the high-speed, mobile WIN-T communications 
+system. 
+RSA of Bedford, Mass., manufactures several management and authentication products, such as its USB 
+Authenticator 6100 device. It combines a portable plug-and-play USB device with secure storage of digital 
+credentials on a standards-based Java platform. With RSA SecurID Passage software, the devices offer a 
+tamper-resistant, user-authentication solution for to securely store multiple certificates, key sets, finger-based 
+biometric templates, usernames and passwords and RSA SecurID software token seed records. 
+Reported By Washington Technology, http://www.washingtontechnology.com 
+Document NBYT000020060630e26u000dx
+
+Page 20 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC announces definitive agreement to acquire RSA Security, further advancing information-centric security; Market leaders in information... 
+EMC announces definitive agreement to acquire RSA Security, further advancing information-centric 
+security; Market leaders in information management and information security join to help organisations 
+secure information throughout its lifecycle 
+2,078 words 
+30 June 2006 
+M2 Presswire 
+MTPW 
+English 
+(c) 2006 M2 Communications, Ltd. All Rights Reserved. 
+HOPKINTON and BEDFORD, Mass - EMC Corporation (NYSE:EMC), the leader in information management and 
+storage, and RSA Security Inc. (NASDAQ:RSAS), the leader in protecting and managing identities and digital 
+assets, have announced a definitive agreement for EMC to acquire RSA. Under the terms of the agreement, 
+EMC will pay $28.00 per share in cash in exchange for each share of RSA and the assumption of outstanding 
+options, for an aggregate purchase price of slightly less than $2.1 billion, net of RSA's existing cash balance. 
+EMC's acquisition of RSA brings together two market leaders with a shared vision for helping organisations of all 
+sizes securely manage their information throughout its lifecycle. 
+The acquisition adds industry-leading identity and access management solutions and encryption and key 
+management software to EMC's expanding, information-centric security portfolio. The acquisition is expected to 
+be completed late in the third quarter or early in the fourth quarter of 2006, subject to customary closing 
+conditions and regulatory approvals. 
+Joe Tucci, EMC's chairman, president and CEO, said: "Information security is a top priority among executives 
+around the world, and it has become an inseparable attribute of information management. Businesses can't 
+secure what they don't manage, and when it comes to securing information, that means simply two things - 
+managing the data and managing access to the data. EMC is the leading provider of information management 
+solutions. Bringing RSA into the fold provides EMC with industry-leading identity and access management 
+technologies and best-in-class encryption and key management software to help EMC deliver information 
+lifecycle management securely." 
+RSA provides technologies to secure information no matter where it resides or travels inside or outside of an 
+organisation and throughout its lifecycle. With industry-leading authentication, access control, and encryption 
+solutions, RSA helps organisations of all sizes ensure the authenticity and protection of people, information and 
+transactions. 
+Tucci continued: "This acquisition signals a fundamental change in the landscape of the security market. EMC is 
+100% committed to applying the resources required to continue to expand RSA's leading market share while 
+also tightly integrating their technology with EMC's products to bring customers the best information-centric 
+security portfolio available." 
+According to recent surveys conducted by industry and financial analyst firms, information security is the number 
+one priority among CIOs. Meanwhile, 75% of U.S. companies suffer data loss each year. With high profile 
+data breaches garnering national coverage and pressure to meet regulatory compliance, the combination of 
+RSA's security offerings and EMC's information management and storage solutions uniquely addresses the 
+market's rapidly growing need for information-centric security. 
+EMC's information-centric security strategy implements an integrated, four-part solution that secures information 
+throughout its lifecycle. The strategy helps customers assess the security of their information, secure their 
+information infrastructure, directly protect their sensitive information, and manage security information and events 
+to assure effectiveness and ease the burdens of compliance. The integration of RSA's authentication and 
+access management capabilities will build on EMC's foundation of inherently secure products and processes. 
+RSA's encryption and key management technology will be central to EMC's strategy to directly protect the 
+information no matter where it resides within or outside of an organization. 
+Art Coviello, RSA CEO and president, said: "Information security threats are evolving from attacks on the network 
+and the perimeter to attacks on the data itself. These attacks are designed to obtain information, intellectual
+
+Page 21 of 38 © 2013 Factiva, Inc. All rights reserved. 
+property and other information that can be exploited for criminal gain. For this reason, security must be an 
+integral part of the information infrastructure, transparently allowing authorised users to easily get access to 
+information. The combination of RSA's leading security technology coupled with EMC's best-in-class 
+information infrastructure and financial resources will accelerate the integration of security into the information 
+infrastructure." 
+On a GAAP basis, EMC currently expects the acquisition of RSA will be dilutive by $.03 per diluted share in 2007 
+and will not have a material impact on diluted earnings per share in 2008. On a non-GAAP basis, which 
+excludes the impact of intangible amortization and stock option expense, EMC currently expects the acquisition 
+will not have a material impact on diluted earnings per share in 2007 and will be accretive to earnings by $.03 per 
+diluted share in 2008. 
+Upon completion of the acquisition, RSA will operate as EMC's Information Security Division, headquartered in 
+Bedford, Mass. Art Coviello will become an Executive Vice President of EMC and President of the division. 
+About EMC 
+EMC Corporation (NYSE: EMC) is the world leader in products, services and solutions for information 
+management and storage that help organizations extract the maximum value from their information, at the lowest 
+total cost, across every point in the information lifecycle. Information about EMC's products and services can be 
+found at www.EMC.com . 
+About RSA 
+RSA Security Inc. is the expert in protecting online identities and digital assets. The inventor of core security 
+technologies for the Internet, the Company leads the way in strong authentication, encryption and anti-fraud 
+protection, bringing trust to millions of user identities and the transactions that they perform. RSA Security's 
+portfolio of award-winning identity & access management solutions helps businesses to establish who's who 
+online - and what they can do. For more information, please visit www.rsasecurity.com . 
+This release contains "forward-looking statements", including forward-looking statements under the Federal 
+Securities Laws. Actual results could differ materially from those projected in the forward-looking statements as a 
+result of certain risk factors, including but not limited to: (i) risks associated with acquisitions and investments, 
+including the challenges and costs of closing, integration, restructuring and achieving anticipated synergies 
+associated with the acquisition; (ii) adverse changes in general economic or market conditions; (iii) delays or 
+reductions in information technology spending; (iv) competitive factors, including but not limited to pricing 
+pressures and new product introductions; (v) the relative and varying rates of product price and component cost 
+declines and the volume and mixture of product and services revenues; (vi) component and product quality and 
+availability; (vii) the transition to new products, the uncertainty of customer acceptance of new product offerings 
+and rapid technological and market change; (viii) insufficient, excess or obsolete inventory; (ix) war or acts of 
+terrorism; (x) the ability to attract and retain highly qualified employees; (xi) fluctuating currency exchange rates; 
+and (xii) other one-time events and other important factors disclosed previously and from time to time in EMC's 
+and RSA's filings with the U.S. Securities and Exchange Commission. EMC and RSA disclaim any obligation to 
+update any such forward-looking statements after the date of this release. 
+This release contains non-GAAP financial measures. These non-GAAP financial measures, which are used as 
+measures of EMC's performance, should be considered in addition to, not as a substitute for, or superior to, 
+measures of EMC's financial performance prepared in accordance with GAAP. A reconciliation of these 
+non-GAAP financial measures to GAAP is provided in the text of this release. EMC's non-GAAP measures may 
+be defined differently than similar terms used by other companies, and accordingly, care should be exercised in 
+understanding how EMC defines its non-GAAP financial measures. 
+Specifically, intangible amortization and stock option expense is excluded from each non-GAAP financial 
+measure in this release. Management views these items as non-cash expenses that are reported internally as 
+corporate expenses. For purposes of its internal budgets and each reporting segment's financial goals, EMC's 
+management uses financial statements that do not include such items. 
+EMC's management uses these non-GAAP financial measures to gain an understanding of EMC's comparative 
+operating performance (when comparing such results with previous periods or forecasts) and future prospects. 
+These non-GAAP financial measures are also used by EMC's management in their financial and operating 
+decision-making because management believes they reflect the underlying economics of EMC's ongoing 
+business in a manner that allows meaningful period-to-period comparisons. Such comparisons may be more 
+meaningful because operating results presented under GAAP may include, from time to time, items that are not
+
+Page 22 of 38 © 2013 Factiva, Inc. All rights reserved. 
+necessarily relevant to understand EMC's business and may, in some cases, be difficult to forecast accurately for 
+future periods. EMC's management believes that these non-GAAP financial measures provide useful information 
+to investors and others in understanding and evaluating EMC's current operating performance and future 
+prospects in the same manner as management does if they so choose. These non-GAAP financial measures 
+have limitations, however, because they do not include all items of income and expense that affect EMC's 
+operations. One material limitation of a non-GAAP financial measure that excludes intangible amortization and 
+stock option expense is that it does not reflect any benefit that such items may confer on EMC. Management 
+compensates for this and other limitations by also considering EMC's financial results as determined in 
+accordance with GAAP. 
+IMPORTANT ADDITIONAL INFORMATION WILL BE FILED WITH THE SEC 
+RSA plans to file with the SEC and mail to its stockholders a Proxy Statement in connection with the 
+transaction. The Proxy Statement will contain important information about EMC, RSA, the merger and related 
+matters. Investors and security holders are urged to read the Proxy Statement carefully when it is available. 
+Investors and security holders will be able to obtain free copies of the Proxy Statement and other documents filed 
+with the SEC by EMC and RSA through the web site maintained by the SEC at www.sec.gov . Free copies of the 
+proxy statement, when available, and each company's other filings with the SEC also may be obtained from the 
+respective companies. Free copies of EMC's filings may be obtained by directing a request to EMC. You can 
+request this information via the web at www.EMC.com/IR/request or by sending a written request to EMC Investor 
+Relations, EMC Corporation, 176 South Street, Hopkinton, MA 01748. Free copies of RSA's filings may be 
+obtained by directing a request to Investor Relations at 781-515-6065. In addition, investors and security holders 
+may access copies of the documents filed with the SEC by EMC on EMC's website at www.EMC.com , and 
+investors and security holders may access copies of the documents filed with the SEC by RSA on RSA's website 
+at www.RSA.com , when they become available. 
+RSA, and its directors and executive officers, may be deemed to be participants in the solicitation of proxies from 
+RSA's stockholders with respect to the transactions contemplated by the merger agreement. Information 
+regarding RSA's directors and executive officers is contained in RSA's Annual Report on Form 10-K for the year 
+ended December 31, 2005 and its proxy statement dated May 3, 2006 for its 2006 Annual Meeting of 
+Stockholders, which are filed with the SEC. As of February28, 2006, RSA's directors and executive officers 
+beneficially owned (as calculated in accordance with SEC Rule 13d-3) approximately 3,225,265 shares, or 4.3%, 
+of RSA's common stock. You can obtain free copies of these documents from RSA using the contact information 
+set forth above. Additional information regarding interests of such participants will be included in the Proxy 
+Statement that will be filed with the SEC and available free of charge as indicated above. 
+In addition, in connection with the execution of the merger agreement, RSA adopted a deal retention and bonus 
+program for the benefit of various individuals, including executive officers of RSA. Under this program, Art 
+Coviello, RSA's President and CEO, and Charles Kane, RSA SVP and CFO will be entitled to payments of up to 
+$2,250,000 and $540,000 respectively. A more complete description will be available in the Proxy Statement. 
+M2 Communications Ltd disclaims all liability for information provided within M2 PressWIRE. Data prepared by 
+named party/parties. Further information on M2 PressWIRE can be obtained at http://www.presswire.net on the 
+world wide web. Inquiries to info@m2.com. 
+Document MTPW000020060630e26u001gu
+
+Page 23 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC to buy RSA Security for nearly $2.1 billion 
+EMC to buy RSA Security for nearly $2.1 billion 
+By MARK JEWELL 
+AP Business Writer 
+680 words 
+30 June 2006 
+10:58 
+Associated Press Newswires 
+APRS 
+English 
+(c) 2006. The Associated Press. All Rights Reserved. 
+BOSTON (AP) - Data storage provider EMC Corp. is buying RSA Security Inc. for nearly $2.1 billion, paying a 
+hefty premium to overcome bidding rivals who also were eager to snap up RSA's encryption software and 
+computer authentication products. 
+EMC said after markets closed Thursday that it will pay $28 for each share of Bedford-based RSA Security, a 22 
+percent premium above the $22.88 price at which RSA's shares closed. 
+RSA's shares rose 18 percent Thursday after the company confirmed it was in buyout talks, and the stock gained 
+another $4.41, or 19 percent, on Friday morning on the Nasdaq, where the stock was trading at $27.29, its 
+highest level since 2001. Meanwhile, investors on Friday morning sent shares of EMC down 94 cents, or 8.4 
+percent, to $10.31 -- the stock's lowest level since September 2004. 
+EMC's top executive, Joe Tucci, told analysts in a conference call Thursday that "a very competitive situation" 
+emerged after RSA recently sought out prospective buyers interested in expanding their information security 
+offerings. 
+In response to an analyst's question why EMC chose to buy RSA at a big premium rather than form partnerships 
+with it, Tucci said, "RSA wasn't going to be around" and would be quickly snapped up by a rival. 
+Several analysts questioned whether EMC was paying too high a price for RSA -- the company's biggest-ever 
+acquisition -- and whether EMC might realize better returns by stepping up an existing program to buy back 
+shares of its long-stagnant stock. 
+Tucci said the deal will yield long-term gains, and address increasing demand from EMC's corporate customers 
+to use encryption and other techniques to better secure data. 
+"This was a missing piece in the information infrastructure puzzle," Tucci said. "If we do this right, I absolutely, 
+positively, believe there is upside." 
+Tucci, EMC's chairman, president and CEO, and Art Coviello, RSA's president and CEO, did not identify other 
+companies that expressed interest in buying RSA, a 20-year-old company with about 1,200 employees and $310 
+million in revenue last year, compared with EMC's nearly $10 billion. 
+RSA is well-known for an annual security conference that it stages, as well as millions of business card-sized 
+"SecurID" tokens that display an ever-changing six-digit code computer users must type to gain access to 
+networks. RSA's three founders were Massachusetts Institute of Technology professors who helped develop a 
+seminal method of cryptography. 
+The auction to buy RSA was made public after The New York Times on Thursday reported a deal possibly worth 
+$1.8 billion could be reached in a few days with EMC or at least one other bidder. The report prompted RSA to 
+issue a news release confirming it was in talks. 
+EMC and RSA said they expect to close the acquisition in the third quarter or early in the fourth quarter, subject to 
+regulatory approvals and other conditions. Coviello will become an executive vice president at EMC, and 
+president of the Information Security Division. The division will operate from RSA's headquarters in Bedford, 35 
+miles from EMC's Hopkinton headquarters.
+
+Page 24 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC said it expects the deal will shave 3 cents per share off its earnings next year, and will not have a material 
+impact on its 2008 earnings. 
+EMC is the largest provider of data storage systems for business customers, with rivals including Hewlett-Packard 
+Co., IBM Corp., Hitachi, Dell Inc., Sun Microsystems Inc. and Network Appliance Inc. 
+EMC's stock has languished in recent years as the company has made a string of acquisitions to expand from 
+storage hardware into more lucrative services and software to help manage data and keep it secure. The RSA 
+deal is EMC's most expensive recent acquisition from a list that includes VMware, Dantz, Documentum, Legato, 
+Rainfinity and Captiva. 
+-------- 
+On the Net: 
+EMC Corp.: http://www.emc.com 
+RSA Security: http://www.rsasecurity.com 
+7
+Document APRS000020060630e26u0025h
+
+Page 25 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC to buy RSA Security for nearly $2.1 billion 
+EMC to buy RSA Security for nearly $2.1 billion 
+By MARK JEWELL 
+AP Business Writer 
+679 words 
+29 June 2006 
+20:16 
+Associated Press Newswires 
+APRS 
+English 
+(c) 2006. The Associated Press. All Rights Reserved. 
+BOSTON (AP) - Data storage provider EMC Corp. said Thursday it will buy RSA Security Inc. for nearly $2.1 
+billion (euro1.7 billion), paying a hefty premium to overcome rivals who also were eager to snap up RSA's 
+encryption software and computer authentication products. 
+EMC will pay $28 for each share of Bedford-based RSA Security, or a 22 percent premium above the $22.88 
+price at which RSA's shares closed Thursday on the Nasdaq before the deal was announced. 
+RSA's stock closed up 18 percent after the company confirmed in the morning that it was in talks with unidentified 
+parties. In after-hours trading, RSA's shares rose another $4.37 to $27.25 -- the stock's highest level since 2001 
+-- while EMC's shares fell 37 cents, or 3.3 percent, to $10.88, in after-hours trading. 
+EMC's top executive, Joe Tucci, told analysts in a conference call that "a very competitive situation" emerged 
+after RSA recently sought out prospective buyers interested in expanding their information security offerings. 
+In response to an analyst's question why EMC chose to buy RSA at a big premium rather than form partnerships 
+with it, Tucci said, "RSA wasn't going to be around" and would be quickly snapped up by a rival. 
+Several analysts questioned whether EMC was paying too high a price for RSA -- the company's biggest-ever 
+acquisition -- and whether EMC might realize better returns by stepping up an existing program to buy back 
+shares of its long-stagnant stock. 
+Tucci said the deal will yield long-term gains, and address increasing demand from EMC's corporate customers 
+to use encryption and other techniques to better secure data. 
+"This was a missing piece in the information infrastructure puzzle," Tucci said. "If we do this right, I absolutely, 
+positively, believe there is upside." 
+Tucci, EMC's chairman, president and CEO, and Art Coviello, RSA's president and CEO, did not identify other 
+companies that expressed interest in buying RSA, a 20-year-old company with about 1,200 employees and $310 
+million in revenue last year compared with EMC's nearly $10 billion. 
+RSA is well-known for an annual security conference that it stages, as well as millions of business card-sized 
+"SecurID" tokens that display an ever-changing six-digit code computer users must type to gain access to 
+networks. RSA's three founders were Massachusetts Institute of Technology professors who helped develop a 
+seminal method of cryptography. 
+The auction to buy RSA was made public after The New York Times on Thursday reported a deal possibly worth 
+$1.8 billion (euro1.44 billion) could be reached in a few days with EMC or at least one other bidder. The report 
+prompted RSA to issue a news release confirming it was in talks. 
+EMC and RSA said they expect to close the acquisition in the third quarter or early in the fourth quarter, subject to 
+regulatory approvals and other conditions. Coviello will become an executive vice president at EMC, and 
+president of the Information Security Division. The division will operate from RSA's headquarters in Bedford, 35 
+miles from EMC's Hopkinton headquarters. 
+EMC said it expects the deal will shave 3 cents per share off its earnings next year, and will not have a material 
+impact on its 2008 earnings.
+
+Page 26 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC is the largest provider of data storage systems for business customers, with rivals including Hewlett-Packard 
+Co., IBM Corp., Hitachi, Dell Inc., Sun Microsystems Inc. and Network Appliance Inc. 
+EMC's stock has languished in recent years as the company has made a string of acquisitions to expand from 
+storage hardware into more lucrative services and software to help manage data and keep it secure. The RSA 
+deal is EMC's most expensive recent acquisition from a list that includes VMware, Dantz, Documentum, Legato, 
+Rainfinity and Captiva. 
+-------- 
+On the Net: 
+EMC Corp.: http://www.emc.com 
+RSA Security: http://www.rsasecurity.com 
+7
+Document APRS000020060630e26u00030
+
+Page 27 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC Shares Plunge on Word of $2.1B Deal 
+EMC Shares Plunge on Word of $2.1B Deal 
+By MARK JEWELL 
+AP Business Writer 
+437 words 
+30 June 2006 
+11:52 
+Associated Press Newswires 
+APRS 
+English 
+(c) 2006. The Associated Press. All Rights Reserved. 
+BOSTON (AP) - Data storage provider EMC Corp. saw its stock dive Friday after announcing a $2.1 billion deal 
+for RSA Security Inc. that represented a hefty premium for the computer authentication provider. 
+EMC said after markets closed Thursday that it will pay $28 for each share of RSA, a 22 percent premium above 
+the $22.88 price at which RSA's shares closed -- and a 45 percent premium over RSA's closing price 
+Wednesday, the last day of trading before RSA confirmed it was in buyout talks. 
+On Friday morning on the Nasdaq, RSA was trading at $27.29, its highest level since 2001. Meanwhile, investors 
+sent shares of EMC down 94 cents, or 8.4 percent, to $10.31 -- the stock's lowest level since September 2004. 
+EMC's top executive, Joe Tucci, told analysts in a conference call Thursday that "a very competitive situation" 
+emerged after RSA recently sought out prospective buyers interested in expanding their information security 
+offerings. 
+In response to an analyst's question why EMC chose to buy RSA at a big premium rather than form partnerships 
+with it, Tucci said, "RSA wasn't going to be around" and would be quickly snapped up by a rival. 
+Several analysts questioned whether EMC was paying too high a price for RSA -- the company's biggest-ever 
+acquisition -- and whether EMC might realize better returns by stepping up an existing program to buy back 
+shares of its long-stagnant stock. 
+Tucci said the deal will yield long-term gains, and address increasing demand from EMC's corporate customers 
+to use encryption and other techniques to better secure data. 
+"This was a missing piece in the information infrastructure puzzle," Tucci said. "If we do this right, I absolutely, 
+positively, believe there is upside." 
+Tucci, EMC's chairman, president and CEO, and Art Coviello, RSA's president and CEO, did not identify other 
+companies that expressed interest in buying RSA, a 20-year-old company with about 1,200 employees and $310 
+million in revenue last year, compared with EMC's nearly $10 billion. 
+RSA is known for an annual security conference that it stages, as well as millions of business card-sized 
+"SecurID" tokens that display an ever-changing six-digit code computer users must type to gain access to 
+networks. One of the companies that became today's RSA was founded by three Massachusetts Institute of 
+Technology professors who helped develop a seminal method of cryptography. 
+-------- 
+On the Net: 
+http://www.emc.com 
+http://www.rsasecurity.com 
+7
+Document APRS000020060630e26u0000w
+
+Page 28 of 38 © 2013 Factiva, Inc. All rights reserved. 
+UPDATE 3-EMC to buy RSA Security for nearly $2.1 bln 
+UPDATE 3-EMC to buy RSA Security for nearly $2.1 bln 
+By Jim Finkle 
+638 words 
+29 June 2006 
+09:11 
+Reuters News 
+LBA 
+English 
+(c) 2006 Reuters Limited 
+(Adds EMC confirmation of deal, new throughout) 
+BOSTON, June 29 (Reuters) - Data storage maker EMC Corp. agreed on Thursday to buy digital security 
+company RSA Security Inc. for just under $2.1 billion, sending shares of RSA up 19 percent to a five-year high. 
+The deal continues EMC's strategy of using acquisitions to diversify its product portfolio into software, in the face 
+of slowing growth in sales of data storage equipment, which accounts for about half of the company's revenue. 
+RSA sells key-chain-sized SecurID devices that businesses use to control access to computer networks. EMC 
+said it expects the acquisition to dilute its earnings by 3 cents per share in 2007 on a GAAP basis. 
+"There's a limited number of places you can get this kind of technology. Not having it would put us at a severe 
+disadvantage," EMC chairman, president and chief executive Joe Tucci told a conference call with analysts. 
+Tucci described the bidding process for RSA as very competitive. "I can assure you that others that might have 
+bought it would not have wanted to share it with us," he said but did not name his rival bidders. 
+EMC has a definitive agreement to pay $28.00 cash for each share of RSA and the assumption of outstanding 
+options, the two companies said. The aggregate price is just under $2.1 billion, net of RSA's existing cash 
+balance. They expect to close in the third or fourth quarter, subject to shareholder and regulatory approval. 
+The price compares to RSA's Nasdaq closing share price of $22.88, which was up 18 percent from the previous 
+day after the New York Times reported that the two firms were close to a deal. RSA's stock rose another $4.36 in 
+post-market trade on Inet to $27.24, its highest level since July 2001. 
+Analysts said it makes sense for Hopkinton, Massachusetts-based EMC to buy a company like RSA as EMC has 
+used acquisitions to boost software sales. EMC has set a target for security products to account for about $1 
+billion in annual sales within five years. 
+"It fits in," said Morgan Keegan analyst Brian Freed before the announcement. "Acquiring RSA would certainly 
+give them a brand name, some very solid security technology to leverage." 
+But EMC, the world's largest maker of corporate data-storage equipment, saw its shares fall 4 percent in 
+post-market trade to $10.8 after closing flat at $11.25. 
+Investors are concerned a large acquisition could distract the company from addressing slowing growth in sales 
+of existing products, said A.G. Edwards & Sons analyst Aaron Rakers. 
+"For lack of a better term they are spreading themselves a bit too thin," Rakers said before the market close. He 
+said during the conference call after the deal was announced that the purchase price was five times estimated 
+2007 revenues. 
+EMC has spent $4.7 billion in three years buying some 20 companies, the bulk of them software makers. EMC 
+still has about $8 billion in cash and investments that it can draw upon to fund future purchases. 
+Bedford, Massachusetts-based RSA will operate as EMC's Information Security Division after the acquisition. 
+RSA's CEO and president Art Coviello will head the division.
+
+Page 29 of 38 © 2013 Factiva, Inc. All rights reserved. 
+Tucci said they would not discard the RSA brand and would "go after every dime of cost-savings" without 
+elaborating. 
+RSA has most recently been in the news as one of about 50 U.S. technology companies being investigated for 
+their practice of granting stock options to executives. (Additional reporting by Yinka Adegoke and Robert 
+MacMillan) 
+TECH-RSASECURITY-EMC (UPDATE 3)|LANGEN|ABN|E|U|RBN|D|RNP|DNP|PCO 
+Document LBA0000020060629e26t00154
+
+Page 30 of 38 © 2013 Factiva, Inc. All rights reserved. 
+UPDATE: EMC CEO:Buy Aids Transition To Information-Mgmt Co 
+UPDATE: EMC CEO:Buy Aids Transition To Information-Mgmt Co 
+728 words 
+29 June 2006 
+19:42 
+Dow Jones News Service 
+DJ 
+English 
+(c) 2006 Dow Jones & Company, Inc. 
+(Updates with further comment from the conference call and background information, beginning in the seventh 
+paragraph.) 
+By Riva Richmond 
+Of DOW JONES NEWSWIRES 
+NEW YORK (Dow Jones)--Executives at storage giant EMC Corp. (EMC) defended their decision to spend $2.1 
+billion in cash to acquire RSA Security Inc. (RSAS) as a move to both grab growth and defend the health of its 
+core business. 
+Speaking on a conference call with investors late Thursday, EMC Chief Executive Joe Tucci said that the 
+purchase would advance the company's transition into an information-management company from a storage 
+company, and that offering customers built-in security will become "mandatory." 
+The company that can seamlessly integrate information management with information security "will be a huge 
+winner in the technology marketplace," he said. "The technology company that is going to do that is EMC." 
+EMC confirmed after the market closed Thursday that it had agreed to acquire the security-software maker, 
+following a day of fevered market speculation sparked by a New York Times report outlining the deal and 
+estimating a price tag that could exceed $1.8 billion. RSA confirmed it was in negotiations, but declined to name 
+the parties to the talks. RSA's stock jumped 18.2% to $22.88 on the news, while EMC's ended flat at $11.25. 
+The bidding for RSA was "competitive," Tucci said on the call. "This is critical tech - critical," he said, adding that 
+"not having it would have put us at a severe disadvantage." 
+The purchase was set at $2.1 billion in cash, net of RSA's cash balance, or $28 a share. EMC expects to 
+complete the transaction late in the third quarter or early in the fourth quarter. 
+EMC, of Hopkinton, Mass., said its purchase of RSA, of Bedford, Mass., would cut its fiscal 2007 net income by 3 
+cents a share and have no material impact on its earnings before items. For 2008, EMC said the deal will not 
+materially affect its net profit and should add 3 cents a share to its pro forma profit. 
+RSA, founded in 1986, has some 20,000 customers and about 1,200 employees. Last year, it earned $42.4 
+million on revenue of $310.1 million. 
+CEO Tucci said EMC does not intend to pursue any other large acquisitions for now, though it might make some 
+smaller technology purchases, including in the security arena. He also said that the acquisition would not stop 
+EMC from continuing to buy back stock, arguing it has the financial wherewithal to invest for the future of the 
+business and buy shares. 
+The executive said RSA would form the heart of a new information-security division of EMC that would be headed 
+by RSA CEO Art Coviello. The unit will be one of five growth divisions that EMC believes it can turn into 
+billion-dollar businesses. In 2007, the unit will have an annual run rate of about $500 million and a strong growth 
+rate, propelled by rising concerns about growing criminal attacks on sensitive data that are driving corporate 
+security spending higher.
+
+Page 31 of 38 © 2013 Factiva, Inc. All rights reserved. 
+"The market is headed our way because we have the best answer to those kinds of threats," said Coviello on the 
+call. "It's critical that where the information lives is tied closely to security." 
+RSA will bring EMC key technologies for ensuring that only authorized people are able to access information on 
+computer networks, as well as encryption and key-management software. EMC said those technologies will allow 
+it to secure customers' data infrastructure and their information, as well as help them comply with data-security 
+regulations. 
+"Customers are going beyond asking us for this; they are demanding it," Tucci said. "That's what's motivating us 
+to do this." 
+Many organizations, such as banks and health-care companies, must comply with laws requiring data security. 
+Many more are required to disclose any security breaches to customers, rules that have led to a rash of 
+embarrassing disclosures of data loss and thefts in the last year or two. This week, the Bush administration said 
+federal civilian agencies have just 45 days to comply with recommendations on ways to securely authenticate 
+network users. 
+-By Riva Richmond, Dow Jones Newswires; 201-938-5670; riva.richmond@dowjones.com [ 06-29-06 1942ET ] 
+Document DJ00000020060629e26t000ov
+
+Page 32 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC Announces Definitive Agreement to Acquire RSA Security, Further Advancing Information-Centric Security; Market Leaders in Information... 
+EMC Announces Definitive Agreement to Acquire RSA Security, Further Advancing Information-Centric 
+Security; Market Leaders in Information Management and Information Security Join to Help Organizations 
+Secure Information Throughout its Lifecycle 
+2,188 words 
+29 June 2006 
+16:52 
+Business Wire 
+BWR 
+English 
+(c) 2006 Business Wire. All Rights Reserved. 
+HOPKINTON and BEDFORD, Mass. - (BUSINESS WIRE) - June 29, 2006 - EMC Corporation (NYSE:EMC), the 
+leader in information management and storage, and RSA Security Inc. (NASDAQ:RSAS), the leader in protecting 
+and managing identities and digital assets, today announced a definitive agreement for EMC to acquire RSA. 
+Under the terms of the agreement, EMC will pay $28.00 per share in cash in exchange for each share of RSA 
+and the assumption of outstanding options, for an aggregate purchase price of slightly less than $2.1 billion, net 
+of RSA's existing cash balance. EMC's acquisition of RSA brings together two market leaders with a shared 
+vision for helping organizations of all sizes securely manage their information throughout its lifecycle. The 
+acquisition adds industry-leading identity and access management solutions and encryption and key 
+management software to EMC's expanding, information-centric security portfolio. 
+The acquisition is expected to be completed late in the third quarter or early in the fourth quarter of 2006, subject 
+to customary closing conditions and regulatory approvals. 
+Joe Tucci, EMC's Chairman, President and CEO, said, "Information security is a top priority among executives 
+around the world, and it has become an inseparable attribute of information management. Businesses can't 
+secure what they don't manage, and when it comes to securing information, that means simply two things - 
+managing the data and managing access to the data. EMC is the leading provider of information management 
+solutions. Bringing RSA into the fold provides EMC with industry-leading identity and access management 
+technologies and best-in-class encryption and key management software to help EMC deliver information 
+lifecycle management securely." 
+RSA provides technologies to secure information no matter where it resides or travels inside or outside of an 
+organization and throughout its lifecycle. With industry-leading authentication, access control, and encryption 
+solutions, RSA helps organizations of all sizes ensure the authenticity and protection of people, information and 
+transactions. 
+"This acquisition signals a fundamental change in the landscape of the security market," continued Tucci. "EMC 
+is 100% committed to applying the resources required to continue to expand RSA's leading market share while 
+also tightly integrating their technology with EMC's products to bring customers the best information-centric 
+security portfolio available." 
+According to recent surveys conducted by industry and financial analyst firms, information security is the number 
+one priority among CIOs. Meanwhile, 75% of U.S. companies suffer data loss each year. With high-profile data 
+breaches garnering national coverage and pressure to meet regulatory compliance, the combination of RSA's 
+security offerings and EMC's information management and storage solutions uniquely addresses the market's 
+rapidly growing need for information-centric security. 
+EMC's information-centric security strategy implements an integrated, four-part solution that secures information 
+throughout its lifecycle. The strategy helps customers assess the security of their information, secure their 
+information infrastructure, directly protect their sensitive information, and manage security information and events 
+to assure effectiveness and ease the burdens of compliance. The integration of RSA's authentication and access 
+management capabilities will build on EMC's foundation of inherently secure products and processes. RSA's 
+encryption and key management technology will be central to EMC's strategy to directly protect the information no 
+matter where it resides within or outside of an organization.
+
+Page 33 of 38 © 2013 Factiva, Inc. All rights reserved. 
+Art Coviello, RSA CEO and President, said, "Information security threats are evolving from attacks on the network 
+and the perimeter to attacks on the data itself. These attacks are designed to obtain information, intellectual 
+property and other information that can be exploited for criminal gain. For this reason, security must be an integral 
+part of the information infrastructure, transparently allowing authorized users to easily get access to information. 
+The combination of RSA's leading security technology coupled with EMC's best-in-class information infrastructure 
+and financial resources will accelerate the integration of security into the information infrastructure." 
+On a GAAP basis, EMC currently expects the acquisition of RSA will be dilutive by $.03 per diluted share in 2007 
+and will not have a material impact on diluted earnings per share in 2008. On a non-GAAP basis, which excludes 
+the impact of intangible amortization and stock option expense, EMC currently expects the acquisition will not 
+have a material impact on diluted earnings per share in 2007 and will be accretive to earnings by $.03 per diluted 
+share in 2008. 
+Upon completion of the acquisition, RSA will operate as EMC's Information Security Division, headquartered in 
+Bedford, Mass. Art Coviello will become an Executive Vice President of EMC and President of the division. 
+Conference Call & Webcast 
+EMC Chairman, President and CEO Joe Tucci, RSA CEO and President Art Coviello, and EMC Vice Chairman 
+and Chief Financial Officer Bill Teuber will discuss the acquisition on a conference call for financial analysts, 
+investors and the news media at 5:30 p.m. EDT, today. The dial-in number is 210-234-0104. The pass code to 
+access the call is EMC. For the general public, the call will be webcast with supporting slides at EMC and RSA's 
+home pages, www.EMC.com and www.RSA.com . A replay of the call will be available approximately one hour 
+following the call at 203-369-1706. 
+About EMC 
+EMC Corporation (NYSE: EMC) is the world leader in products, services and solutions for information 
+management and storage that help organizations extract the maximum value from their information, at the lowest 
+total cost, across every point in the information lifecycle. Information about EMC's products and services can be 
+found at www.EMC.com . 
+About RSA 
+RSA Security Inc. is the expert in protecting online identities and digital assets. The inventor of core security 
+technologies for the Internet, the Company leads the way in strong authentication, encryption and anti-fraud 
+protection, bringing trust to millions of user identities and the transactions that they perform. RSA Security's 
+portfolio of award-winning identity & access management solutions helps businesses to establish who's who 
+online - and what they can do. For more information, please visit www.rsasecurity.com . 
+This release contains "forward-looking statements", including forward-looking statements under the Federal 
+Securities Laws. Actual results could differ materially from those projected in the forward-looking statements as a 
+result of certain risk factors, including but not limited to: (i) risks associated with acquisitions and investments, 
+including the challenges and costs of closing, integration, restructuring and achieving anticipated synergies 
+associated with the acquisition; (ii) adverse changes in general economic or market conditions; (iii) delays or 
+reductions in information technology spending; (iv) competitive factors, including but not limited to pricing 
+pressures and new product introductions; (v) the relative and varying rates of product price and component cost 
+declines and the volume and mixture of product and services revenues; (vi) component and product quality and 
+availability; (vii) the transition to new products, the uncertainty of customer acceptance of new product offerings 
+and rapid technological and market change; (viii) insufficient, excess or obsolete inventory; (ix) war or acts of 
+terrorism; (x) the ability to attract and retain highly qualified employees; (xi) fluctuating currency exchange rates; 
+and (xii) other one-time events and other important factors disclosed previously and from time to time in EMC's 
+and RSA's filings with the U.S. Securities and Exchange Commission. EMC and RSA disclaim any obligation to 
+update any such forward-looking statements after the date of this release. 
+This release contains non-GAAP financial measures. These non-GAAP financial measures, which are used as 
+measures of EMC's performance, should be considered in addition to, not as a substitute for, or superior to, 
+measures of EMC's financial performance prepared in accordance with GAAP. A reconciliation of these 
+non-GAAP financial measures to GAAP is provided in the text of this release. EMC's non-GAAP measures may 
+be defined differently than similar terms used by other companies, and accordingly, care should be exercised in 
+understanding how EMC defines its non-GAAP financial measures.
+
+Page 34 of 38 © 2013 Factiva, Inc. All rights reserved. 
+Specifically, intangible amortization and stock option expense is excluded from each non-GAAP financial 
+measure in this release. Management views these items as non-cash expenses that are reported internally as 
+corporate expenses. For purposes of its internal budgets and each reporting segment's financial goals, EMC's 
+management uses financial statements that do not include such items. 
+EMC's management uses these non-GAAP financial measures to gain an understanding of EMC's comparative 
+operating performance (when comparing such results with previous periods or forecasts) and future prospects. 
+These non-GAAP financial measures are also used by EMC's management in their financial and operating 
+decision-making because management believes they reflect the underlying economics of EMC's ongoing 
+business in a manner that allows meaningful period-to-period comparisons. Such comparisons may be more 
+meaningful because operating results presented under GAAP may include, from time to time, items that are not 
+necessarily relevant to understand EMC's business and may, in some cases, be difficult to forecast accurately for 
+future periods. EMC's management believes that these non-GAAP financial measures provide useful information 
+to investors and others in understanding and evaluating EMC's current operating performance and future 
+prospects in the same manner as management does if they so choose. These non-GAAP financial measures 
+have limitations, however, because they do not include all items of income and expense that affect EMC's 
+operations. One material limitation of a non-GAAP financial measure that excludes intangible amortization and 
+stock option expense is that it does not reflect any benefit that such items may confer on EMC. Management 
+compensates for this and other limitations by also considering EMC's financial results as determined in 
+accordance with GAAP. 
+IMPORTANT ADDITIONAL INFORMATION WILL BE FILED WITH THE SEC 
+RSA plans to file with the SEC and mail to its stockholders a Proxy Statement in connection with the transaction. 
+The Proxy Statement will contain important information about EMC, RSA, the merger and related matters. 
+Investors and security holders are urged to read the Proxy Statement carefully when it is available. 
+Investors and security holders will be able to obtain free copies of the Proxy Statement and other documents filed 
+with the SEC by EMC and RSA through the web site maintained by the SEC at www.sec.gov . Free copies of the 
+proxy statement, when available, and each company's other filings with the SEC also may be obtained from the 
+respective companies. Free copies of EMC's filings may be obtained by directing a request to EMC. You can 
+request this information via the web at www.EMC.com/IR/request or by sending a written request to EMC Investor 
+Relations, EMC Corporation, 176 South Street, Hopkinton, MA 01748. Free copies of RSA's filings may be 
+obtained by directing a request to Investor Relations at 781-515-6065. In addition, investors and security holders 
+may access copies of the documents filed with the SEC by EMC on EMC's website at www.EMC.com , and 
+investors and security holders may access copies of the documents filed with the SEC by RSA on RSA's website 
+at www.RSA.com , when they become available. 
+RSA, and its directors and executive officers, may be deemed to be participants in the solicitation of proxies from 
+RSA's stockholders with respect to the transactions contemplated by the merger agreement. Information 
+regarding RSA's directors and executive officers is contained in RSA's Annual Report on Form 10-K for the year 
+ended December 31, 2005 and its proxy statement dated May 3, 2006 for its 2006 Annual Meeting of 
+Stockholders, which are filed with the SEC. As of February 28, 2006, RSA's directors and executive officers 
+beneficially owned (as calculated in accordance with SEC Rule 13d-3) approximately 3,225,265 shares, or 
+4.3%(1), of RSA's common stock. You can obtain free copies of these documents from RSA using the contact 
+information set forth above. Additional information regarding interests of such participants will be included in the 
+Proxy Statement that will be filed with the SEC and available free of charge as indicated above. 
+In addition, in connection with the execution of the merger agreement, RSA adopted a deal retention and bonus 
+program for the benefit of various individuals, including executive officers of RSA. Under this program, Art 
+Coviello, RSA's President and CEO, and Charles Kane, RSA SVP and CFO will be entitled to payments of up to 
+$2,250,000 and $540,000 respectively. A more complete description will be available in the Proxy Statement. 
+(1) Numbers from most recent proxy statement and indicate ownership as of February 28, 2006. Does not include 
+785,123 shares acquired by Mr. Harris on April 25, 2006 in connection with PassMark acquisition. 
+Document BWR0000020060629e26t00asx
+
+Page 35 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC to buy RSA Security for nearly $2.1 billion 
+EMC to buy RSA Security for nearly $2.1 billion 
+By MARK JEWELL 
+AP Business Writer 
+674 words 
+29 June 2006 
+19:46 
+Associated Press Newswires 
+APRS 
+English 
+(c) 2006. The Associated Press. All Rights Reserved. 
+BOSTON (AP) - Data storage provider EMC Corp. said Thursday it will buy RSA Security Inc. for nearly $2.1 
+billion, paying a hefty premium to overcome rivals who also were eager to snap up RSA's encryption software and 
+computer authentication products. 
+Hopkinton-based EMC will pay $28 for each share of Bedford-based RSA Security, or a 22 percent premium 
+above the $22.88 price at which RSA's shares closed Thursday on the Nasdaq before the deal was announced. 
+RSA's stock closed up 18 percent after the company confirmed in the morning that it was in talks with unidentified 
+parties. In after-hours trading, RSA's shares rose another $4.43 to $27.31 -- the stock's highest level since 2001 
+-- while EMC's shares fell 45 cents, or 4 percent, to $10.80, in after-hours trading. 
+EMC's top executive, Joe Tucci, told analysts in a conference call that "a very competitive situation" emerged 
+after RSA recently sought out prospective buyers interested in expanding their information security offerings. 
+In response to an analyst's question why EMC chose to buy RSA at a big premium rather than form partnerships 
+with it, Tucci said, "RSA wasn't going to be around" and would be quickly snapped up by a rival. 
+Several analysts questioned whether EMC was paying too high a price for RSA -- the company's biggest-ever 
+acquisition -- and whether EMC might realize better returns by stepping up an existing program to buy back 
+shares of its long-stagnant stock. 
+Tucci said the deal will yield long-term gains, and address increasing demand from EMC's corporate customers 
+to use encryption and other techniques to better secure data. 
+"This was a missing piece in the information infrastructure puzzle," Tucci said. "If we do this right, I absolutely, 
+positively, believe there is upside." 
+Tucci, EMC's chairman, president and CEO, and Art Coviello, RSA's president and CEO, did not identify other 
+companies that expressed interest in buying RSA, a 20-year-old company with about 1,200 employees and $310 
+million in revenue last year compared with EMC's nearly $10 billion. 
+RSA is well-known for an annual security conference that it stages, as well as millions of business card-sized 
+"SecurID" tokens that display an ever-changing six-digit code computer users must type to gain access to 
+networks. RSA's three founders were Massachusetts Institute of Technology professors who helped develop a 
+seminal method of cryptography. 
+The auction to buy RSA was made public after The New York Times on Thursday reported a deal possibly worth 
+$1.8 billion could be reached in a few days with EMC or at least one other bidder. The report prompted RSA to 
+issue a news release confirming it was in talks. 
+EMC and RSA said they expect to close the acquisition in the third quarter or early in the fourth quarter, subject to 
+regulatory approvals and other conditions. Coviello will become an executive vice president at EMC, and 
+president of the Information Security Division. The division will operate from RSA's headquarters in Bedford, 35 
+miles from EMC's Hopkinton headquarters. 
+EMC said it expects the deal will shave 3 cents per share off its earnings next year, and will not have a material 
+impact on its 2008 earnings.
+
+Page 36 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC is the largest provider of data storage systems for business customers, with rivals including Hewlett-Packard 
+Co., IBM Corp., Hitachi, Dell Inc., Sun Microsystems Inc. and Network Appliance Inc. 
+EMC's stock has languished in recent years as the company has made a string of acquisitions to expand from 
+storage hardware into more lucrative services and software to help manage data and keep it secure. The RSA 
+deal is EMC's most expensive recent acquisition from a list that includes VMware, Dantz, Documentum, Legato, 
+Rainfinity and Captiva. 
+-------- 
+On the Net: 
+EMC Corp.: http://www.emc.com 
+RSA Security: http://www.rsasecurity.com 
+5
+Document APRS000020060629e26t003e9
+
+Page 37 of 38 © 2013 Factiva, Inc. All rights reserved. 
+EMC to buy RSA Security for nearly $2.1 billion 
+EMC to buy RSA Security for nearly $2.1 billion 
+By MARK JEWELL 
+AP Business Writer 
+376 words 
+29 June 2006 
+17:38 
+Associated Press Newswires 
+APRS 
+English 
+(c) 2006. The Associated Press. All Rights Reserved. 
+BOSTON (AP) - Data storage provider EMC Corp. on Thursday said it agreed to buy RSA Security Inc. in an 
+all-cash deal totaling nearly $2.1 billion that will give EMC RSA's encryption software and computer authentication 
+products. 
+EMC will pay $28 for each share of RSA Security, whose shares closed up 18 percent at $22.88 on the Nasdaq 
+on Thursday after the company confirmed it was in talks with unidentified parties interested in buying the firm. 
+Hopkinton-based EMC and Bedford-based RSA Security said in a joint news release that they expect to complete 
+the deal either in the third quarter or early in the fourth quarter, subject to regulatory approvals and other closing 
+conditions. 
+EMC, the largest provider of data storage systems for business customers, is far larger than RSA, with nearly $10 
+billion in revenue last year to RSA's $310 million. EMC's stock has languished in recent years as the company 
+has made a string of acquisitions to expand from storage hardware into more lucrative services and software to 
+help manage data and keep it secure. 
+"Bringing RSA into the fold provides EMC with industry-leading identity and access management technologies 
+and best-in-class encryption and key management software to help EMC deliver information lifecycle 
+management securely," said Joe Tucci, EMC's chairman, president and CEO. 
+RSA Security, a 20-year-old company with 1,200 employees, is well-known for an annual security conference that 
+it stages, as well as millions of business card-sized "SecureID" tokens that display an ever-changing six-digit 
+code computer users must type to gain access to computer networks. 
+Shares of RSA rose as high as $23.52, eclipsing a 52-week high of $21.04 set in April, before closing at $22.88, 
+up 18 percent for the day. In after-hours electronic trading after the deal was announced, RSA's shares rose 
+another $4.43 to $27.31. 
+Shares of EMC closed at $11.25, unchanged for the day, on the New York Stock Exchange. In after-hours 
+trading, EMC's shares fell 45 cents, or 4 percent, to $10.80. 
+5
+Document APRS000020060629e26t0039w 
+Search Summary 
+Text Tucci AND RSA 
+Date 01/01/1990 to 01/01/2007 
+Source All Publications 
+Author All Authors 
+Company EMC Corp. 
+Subject Acquisitions/Mergers/Takeovers 
+Industry All Industries
+
+Page 38 of 38 © 2013 Factiva, Inc. All rights reserved. 
+Region All Regions 
+Language English
+

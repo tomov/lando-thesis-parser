@@ -1,0 +1,631 @@
+Page 1 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Microsoft seen focused on small-scale acquisitions........................................................................................................2 
+Microsoft Unveils Business Software ..............................................................................................................................4 
+6$1.3 BILLION: Microsoft to buy Danish software company v".......................................................................................6 
+Microsoft to acquire Navision. .........................................................................................................................................7 
+Microsoft Expands in Europe. .........................................................................................................................................9 
+COMPANIES &FINANCE EUROPE - Microsoft Navision buy helps small company focus..........................................11 
+LEX COLUMN - Microsoft/Navision. .............................................................................................................................12 
+Microsoft to Acquire Navision........................................................................................................................................13 
+Microsoft expands in Europe with Navision deal...........................................................................................................15 
+Lex - Microsoft/Navision. ...............................................................................................................................................17 
+Microsoft expands in Europe with Navision deal...........................................................................................................18
+
+Page 2 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Microsoft seen focused on small-scale acquisitions. 
+Microsoft seen focused on small-scale acquisitions. 
+By Reed Stevenson 
+721 words 
+17 December 2002 
+21:00 
+Reuters News 
+LBA 
+English 
+(c) 2002 Reuters Limited 
+SEATTLE, Dec 17 (Reuters) - A recent software industry merger may have whetted Microsoft Corp.'s appetite for 
+a deal of its own, but analysts said on Tuesday that the software giant was likely to limit itself to snapping up little 
+companies with new technologies. 
+International Business Machines Corp. said last week that it would acquire Rational Software Corp. for $2.1 
+billion, fueling speculation that rival Microsoft might look for a software tool company of its own within the growing 
+market for application development software. 
+For months, analysts had been speculating that a Microsoft/Rational deal would make sense because Rational's 
+tools are used by developers to write software programs principally for Microsoft's .NET Internet software. 
+Several days after the deal with IBM was announced, Rational's shares jumped on speculation that cash-rich 
+Microsoft would put in a competing bid. 
+That speculation was fueled in part by Rational's disclosure, in a proxy statement, that it had held discussions 
+with a company described only as "Company A" about "a potential business combination transaction." 
+Several traders took the anonymous company to be Microsoft, and said that they later sold off Rational shares 
+upon learning that "Company A" had never made a formal offer. 
+Meanwhile, shares of rival Borland Software Corp. also rose after reports it could emerge as another Microsoft 
+acquisition target. 
+Microsoft has declined to comment on either the Rational or the Borland speculation. Borland Chief Executive 
+Dale Fuller also declined to comment, but he told Reuters that he would consider all offers. 
+"I could imagine Microsoft making a play for Borland or some other advanced (software) tools maker out there," 
+said Dwight Davis, analyst at Summit Strategies, "but it would be hard for Microsoft to justify buying Borland" 
+given its size and technologies for different software platforms. 
+Since that company makes programming tools that work in both the Microsoft .NET and Java worlds, Microsoft 
+would have to decide whether to embrace or shun Java, a dilemma that has faced the company for years. 
+The latest twist came late on Tuesday, when Rational said in a statement it would continue to support .NET 
+despite rumors that IBM, which favors the Java programming language, would force it to switch. 
+LONG SHOT BID 
+"I think the Rational thing (speculation of Microsoft bid) is a very long shot if any shot at all," Sanford C. Bernstein 
+analyst Charles Di Bona said. "Borland is still a long shot." 
+While Microsoft has more than $40 billion in cash it could spend on acquisitions, Di Bona said the software giant 
+was more likely to use that money to buy technology from smaller companies, rather than larger, leading 
+companies. 
+A spokeswoman for Microsoft said on Tuesday there has been no change in its policy of pursuing only carefully 
+targeted acquisitions on a smaller scale, as laid out by top executives in a summer analysts conference.
+
+Page 3 of 19 © 2013 Factiva, Inc. All rights reserved. 
+"We love buying little things (companies); truthfully, we love buying little 10-, 20-, 30-person companies that may 
+or may not be public, usually aren't," CEO Steve Ballmer told analysts at Microsoft's Redmond, Washington 
+campus in July. 
+In its latest fiscal year that ended in June, Microsoft bought eight companies for a total of $25.5 million. Its $1.3 
+billion acquisition of Danish software maker Navision closed in July. 
+In the year before that, Microsoft spent $1.38 billion on 15 acquisitions, with its purchase of Great Plains Software 
+Inc. accounting for most of that total. 
+Microsoft co-founder and Chairman Bill Gates has said that he and Ballmer look at about 30 or 40 potential 
+targets every day on a spreadsheet. 
+"So, I imagine we'll do some acquisitions. I don't know if we'll do any large ones next year," Gates said at the 
+same analysts conference in July. "But the acquisitions are only worth doing if it's really clear-cut." 
+Rational's shares have since fallen back to prices just below the the per share value assigned to them by the 
+deal, a typical trading pattern before a takeover closes. 
+Rational shares were closed 4 cents lower at $10.39 on Tuesday, while Microsoft ended 0.22 percent lower at 
+$54.36. 
+IBM shares were down 1.6 percent at $80.31. 
+Document lba0000020021218dyci003v0
+
+Page 4 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Microsoft Unveils Business Software 
+Technology 
+Microsoft Unveils Business Software 
+By Rebecca Buckman 
+540 words 
+12 July 2002 
+The Wall Street Journal 
+J
+B5 
+English 
+(Copyright (c) 2002, Dow Jones & Company, Inc.) 
+Microsoft Corp. is pressing ahead with its planned move into business-application software, one of many risky 
+new efforts tied to its purchase last year of the former Great Plains Software. 
+At an event yesterday in Silicon Valley, Microsoft showed off a test version of its much-anticipated 
+"customer-relationship management" software, which helps companies monitor customers and track their 
+purchases. 
+Microsoft General Manager David Thacher said the software, due out before the end of this year, would cost far 
+less than similar products aimed at medium-size businesses. The pricing is "aggressive," he said. "It's aggressive 
+to try to develop a new market demand." 
+Companies will pay anywhere from about $1,000 to $2,000 for back-office "server" software to run the system, 
+Mr. Thacher said, and $395 to $1,395 for each employee who uses it. Customers generally would have to buy 
+other, related Microsoft software to make the system work. 
+The product is perhaps the most important to emerge from the former Great Plains division, recently renamed 
+Microsoft Business Solutions. The rapidly expanding group -- now with about 3,800 employees -- has plunged 
+into an array of new businesses, with varying success, that place Microsoft in the path of rivals that include Intuit 
+Inc. and large German software maker SAP AG. 
+Yesterday, Microsoft, Redmond, Wash., also said it had closed its acquisition, for $1.45 billion, of Danish software 
+maker Navision AS, which is expected to sell the new customer-management software and other products in 
+Europe. 
+Small- and medium-size businesses are a target of Microsoft Chief Executive Steve Ballmer, who faces declining 
+growth in Microsoft's core Windows and Office software franchises. But he has already had to perform a delicate 
+balancing act with Great Plains. 
+Although Microsoft insists the new customer-relationship management product won't compete with higher-end 
+software sold by current business partners such as Siebel Systems Inc. and SAP, many analysts said they 
+believe Microsoft will eventually try to move into the higher-end market. 
+While Microsoft executives ponder how to sell sophisticated software to large companies, they are also worried 
+about tiny customers using off-the-shelf products from companies like Intuit. The division is "dealing with a lot of 
+different little products," said Melissa Eisenstat, an analyst with CIBC World Markets in New York. "They need to 
+begin to rally the product suite" around one big theme. 
+To address problems at the low end, Microsoft recently slashed the price of its Small Business Manager 
+accounting product, to less than $1,000 for some customers from $1,500. 
+It also added new features that the product lacked -- even though cheaper products like Intuit's Quickbooks had 
+them, acknowledged Doug Burgum, the former Great Plains CEO now in charge of Microsoft's Business Solutions 
+group. 
+Finally, Microsoft started selling the product to businesses more directly through technology wholesaler Ingram 
+Micro Inc. after Microsoft "resellers" -- technology consultants who sell software and help customers install it -- 
+complained that the profit margins on Small Business Manager were too small. "We knew we'd have a lot of 
+learning to do," said Mr. Burgum, adding that he feels many of the problems have been addressed.
+
+Page 5 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Document j000000020020712dy7c0000q
+
+Page 6 of 19 © 2013 Factiva, Inc. All rights reserved. 
+6$1.3 BILLION: Microsoft to buy Danish software company v" 
+6$1.3 BILLION: Microsoft to buy Danish software company v" 
+303 words 
+8 May 2002 
+Kitsap Sun 
+KITSAP 
+C07 
+English 
+Copyright 2002 Scripps Howard Publishing, Inc. All Rights Reserved. 
+COPENHAGEN, Denmark (AP) - Microsoft Corp. said Tuesday that it has agreed to buy Danish software 
+company Navision in a $1.3 billion stock and cash deal. 
+Under the deal, Navision will become part of Microsoft's Business Solutions division. Its corporate headquarters 
+in Vedbaek, just north of the capital, Copenhagen, will be Microsoft's center of development and operations for 
+Europe, the Middle East and Africa. 
+Microsoft offered Navision shareholders $37 per share or Microsoft shares based on a specified exchange ratio, 
+according to a news release. Navision said its board was unanimously recommending that shareholders accept 
+the offer. 
+Navision, which has some 1,300 employees in 30 countries, would be the first acquisition for Microsoft since 
+December 2000, when the Redmond-based software giant bought North Dakota-based Great Plains Software in 
+a $1.1 billion deal. 
+""The combined vision, business strategy and product offerings of Microsoft and Navision will provide great 
+benefits to small and midmarket customers and will create strong growth opportunities for Microsoft,"" Microsoft 
+chief executive Steve Ballmer said in a statement. 
+The announcement of the deal sent Navision's shares soaring 11 percent to $36.69 in early trading at the 
+Copenhagen Stock Exchange. 
+Navision sells applications for enterprise resource planning as well as customer relationship and knowledge 
+management. It has been successful in Europe but has failed to penetrate the U.S. market. 
+Customer relationship management, or CRM, allows a company to keep track of its entire relationship with a 
+customer. In addition to recording purchases and notifying users of a customer's service needs, it can link to a 
+company's financial catalog to provide sales estimates, discounts and cross-promotions, and can be used to 
+create a marketing database based on customers' buying habits. 
+"
+Document KITSAP0020100221dy5801tsl
+
+Page 7 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Microsoft to acquire Navision. 
+Microsoft to acquire Navision. 
+775 words 
+8 May 2002 
+Middle East Company News 
+MECOMP 
+English 
+(c) AME Info 
+Microsoft Corp. yesterday announced it has reached an agreement to acquire Navision, a global provider of 
+integrated business software solutions. 
+Dubai, UAE 
+The acquisition will bring together the complementary geographic and product strengths of Navision with 
+Microsoft Great Plains Business Solutions, enhancing Microsoft's ability to deliver interconnected .NET business 
+solutions for small and midmarket businesses. 
+The acquisition is structured as a stock and cash purchase based on an offer to shareholders of 300DKK per 
+share. The total transaction value is estimated at approximately .3 billion (U.S.)/1.5 billion EUR/11 billion DKK. 
+The combined vision, business strategy and product offerings of Microsoft and Navision will provide great 
+benefits to small and midmarket customers, and will create strong growth opportunities for Microsoft, said 
+Microsoft CEO Steve Ballmer. Many business processes in these companies are not yet benefiting from the 
+efficiencies that technology offers. Microsoft and the Navision team together are committed to delivering 
+compelling and powerful solutions and products to this important and large market segment, through our partners, 
+that will enable businesses to be more competitive, agile and productive. 
+Microsoft and Navision have had parallel lives, each with a deep belief in building long-term customer 
+relationships achieved through lasting commitment to talented, value-adding partners, said Doug Burgum, senior 
+vice president of Microsoft and president of Microsoft Great Plains. The combination of these two strong 
+organizations with deeply similar values and approaches makes enormous strategic sense, and will create 
+enhanced opportunities for partners and even more capable and affordable solutions for customers. 
+For Navision, the union represents the logical next step in the company's continued commitment to helping 
+businesses grow. Navision and Microsoft share a common vision for business applications. Through our 
+combined technologies, we will enhance and broaden the solutions that our customers already have invested in, 
+and continue to provide customers with new generations of business applications that make business processes 
+easier and more interconnected, said Jesper Balser, co-CEO of Navision. 
+Once the acquisition has been completed, Navision will become part of Microsoft's Business Solutions division. 
+Navision's corporate headquarters in Vedbaek, Denmark, will become the center of development and operations 
+for Microsoft Business Solutions in Europe, the Middle East and Africa (EMEA), and will become Microsoft's 
+largest product development center outside the United States. 
+Navision's success is built upon a deep understanding of customer needs that is delivered through an extensive 
+local partner network, said Preben Damgaard, co-CEO of Navision. Microsoft's commitment to expanding its 
+product development efforts to EMEA underscores our shared vision for customer solutions that meet the specific 
+needs of our increasingly global customer base. 
+Balser and Damgaard will remain deeply involved with the business. Once the acquisition is completed, Balser 
+will be Director of Global Strategy and Damgaard will be Director of EMEA Operations for Microsoft Business 
+Solutions, based out of Vedbaek, Denmark. 
+Ends 
+Microsoft Contact: 
+Sharon Susanna
+
+Page 8 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Microsoft (GEM) 
+Dubai, United Arab Emirates 
+Tel: 00 9714 391 7246 
+Fax: 00 9714 397 1001 
+ASDA'A Contact: 
+Arun Rangachari 
+ASDA'A Public Relations 
+Dubai, UAE 
+Tel: 00-9714-3344550 
+Tel: 00-9714-3344550 
+About Microsoft Corporation 
+Founded in 1975, Microsoft (Nasdaq "MSFT") is the worldwide leader in software, services and Internet 
+technologies for personal and business computing. The company offers a wide range of products and services 
+designed to empower people through great software - any time, any place and on any device. 
+Microsoft opened its Dubai-based Middle East headquarters office in 1991, which now oversees operations in the 
+GCC as well as Yemen and Pakistan, while Microsoft Egypt oversees operations in the East Mediterranean 
+region. In the last 10 years, Microsoft has opened local offices in Abu Dhabi, Lebanon, Jordan, Kuwait, Pakistan 
+and Oman. 
+Microsoft Corporation's address on the World Wide Web is: www.microsoft.com Microsoft Middle East's Web site 
+is: www.microsoft.com/middleeast. 
+Microsoft, Windows XP, Office XP, Microsoft Office, .NET and Visual Studio.NET are registered trademarks of 
+Microsoft Corp. in the United States and/or other countries. 
+About Navision 
+Navision is the leading global provider of integrated software solutions for small and medium-sized businesses. 
+Navision's software solutions are sold through an extensive network of approximately 2,400 partners. Worldwide, 
+Navision has sold more than 136,000 solutions. The main product lines include Navision Axapta, Navision 
+Attain/Navision Financials and Navision XAL. Navision has 1,300 employees and subsidiaries in 30 countries. 
+The company is listed on the Copenhagen Stock Exchange (CSE NAVI). Navision's corporate headquarters are 
+located in Vedbaek, Denmark. 
+(c) AME Info 
+http://www.ameinfo.com/press/images/microsoft- logo.jpg. 
+Document mecomp0020020509dy58000gz
+
+Page 9 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Microsoft Expands in Europe. 
+Microsoft Expands in Europe. 
+By Brier Dudley, The Seattle Times. 
+868 words 
+8 May 2002 
+KRTBN Knight-Ridder Tribune Business News: Seattle Times 
+KRTBN 
+English 
+Copyright (C) 2002 KRTBN Knight Ridder Tribune Business News 
+May 8-Despite a European Union antitrust investigation into Microsoft's business practices, the company 
+yesterday announced that it's buying a Danish software company to extend its reach into the continent. 
+Microsoft is paying $1.3 billion to acquire Navision, an 18-year-old company that develops software for running 
+small-to medium-size businesses. Based on purchase price, it's the second-largest acquisition ever for Microsoft 
+and part of an effort to broaden its business into new markets. 
+Navision's 1,300 employees will join Microsoft but remain based at its campus outside Copenhagen, which will 
+become the Redmond company's largest overseas software-development center. 
+"The combined vision, business strategy and product offerings of Microsoft and Navision will provide great 
+benefits to small-and mid-market customers, and will create strong growth opportunities for Microsoft," Microsoft 
+Chief Executive Steve Ballmer said in a statement. 
+Analysts said the move makes Microsoft a major player in the $23 billion market for what's known as 
+enterprise-resource-planning software. But they expect Navision will have little direct effect on earnings since its 
+profits of $30 million to $40 million a year pale next to the $7 billion Microsoft netted last year. 
+Microsoft has been expected to begin spending its $38 billion cash hoard, but executives said the Navision deal 
+does not signal a round of spending. They said it completes an effort started several years ago to further broaden 
+its business by entering the market for mid-size business software, a move that began with the $1.1 billion 
+purchase of Fargo, N.D.-based Great Plains Software completed in April 2001. 
+"We always review any opportunities, but the big areas where we wanted to expand the asset we purchased with 
+Great Plains we have filled now," said David Thacher, global manager for customer-relationship management, 
+who worked on the Navision deal. 
+Navision and Great Plains produce similar products but Great Plains does little business outside the United 
+States and Navision has an established presence in nearly every European country. 
+Both companies produce software packages that handle accounting, payroll, inventory management and other 
+business functions for companies with annual revenues up to $800 million. 
+Service and license packages with the Great Plains brand cost $15,000 to more than $100,000. 
+So far only a fraction of standard business processes are automated so there is a huge opportunity to build 
+software that makes those processes easier and connects businesses with trading partners, customers and 
+employees, said Doug Burgum, senior vice president of Microsoft's business-solutions group, which will absorb 
+Navision. 
+"We do have big dreams about what we think we can deliver in terms of value," he told investors and reporters on 
+a conference call yesterday. 
+Burgum said the combined companies will develop business software that could be a flagship use of the .NET 
+platform Microsoft is building to succeed Windows. 
+Asked about the antitrust issue in Europe, Burgum said the Navision acquisition is too small to require antitrust 
+review. Nor do Great Plains and Navision overlap enough in any countries to trigger a review, he said, noting that 
+85 percent of Great Plains' sales are domestic while 86 percent of Navision's are in Europe. 
+"We do not expect any issues whatsoever going forward," he said.
+
+Page 10 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Burgum was formerly chief executive of Great Plains, which added 2,000 employees to Microsoft. He said the 
+Navision merger creates job duplication, and some employees will lose their jobs at both Great Plains and 
+Navision. But they may find other Microsoft jobs. 
+The Navision acquisition will be Microsoft's second-largest when it closes in August. The largest was the 
+purchase of Seattle-based Visio for $1.5 billion in early 2000. 
+It also makes Microsoft the fifth-largest vendor in the market for enterprise-resource-planning software. It's not far 
+behind fourth-place Denver-based J.D. Edwards, said Dennis Byron, an analyst with IDC in Framingham, Mass. 
+"Clearly those guys will be fighting over fourth for quite awhile," he said. The largest seller in the category is SAP, 
+the German software giant. 
+Microsoft also sees an opportunity to sell other products to the 130,000 businesses now using Navision software. 
+One such product is the new customer-relationship-management software going on sale later this year, Thacher 
+said. 
+Some Microsoft watchers expect the company will spend more to grab a bigger share of the small-to mid-size 
+business market. 
+"There's a total corporate strategy to be stronger and more prevalent in the SMB space and I don't think Great 
+Plains and Navision are the end of what they're doing," said analyst Don Young of UBS Warburg in Stamford, 
+Conn. 
+Microsoft Chief Financial Officer John Connors said the purchase could cost a penny or two per share of diluted 
+earnings, but Young said he would be surprised if the deal cost a penny per share of earnings. 
+-
+To see more of The Seattle Times, or to subscribe to the newspaper, go to http://www.seattletimes.com. 
+(c) 2002, The Seattle Times. Distributed by Knight Ridder/Tribune Business News. MSFT, JDEC, UBS,. 
+Document krtbn00020020513dy58002hk
+
+Page 11 of 19 © 2013 Factiva, Inc. All rights reserved. 
+COMPANIES &FINANCE EUROPE - Microsoft Navision buy helps small company focus. 
+COMPANIES &FINANCE EUROPE - Microsoft Navision buy helps small company focus. 
+By PAUL ABRAHAMS. 
+444 words 
+8 May 2002 
+Financial Times 
+FTFT 
+29 
+English 
+(c) 2002 The Financial Times Limited. All rights reserved 
+Microsoft yesterday confirmed it was buying Navision, Europe's fifth-largest software company, in a cash and 
+stock deal worth about DKr11bn ( $1.3bn). 
+The acquisition, Microsoft's second-largest so far, is the latest stage in the rationalisation of the European 
+software industry. The sector has been suffering from a period of lacklustre demand. The deal, first reported in 
+the Financial Times last week, is part of Microsoft's strategy to increase the use of its software among small and 
+medium-sized companies. Last year, it acquired Great Plains, Navision's US rival, for about $1.1bn. 
+Microsoft has been looking to diversify from its dependence on Windows, the personal computer operating 
+system, and Office, its PC productivity tool, which includes Word and Excel. During the last quarter, the group 
+generated $4bn of free cashflow and had $39bn in cash and marketable securities on its balance sheet. 
+The move will provide a significant geographic expansion for Microsoft's push into the small and medium-sized 
+company sector. About 85 per cent of Great Plains' revenues are generated within North America, while Navision 
+generates 86 per cent of its revenues outside Denmark, primarily in the European Union. 
+"The combined vision, business strategy and product offerings of Microsoft and Navision will provide great 
+benefits to small and mid-market customers and will create strong growth opportunities for Microsoft," said Steve 
+Ballmer, Microsoft chief executive. 
+Microsoft is offering DKr300 for each Navision share. Before the deal was first revealed, the shares were trading 
+at DKr219.50, implying a premium of about 36 per cent. The five founders of the company, created in late 2000 
+by the merger of Navision Software and Damgaard, have decided to receive Microsoft shares instead of cash. 
+They own 56.4 per cent of the company. 
+The deal, which is expected to be dilutive for three years, should close in about four months. At the end of last 
+quarter, the company had DKr1.1bn of cash on its balance sheet. 
+Goldman Sachs advised Microsoft, while Navision was advised by Schroder Salomon Smith Barney and Nordea 
+Securities. 
+Navision also released its third-quarter results yesterday. It posted pre-tax profits of DKr44m, compared with 
+expectations of DKr54m, on revenues up 17 per cent at DKr380m. The group said it expected to achieve 18 per 
+cent revenue growth during the fiscal year. 
+The company achieved 70 per cent growth from new licence revenues, but service sales were flat. During the 
+past five years Navision has achieved a compound annual growth rate of 40 per cent. See Lex 
+London Edition 2. 
+Document ftft000020020508dy58000by
+
+Page 12 of 19 © 2013 Factiva, Inc. All rights reserved. 
+LEX COLUMN - Microsoft/Navision. 
+LEX COLUMN - Microsoft/Navision. 
+252 words 
+8 May 2002 
+Financial Times 
+FTFT 
+22 
+English 
+(c) 2002 The Financial Times Limited. All rights reserved 
+Microsoft/Navision 
+Microsoft's $1.3bn cash-and-shares acquisition of Navision barely makes a dent in its famous cash pile. But in 
+strategic terms it is not insignificant. Steve Ballmer wants business solutions to be to Microsoft's .NET web 
+services initiative what Office was to Windows: a showcase for the new platform that will encourage users and 
+developers to adopt it as the standard means of linking software applications via the internet. 
+Microsoft entered the small/ medium sized business market by buying Great Plains 18 months ago. With 
+Navision, it is doubling its bet. Evidently, Great Plains did not give Microsoft everything it needs. It lacks a 
+customer base in Europe, and a product architecture that is easily adaptable to local market requirements. 
+Navision has both and already uses Microsoft platforms. 
+But the price is steep, at more than 40 times 2002 earnings, when Navision's growth rate has been slowing. 
+Repeating the success of Office may well prove to be a pipe dream. Still, better this than wasting cash buying 
+stakes in cable or wireless companies. 
+The deal has rocked Europe's software sector. But small businesses tend to be loyal customers, because of the 
+high costs of changing software vendor. Microsoft may prefer to buy entrenched local champions such as Sage 
+rather than spend years trying to destroy them. The real losers are the big enterprise software providers, SAP, 
+Oracle and Siebel, which will compete with Microsoft in the mid-market. 
+London Edition 1. 
+Document ftft000020020508dy580008y
+
+Page 13 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Microsoft to Acquire Navision 
+Microsoft to Acquire Navision 
+978 words 
+7 May 2002 
+02:46 
+PR Newswire 
+PRN 
+English 
+(Copyright (c) 2002, PR Newswire) 
+In the news advisory, Microsoft Announces Intent to Acquire 
+Navision, issued 
+earlier today by Microsoft Corp. (Nasdaq: MSFT) over PR Newswire, we are 
+advised by a representative of the company that the Domestic Teleconference 
+Call Number for the U.S. Conference Call should read "888-459-9165" rather 
+than "888-459-9164" as originally issued inadvertently. 
+CORRECTED BY PR NEWSWIRE AT 12:01 EDT. Companies Combine Strengths to 
+Accelerate .NET Business Applications Strategy 
+For Small and Midmarket Businesses 
+COPENHAGEN, Denmark, May 7 /PRNewswire-FirstCall/ -- Microsoft Corp. (Nasdaq: MSFT) today announced it 
+has reached an agreement to acquire Navision, a global provider of integrated business software solutions. The 
+acquisition will bring together the complementary geographic and product strengths of Navision with Microsoft 
+Great Plains Business Solutions, enhancing Microsoft's ability to deliver interconnected .NET business solutions 
+for small and midmarket businesses. 
+The acquisition is structured as a stock and cash purchase based on an offer to shareholders of 300DKK per 
+share. The total transaction value is estimated at approximately $1.3 billion (U.S.)/1.5 billion EUR/11 billion DKK. 
+"The combined vision, business strategy and product offerings of Microsoft and Navision will provide great 
+benefits to small and midmarket customers, and will create strong growth opportunities for Microsoft," said 
+Microsoft CEO Steve Ballmer. "Many business processes in these companies are not yet benefiting from the 
+efficiencies that technology offers. Microsoft and the Navision team together are committed to delivering 
+compelling and powerful solutions and products to this important and large market segment, through our partners, 
+that will enable businesses to be more competitive, agile and productive." 
+"Microsoft and Navision have had parallel lives, each with a deep belief in building long-term customer 
+relationships achieved through lasting commitment to talented, value-adding partners," said Doug Burgum, senior 
+vice president of Microsoft and president of Microsoft Great Plains. "The combination of these two strong 
+organizations with deeply similar values and approaches makes enormous strategic sense, and will create 
+enhanced opportunities for partners and even more capable and affordable solutions for customers." 
+For Navision, the union represents the logical next step in the company's continued commitment to helping 
+businesses grow. "Navision and Microsoft share a common vision for business applications. Through our 
+combined technologies, we will enhance and broaden the solutions that our customers already have invested in, 
+and continue to provide customers with new generations of business applications that make business processes 
+easier and more interconnected," said Jesper Balser, co-CEO of Navision. 
+Once the acquisition has been completed, Navision will become part of Microsoft's Business Solutions division. 
+Navision's corporate headquarters in Vedbaek, Denmark, will become the center of development and operations 
+for Microsoft Business Solutions in Europe, the Middle East and Africa (EMEA), and will become Microsoft's 
+largest product development center outside the United States. 
+"Navision's success is built upon a deep understanding of customer needs that is delivered through an extensive 
+local partner network," said Preben Damgaard, co-CEO of Navision. "Microsoft's commitment to expanding its 
+product development efforts to EMEA underscores our shared vision for customer solutions that meet the specific 
+needs of our increasingly global customer base."
+
+Page 14 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Balser and Damgaard will remain deeply involved with the business. Once the acquisition is completed, Balser 
+will be Director of global strategy and Damgaard will be Director of EMEA operations for Microsoft Business 
+Solutions, based out of Vedbaek, Denmark. 
+About Navision 
+Navision is the leading global provider of integrated software solutions for small and medium-sized businesses. 
+Navision's software solutions are sold through an extensive network of approximately 2,400 partners. Worldwide, 
+Navision has sold more than 136,000 solutions. The main product lines include Navision Axapta(R), Navision 
+Attain(R)/Navision Financials(R) and Navision XAL(R). Navision has 1,300 employees and subsidiaries in 30 
+countries. The company is listed on the Copenhagen Stock Exchange (CSE "NAVI"). Navision's corporate 
+headquarters are located in Vedbaek, Denmark. 
+About Microsoft Great Plains Business Solutions 
+Microsoft Great Plains provides business applications that help small businesses, midmarket companies and 
+midsize enterprises become more agile in today's interconnected economy by extending specific information and 
+procedures to employees, customers, vendors and partners. The business applications automate end-to-end 
+business processes across financials, distribution, project accounting, electronic commerce, human resources 
+and payroll, manufacturing, supply chain management, business analytics, sales and marketing management, 
+and customer service and support. More information about the solutions offered by Microsoft Great Plains can be 
+found at http://www.greatplains.com/ or at http://www.microsoft.com/greatplains/. 
+About Microsoft 
+Founded in 1975, Microsoft is the worldwide leader in software, services and Internet technologies for personal 
+and business computing. The company offers a wide range of products and services designed to empower 
+people through great software -- any time, any place and on any device. 
+NOTE: Microsoft and Great Plains are either registered trademarks or trademarks of Microsoft Corp. or Great 
+Plains in the United States and/or other countries. 
+Great Plains Software Inc. is a wholly owned subsidiary of Microsoft Corp. The names of actual companies and 
+products mentioned herein may be the trademarks of their respective owners. 
+Tell Us What You Think -- Click Here 
+http://tbutton.prnewswire.com/prn/11690X66075560 
+/NOTE TO EDITORS: If you are interested in viewing additional information on Microsoft, please visit the 
+Microsoft(R) Web page at http://www.microsoft.com/presspass/ on Microsoft's corporate information pages. Web 
+links, telephone numbers and titles were correct at time of publication, but may since have changed. Journalists 
+and analysts may contact Microsoft's Rapid Response Team for additional assistance./ 
+Document prn0000020020507dy570003d
+
+Page 15 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Microsoft expands in Europe with Navision deal. 
+Microsoft expands in Europe with Navision deal. 
+By PAUL ABRAHAMS IN SAN FRANCISCO. 
+662 words 
+7 May 2002 
+Financial Times (FT.Com) 
+FTCOM 
+English 
+(c) 2002 The Financial Times Limited. All rights reserved 
+Microsoft on Tuesday confirmed it was buying Navision of Denmark, Europe's fifth-largest software company, in 
+a deal worth about DKr11bn ($1.3bn). The acquisition, Microsoft's second-largest to date, is the latest stage in the 
+rationalisation of the highly fragmented European software industry, which has been suffering from lacklustre 
+demand. 
+The deal, first reported in the Financial Times last week, is part of Microsoft's strategy to increase the use of its 
+software among small-and medium-sized companies. Last year, it acquired Great Plains, Navision's US rival, for 
+about $1.1bn. 
+Microsoft has been looking to diversify from its dependence on Windows, the personal computer operating 
+system, and Office, its PC productivity tool that includes Word and Excel. Both products are hugely lucrative, but 
+growth has been held back by growing saturation of the PC market in developed nations. During the last quarter, 
+the group generated $4bn of free-cash flow and had $39bn in cash and marketable securities on its balance 
+sheet. 
+The latest acquisition will provide a significant geographic expansion for Microsoft's push into the small-and 
+medium-sized company sector. About 85 per cent of Great Plains' revenues are generated within north America, 
+while Navision generates 86 per cent of its revenues outside Denmark, primarily in the European Union. 
+"The combined vision, business strategy and product offerings of Microsoft and Navision will provide great 
+benefits to small-and mid-market customers and will create strong growth opportunities for Microsoft," said Mr 
+Steve Ballmer, Microsoft's chief executive. "Many business processes in these companies are not yet benefiting 
+from the efficiencies that technology offers." 
+Microsoft is offering DKr300 for each Navision share. Before the deal was first revealed, the shares were trading 
+at DKr219.50, implying a premium of about 36 per cent. The five founders of the company, created in late 2000 
+by the merger of Danish companies Navision Software and Damgaard, have decided to receive Microsoft 
+shares. They own 56.4 per cent of the company. 
+The deal, which is expected to be dilutive for three years, is due to close in about four months. At the end of last 
+quarter, the company had DKr1.1bn of cash on its balance sheet. 
+Navision also released its third-quarter results on Tuesday. It posted pre-tax profits of DKr44m, compared with 
+expectations of DKr54m. The group said it expected to achieve 18 per cent revenue growth during the fiscal year. 
+The company achieved 70 per cent growth from new licence revenues, but service sales were flat. During the 
+past five years Navision has achieved a compound annual growth rate of 40 per cent. 
+In February, the group reported a net profit of DKr122m for the six months ending December 31, more than 
+double the result for the same period the previous year. This was achieved on sales of DKr849m, up from 
+DKr713m. 
+Doug Burgum, president of Great Plains, said there would be some job losses, mainly in administration, but he 
+hoped the staff would find jobs elsewhere within Microsoft. Navision has 700 people in Copenhagen and 600 
+elsewhere. Great Plains has about 2,500 staff worldwide. 
+Once the acquisition has been completed, Navision's headquarters in Vedbaek, Denmark, will become the centre 
+of development and operations for Microsoft's business solutions business in Europe, Middle East and Africa.
+
+Page 16 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Jesper Balser, co-CEO of Navision, will become director of global strategy, and Preben Damgaard, director of 
+EMEA operations for Microsoft business solutions. 
+Mr Burgum said the long-term goal was that Great Plains would be everywhere that Microsoft was. But the 
+company was unlikely to make significant acquisitions in other markets in the short-term because they were less 
+developed. 
+Mr Balser said the deal was a vote of confidence in the European software industry. 
+Goldman Sachs advised Microsoft, while Navision was advised by Schroder Salomon Smith Barney and Nordea 
+Securities. 
+Document ftcom00020020508dy570001g
+
+Page 17 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Lex - Microsoft/Navision. 
+Lex - Microsoft/Navision. 
+246 words 
+7 May 2002 
+Financial Times (FT.Com) 
+FTCOM 
+English 
+(c) 2002 The Financial Times Limited. All rights reserved 
+Microsoft's $1.3bn cash-and-shares acquisition of Navision barely makes a dent in its famous cash pile. But in 
+strategic terms it is not insignificant. Steve Ballmer wants business solutions to be to Microsoft's .NET web 
+services initiative what Office was to Windows: a showcase for the new platform that will encourage users and 
+developers to adopt it as the standard means of linking software applications via the internet. 
+Microsoft entered the small/medium sized business market by buying Great Plains 18 months ago. With Navision, 
+it is doubling its bet. Evidently, Great Plains did not give Microsoft everything it needs. It lacks a customer base in 
+Europe, and a product architecture that is easily adaptable to local market requirements. Navision has both and 
+already uses Microsoft platforms. 
+But the price is steep, at more than 40 times 2002 earnings, when Navision's growth rate has been slowing. 
+Repeating the success of Office may well prove to be a pipe dream. Still, better this than wasting cash buying 
+stakes in cable or wireless companies. 
+The deal has rocked Europe's software sector. But small businesses tend to be loyal customers, because of the 
+high costs of changing software vendor. Microsoft may prefer to buy entrenched local champions such as Sage 
+rather than spend years trying to destroy them. The real losers are the big enterprise software providers, SAP, 
+Oracle and Siebel, which will compete with Microsoft in the mid-market. 
+Document ftcom00020020508dy570001b
+
+Page 18 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Microsoft expands in Europe with Navision deal. 
+Microsoft expands in Europe with Navision deal. 
+By PAUL ABRAHAMS IN SAN FRANCISCO. 
+662 words 
+7 May 2002 
+Financial Times (FT.Com) 
+FTCOM 
+English 
+(c) 2002 The Financial Times Limited. All rights reserved 
+Microsoft on Tuesday confirmed it was buying Navision of Denmark, Europe's fifth-largest software company, in 
+a deal worth about DKr11bn ($1.3bn). The acquisition, Microsoft's second-largest to date, is the latest stage in the 
+rationalisation of the highly fragmented European software industry, which has been suffering from lacklustre 
+demand. 
+The deal, first reported in the Financial Times last week, is part of Microsoft's strategy to increase the use of its 
+software among small-and medium-sized companies. Last year, it acquired Great Plains, Navision's US rival, for 
+about $1.1bn. 
+Microsoft has been looking to diversify from its dependence on Windows, the personal computer operating 
+system, and Office, its PC productivity tool that includes Word and Excel. Both products are hugely lucrative, but 
+growth has been held back by growing saturation of the PC market in developed nations. During the last quarter, 
+the group generated $4bn of free-cash flow and had $39bn in cash and marketable securities on its balance 
+sheet. 
+The latest acquisition will provide a significant geographic expansion for Microsoft's push into the small-and 
+medium-sized company sector. About 85 per cent of Great Plains' revenues are generated within north America, 
+while Navision generates 86 per cent of its revenues outside Denmark, primarily in the European Union. 
+"The combined vision, business strategy and product offerings of Microsoft and Navision will provide great 
+benefits to small-and mid-market customers and will create strong growth opportunities for Microsoft," said Mr 
+Steve Ballmer, Microsoft's chief executive. "Many business processes in these companies are not yet benefiting 
+from the efficiencies that technology offers." 
+Microsoft is offering DKr300 for each Navision share. Before the deal was first revealed, the shares were trading 
+at DKr219.50, implying a premium of about 36 per cent. The five founders of the company, created in late 2000 
+by the merger of Danish companies Navision Software and Damgaard, have decided to receive Microsoft 
+shares. They own 56.4 per cent of the company. 
+The deal, which is expected to be dilutive for three years, is due to close in about four months. At the end of last 
+quarter, the company had DKr1.1bn of cash on its balance sheet. 
+Navision also released its third-quarter results on Tuesday. It posted pre-tax profits of DKr44m, compared with 
+expectations of DKr54m. The group said it expected to achieve 18 per cent revenue growth during the fiscal year. 
+The company achieved 70 per cent growth from new licence revenues, but service sales were flat. During the 
+past five years Navision has achieved a compound annual growth rate of 40 per cent. 
+In February, the group reported a net profit of DKr122m for the six months ending December 31, more than 
+double the result for the same period the previous year. This was achieved on sales of DKr849m, up from 
+DKr713m. 
+Doug Bergum, president of Great Plains, said there would be some job losses, mainly in administration, but he 
+hoped the staff would find jobs elsewhere within Microsoft. Navision has 700 people in Copenhagen and 600 
+elsewhere. Great Plains has about 2,500 staff worldwide. 
+Once the acquisition has been completed, Navision's headquarters in Vedbaek, Denmark, will become the centre 
+of development and operations for Microsoft's business solutions business in Europe, Middle East and Africa.
+
+Page 19 of 19 © 2013 Factiva, Inc. All rights reserved. 
+Jesper Balser, co-CEO of Navision, will become director of global strategy, and Preben Damgaard, director of 
+EMEA operations for Microsoft business solutions. 
+Mr Bergum said the long-term goal was that Great Plains would be everywhere that Microsoft was. But the 
+company was unlikely to make significant acquisitions in other markets in the short-term because they were less 
+developed. 
+Mr Balser said the deal was a vote of confidence in the European software industry. 
+Goldman Sachs advised Microsoft, while Navision was advised by Schroder Salomon Smith Barney and Nordea 
+Securities. 
+Document ftcom00020020508dy570000m 
+Search Summary 
+Text Ballmer AND Navision 
+Date 01/01/1990 to 01/01/2003 
+Source All Publications 
+Author All Authors 
+Company Microsoft Corp. 
+Subject Acquisitions/Mergers/Takeovers 
+Industry All Industries 
+Region All Regions 
+Language English
+

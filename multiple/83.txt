@@ -1,0 +1,659 @@
+Page 1 of 16 © 2013 Factiva, Inc. All rights reserved. 
+Event Brief of Q3 2009 Intel Corporation Earnings Conference Call - Final ...................................................................2 
+Intel agrees to acquire Wind River for $884M; Purchase to help chipmaker move into consumer electronics, wireless 
+devices ..........................................................................................................................................................................13 
+Intel sets sights on new frontiers with $884m Wind River purchase .............................................................................14 
+Intel to buy Wind River, charging into software .............................................................................................................15
+
+Page 2 of 16 © 2013 Factiva, Inc. All rights reserved. 
+Event Brief of Q3 2009 Intel Corporation Earnings Conference Call - Final 
+Event Brief of Q3 2009 Intel Corporation Earnings Conference Call - Final 
+7,938 words 
+13 October 2009 
+CQ FD Disclosure 
+FNDW 
+English 
+©2009 by CQ Transcriptions, LLC. All rights reserved. 
+PARTICIPANTS 
+. Kevin Sellers, Intel Corporation, VP, IR . Paul Otellini, Intel Corporation, President, CEO . Stacy Smith, Intel 
+Corporation, VP, CFO . Uche Orji, UBS, Analyst . Sumit Dhanda, BAS-ML, Analyst . Craig Berger, FBR Capital 
+Markets, Analyst . Daniel Berenbaum, Auriga USA, Analyst . John Pitzer, Credit Suisse, Analyst . Glen Yeung, 
+Citi, Analyst . Chris Danely, JPMorgan, Analyst . Gus Richard, Piper Jaffray, Analyst . Doug Freedman, 
+Broadpoint AmTech, Analyst . John Barton, Cowen, Analyst . Manish Goyal, TIIA-CREF, Analyst . Brendan 
+Furlong, Miller Tabak, Analyst . Tristan Gerra, Robert Baird, Analyst . Ross Seymore, Deutsche Bank, Analyst . 
+Tim Luke, Barclays Capital, Analyst . Jim Covello, Goldman Sachs, Analyst . David Wong, Wells Fargo Securities, 
+Analyst . Mark Lipacis, Morgan Stanley, Analyst . Alex Gauna, JMP Securities, Analyst 
+OVERVIEW 
+INTC reported 3Q09 operating profit of $2.6b. Expects the mid-point of 4Q09 revenue to be $10.1b. 
+FINANCIAL DATA 
+A. Key Data From Call 1. 3Q09 operating profit = $2.6b. 2. 3Q09 GM = 58%. 3. 3Q09-end total cash investments 
+(comprised of cash, short-term investments and debt security trading asset) = $12.9b. 4. 3Q09 share repurchase 
+= $1.7b. 5. 4Q09 mid-point revenue guidance = $10.1b. 
+PRESENTATION SUMMARY 
+S1. 3Q09 Business Review (P.O.) 1. Highlights: 1. Strength in business remains primarily consumer driven with 
+broad-based demand across all geographies. 2. Mobile business had particularly strong qtr. 1. Saw sequential 
+unit growth rate of notebook processors and chipsets actually exceed growth rate of Atom processors and 
+chipsets. 2. While Atom and netbooks are important growth drivers, traditional notebook business remains one of 
+primary drivers of revenue growth. 1. Expects this to continue in future. 3. Server: 1. Pleased with acceptance of 
+(indiscernible) enterprise. 2. While overall enterprise spending remains weak, compelling value proposition of 
+[helium] is generating growth opportunities even in down economy. 3. Will be strong profit driver in coming 
+quarters. 4. Regionally: 1. China had particularly strong qtr. 1. Continued to show strength during just completed 
+Golden Week. 2. US continued to ride strong consumer sales with back-to-school cycle exceeding expectations. 
+3. Sequentially, Japan showed healthy growth and Europe growth was slightly above seasonal trends. 2. 
+Inventory: 1. Channel sales-out, shown healthy sequential growth for three quarters in a row with channel 
+sales-out this qtr. actually exceeding 3Q08 activity. 2. Inventory in channel remains slightly below normal levels, 
+reflecting: 1. Good sell through. 2. Disciplined inventory management. 3. At large OEM customers, compounded 
+inventories are roughly half the peak level of late year. 1. Been approx. flat throughout 2009. 2. Much of 
+aforementioned is due to implementation of inventory hubs where Co. holds inventory for large OEM customers 
+who then pull inventory only if needed. 1. Helps customers to better manage their inventory levels while giving 
+Co. increased visibility into real time system production levels. 4. Watches supply chain inventory carefully. 1. 
+Believes pipeline has been appropriately rebuilt to support increased end-demand and yet remains well below 
+2008-end peak. 5. Internal inventories continue to run quite lean with factory throughput improvements providing 
+Co. with ability to respond to demand changes far more quickly and effectively then ever before. 1. Product cost 
+declines, significant and are a reflection of: 1. Improved loadings. 2. Better equipment reuse. 3. Exceptional 
+yields. 2. All of aforementioned leads to better-than-expected costs across newer technologies allowing to expand 
+margins in difficult economic environment. 3. Process Technology Leadership: 1. Biggest driver of production 
+differentiation. 2. At IDF Event last month in San Francisco, mentioned that Co. has shipped over 200m 45 
+nanometer processors to date. 3. This qtr., began volume production of newest process technology of 32 
+nanometers. 4. 32 Nanometer Process: 1. Incorporates second generation of high-k metal gate transistors. 2. As 
+Co. ramps this new technology, will be refreshing entire product line providing better performance, lower costs 
+and lower power consumption for all platforms. 3. Allows to accelerate System-on-Chip implementation of INTC 
+architecture, providing Co. with new growth opportunities in coming years.
+
+Page 3 of 16 © 2013 Factiva, Inc. All rights reserved. 
+S2. 3Q09 Financial Review (S.S.) 1. Results: 1. Combination of strong execution and strengthening market led to 
+exceptional financial results. 2. Better-than-expected demand in microprocessor and chipset businesses led to 
+largest sequential 3Q revenue growth in over 30 years. 3. GM, 58%. 1. Up nearly 7 points from 2Q09. 4. 
+Operating profit, up 80% and net income was up 77%, excluding the impact of $1.45b EC fine taken in 2Q09. 5. 
+PC market segment, recovering nicely with microprocessor revenue, excluding Atom, growing 23% since market 
+bottomed in 1Q09. 1. In same time period, Atom microprocessors and associated chipsets have grown to $450m 
+in revenue in 3Q09 and $1b YTD. 6. GM benefited from exceptional execution. 1. Responded to customers' 
+upside requests and achieved significant reduction in costs resulting in 58% GM, nearly 7 point increase from 
+3Q08. 7. Due to capital reuse and achieving efficiencies, capital forecast of $4.5b is now less than annual 
+depreciation run rate. 8. OpEx, in tight control. 1. Most clearly seen in spending as a percent of revenue. 2. 
+Spending for R&D and MG&A as a percent of revenue improved 2.5 percentage points to 29%. 1. Achieved this 
+result inclusive of biannual shifts of process engineers moving from cost of sales to R&D. 9. Number of 
+employees increased less than 300 people including completion of Wind River acquisition. 2. Other Results: 1. 
+Business model, generating profits and cash. 2. Operating profit, $2.6b. 1. Up 80% from $1.4b excluding EC fine. 
+2. As a percent of revenue, grew 9.6 points to 27%. 3. 3Q09-end total cash investments, comprised of cash, 
+short-term investments and debt security trading asset, $12.9b. 1. $1.6b higher than 2Q09. 4. Cash flow from 
+operations, approx. $4b. 1. Paid EC fine. 2. Purchased Wind River. 3. Bought back $1.7b in stock. 4. Paid nearly 
+$800m in dividends. 5. Purchased $944m in capital assets. 6. Issued $2b of convertible debt. 3. 4Q09 Guidance: 
+1. Forecasting seasonal increase in revenue, taking mid-point of forecast range to $10.1b, 23% increase from 
+4Q08. 2. Mid-point of GM range to increase another 4.5 points to 62%. 
+QUESTION AND ANSWER SUMMARY 
+OPERATOR: Your first question is from the line of Uche Orji with UBS. 
+UCHE ORJI, ANALYST, UBS: Thank you very much. Let me just ask about inventories. There's a lot of talk, Paul, 
+about double ordering in the channel. Let me just ask you, your in house inventory is well below your historical 
+levels. Is this a new normal given reduced cycle times or should we expect a rebuild through the rest of Q4 into 
+first half of 2010? And related to that can you just also talk about what you're seeing in terms of corporate 
+spending, was there a little bit of corporate spending embedded in Q4 guidance or should we expect more from 
+corporate in 2010? 
+KEVIN SELLERS, VP, IR, INTEL CORPORATION: Hey, Uche. We're going to pick the first question, kind of keep 
+it to one question if we could. 
+UCHE ORJI: I have to try. 
+PAUL OTELLINI, PRESIDENT, CEO, INTEL CORPORATION: It was a run on sentence approach to one 
+question. I got it. Let me take -- since it's an internal inventory question, let me take it. I'm sure Paul will take the 
+other question is on channel inventory as well as we go forward here. From an internal inventory standpoint we're 
+lower than I would like right now. We want to get some inventory in place in Q4, part of that is we're just running a 
+little leaner. We were surprised by some of the unit upsides we saw over the course of the third quarter and we 
+want to replenish and we're also, as we're on the cusp of the transition to 32-nanometer, if you look historically it's 
+a time when we put a little more inventory in place to buffer both sides of the demand, supply equation so I plan to 
+grow inventories a bit in the fourth quarter. 
+UCHE ORJI: Thank you. 
+KEVIN SELLERS: Go ahead, next questioner. 
+OPERATOR: Your next question is from the line of Sumit Dhanda with Bank of America. 
+SUMIT DHANDA, ANALYST, BAS-ML: Stacy, question for you on the fourth quarter gross margin outlook, 
+obviously very strong. My only question was you've indicated in your transcript that there's a point from higher 
+CPU volumes in terms of a benefit. I guess my question was is mix assumed flat and then along the same lines, 
+given that your excess capacity charges are dropping off, and your fab loadings are increasing as you build 
+inventory, why not a higher bump just from volumes into Q4? 
+STACY SMITH, VP, CFO, INTEL CORPORATION: Yes, thanks. On the first question of mix, we'll likely see a 
+slightly richer mix of CPU shipments in the fourth quarter than we do in the third. Remember the way the supply 
+chain works and we think the supply chain's looking pretty normal right now, they put some chipset inventory in 
+place in the third quarter and then they couple it with a CPU in the fourth quarter. So probably a little richer mix to 
+CPUs in the fourth, that coupled with an increase in volume is about a point of the gross margin. To your excess
+
+Page 4 of 16 © 2013 Factiva, Inc. All rights reserved. 
+capacity question, the answer is we'll be out of excess capacity charges by the end of the fourth quarter. So we 
+kind of took some significant charges in -- end of Q4, Q1. We saw some improvement in Q2 and Q3 with the 
+further improvement that we're forecasting for Q4, those will be zero, in essence, as we leave the quarter. 
+SUMIT DHANDA: Thanks. Next question. 
+OPERATOR: Your next question is from the line of Craig Berger with BBR Capital Markets. 
+CRAIG BERGER, ANALYST, FBR CAPITAL MARKETS: Hey, guys, congratulations on the strong results and 
+kudos on the conference call process improvement. I guess on the gross margin, can you help us understand 
+where capacity utilizations are at and what kind of capacity you have for 2010 growth? And then also, as part of 
+that, if you look at the last time your revenues were about at this level--? 
+STACY SMITH: Craig? 
+KEVIN SELLERS: We lost Craig. 
+STACY SMITH: Are you still there? 
+OPERATOR: Yes, sir. 
+CRAIG BERGER: --why that happened. 
+STACY SMITH: We lost you, Craig. We got the first part of your question but you went out for a minute. You'll 
+have to restate that. 
+CRAIG BERGER: Utilizations and the last time you guys were at $10.1 billion in Q3 '08, your gross margins were 
+about 3 to 4 points lower. Can you talk about some of the structural improvements that have happened over the 
+last year? 
+PAUL OTELLINI: Yes. To your utilization question, I showed a chart at the investor meeting that showed my 
+expectations for the year. We're a little ahead of that. So in Q4, from a factory utilization standpoint, we're right in 
+what I call the optimal range. We're kind of between 80 and 90%, gives us the ability to achieve really good cost 
+and also have some capability to deal with upsides on specific products so that's where we're at. And then to the 
+-- to your gross margin question, it's really the work we've been doing over the last three years. We're in a 
+situation where we're able to reuse a significant amount of capacity from 45 to 32. That's going to be helpful to us. 
+You can see that in our CapEx line. You can see our costs coming down, our through-put times are coming down, 
+our output per piece of equipment is going up. Our yields are going up. So it's just a variety of work there that's 
+leading to really good performance from the factory network that's helping us in the gross margin line. 
+STACY SMITH: I think the other part of Craig's question was 2010 capacity so let me just share that. The 
+significant increase in our capacity going into next year, Craig, is to continue to ramp the 32-nanometer factories. 
+We've got two factories sort of ramping now against a planned four. That remains on track. That technology will 
+provide the significant new product portfolio and capacity expansion we think we need for the 2010 environment. 
+CRAIG BERGER: Thank you so much. 
+STACY SMITH: Thanks, Craig. Go ahead. 
+OPERATOR: Your next question is from the line of Daniel Berenbaum with Auriga USA. 
+DANIEL BERENBAUM, ANALYST, AURIGA USA: Thanks very much for taking the call. You guys have done a 
+great job managing OpEx and maybe along the lines of the last question, when you look at the last time if you 
+look at Q4 guidance, midpoint the last time you were at that revenue level you were around the same OpEx level 
+as you guided to and that's with the shift of startup costs into the R&D line. So as you look forward into 2010, 
+assuming you continue to see some of this strength, do you need to add anything back to the R&D or SG&A lines 
+or do the cuts continue as we roll into 2010? Is there more money to take out of those lines? 
+STACY SMITH: Yes, I'm not going to provide a point forecast for 2010. Let me, though, answer a couple things 
+we told you before. I want to just reinforce. First off, we do believe that through our work on efficiency, we can 
+continue to improve spending as a percent of revenue. And so that's an area where Paul and I continue to be very 
+focused. We believe that there's potential benefit there as revenue grows where we can thank some of those
+
+Page 5 of 16 © 2013 Factiva, Inc. All rights reserved. 
+efficiencies. It's different from a are we going to be smaller next year. I would say we're through the cutting phase 
+of our efficiency effort and now we're hopefully in the growth phase of that efficiency effort. I think that was it. Yes. 
+DANIEL BERENBAUM: That's great. Thanks. 
+KEVIN SELLERS: Thanks, Dan. Next question. 
+OPERATOR: Your next question is from the line of John Pitzer with Credit Suisse. 
+JOHN PITZER, ANALYST, CREDIT SUISSE: Yes, good afternoon, guys, congratulations. Paul, in your opening 
+comments you talked about Nehalem being a profit driver over the next couple quarters. There's been a lot of 
+conversations about the PC upgrade cycle within the corporate market. Can you help me understand how you 
+guys are looking at sort of the potential for server replacement cycle and I guess with the EX coming out, help me 
+understand to what extent that helps you grow market share and/or go after some of the proprietary solutions that 
+X86 has not addressed and what could happen to TAM there as you do that? 
+PAUL OTELLINI: Okay. Well, the Nehalem product line you're right, John, is now ramping through the bulk of our 
+products. We've launched the high end desktop, mid-range desktop and notebook and now you'll start seeing 
+more volume start shipping this quarter in addition to the -- in anticipation of a January launch so we'll have a 
+full-fledged client portfolio and the MP servers all shipping by year-end. Around Nehalem. 
+In terms of a server upgrade cycle, what we're seeing on the Nehalem DP is that it's not so much an upgrade 
+cycle that's driving the volume right now. It's economics of the data center. People are looking at swapping out 
+eight to nine older generation servers for a single Nehalem server on a ratio basis. That has the same 
+performance, same or better performance, much better power consumption so it lowers their electricity bill and 
+gives them a little bit more flexibility in their data center footprint. I think that's just going to get accelerated MPs 
+start shipping because you have those same dynamics applying in there against an older generation of machines. 
+I do think that if there is opportunity with the MP machines to start encroaching on what has traditionally been the 
+risk portion of the market or even some of the low end of the mainframe portions of the market with this product 
+line. As you look at some of the very high end machines our customers are working on that are well above 
+eight-way machines. 
+The bad news about that is that that part of the market is very small in units so when I look at the overall TAM 
+expansion, there's good margin there. There's good numbers. But it's not anywhere near what we would get by, 
+say, replacing the existing Xeon machines both MP and DP and the existing data frame, data center 
+configurations. 
+JOHN PITZER: Thanks, guys. 
+KEVIN SELLERS: Thanks, John. 
+OPERATOR: Your next question is from the line of Glen Yeung with Citi. 
+GLEN YEUNG, ANALYST, CITI: Paul, maybe just your insight here. To the extent that Intel's growing above the 
+industry growth rate, to what extent do you think that's attributable to, one, share gain? Two, market creation from 
+Atom? And three, any pent-up demand that you may be seeing for Nehalem? 
+PAUL OTELLINI: Which industry are you referring to? 
+GLEN YEUNG: Well, PCs. 
+PAUL OTELLINI: Oh, I don't think that we can grow much both the PC growth rate at the end of the day. There 
+has been some share gain over the course of this year. We'll see what this quarter maps out to but I would think 
+that trend was -- could continue this quarter. But at the end of the day, we need the volume. The PC market has 
+to grow. Our current view of the PC market as I said at IDF is that the volume year on year, '09 versus '08 will be 
+flat to up slightly which is a significant change from the industry view six months ago and I think you're seeing 
+inside of the that Intel do well because of the shift to notebooks where we enjoy a higher market segment share 
+than we do in desktops. 
+GLEN YEUNG: Thanks. 
+PAUL OTELLINI: Thanks. 
+OPERATOR: Your next question is from the line of Chris Danely with JPMorgan.
+
+Page 6 of 16 © 2013 Factiva, Inc. All rights reserved. 
+CHRIS DANELY, ANALYST, JPMORGAN: Thanks, Stacy. You said you wanted to grow your inventory a little bit 
+in Q4. Can you give us a sense of if there was any sort of target you have in mind and then what would be the 
+thoughts on Q1 assuming some sort of normal seasonal quarter, would you look to take inventory up, down or 
+keep it flat in Q1? 
+STACY SMITH: Yes, I'm not going to put a forecast out there for Q1. I'd like to grow inventory modestly this 
+quarter and keep in mind, we're also going to have the phenomenon that you can see in the gross margin line 
+where we will, as we qualify the first products on 32-nanometer for sale, we will value that inventory. So that was 
+stuff that was written off in the third quarter and then we'll value the material in the line in the fourth quarter. So 
+that's a piece of it. But I would expect to put modest amount of inventory in place in the fourth quarter just to build 
+the inventory level back up and to make sure I have the right mix of products as I go through the product 
+transitions. 
+KEVIN SELLERS: Thanks, Chris. Next question. 
+OPERATOR: Your next question is from the line of Gus Richard with Piper Jaffray. 
+GUS RICHARD, ANALYST, PIPER JAFFRAY: Thanks for taking my question. Real short one. What is -- what 
+was the sale of Atom related products and that was at--? 
+STACY SMITH: In the quarter, so Atom and the associated chipsets were a bit above $400 million, I think $415 
+million was the exact number and year-to-date we've sold over or right at $1 billion worth of Atom and associated 
+chipsets. 
+PAUL OTELLINI: Is that what you needed, Gus? 
+GUS RICHARD: Can I ask another one? 
+PAUL OTELLINI: Sure, follow-up, go ahead. 
+GUS RICHARD: Real quick. On Win 7, it's obviously a significant product launch for Microsoft, has that had any 
+peturbation at all in the supply chain and how are you guys seeing that? 
+PAUL OTELLINI: Not that we've seen. I think there's a lot of excitement about Win 7 but again, the trend we saw 
+for the bulk of this year including the current quarter, third quarter, was driven by consumer sales, particularly in 
+notebooks and netbooks. If you go into retail now, you're seeing that OEMs and retail channels are offering 
+coupons for machines, for an upgrade, a free upgrade to Win 7 when it comes out which has been done by 
+Microsoft in prior generations so that tends to reduce any wait for the launch kind of anticipation for people that 
+really want it and get the upgrade that way in a seamless, no cost basis. 
+The Corporate side is a bit different. The Corporate needs to do a qualification in their environment and that 
+process has begun on a worldwide basis. We see a lot of interest in corporations around Win 7 and the new 
+Nehalem based SKUs which are sort of made for each other in terms of the performance and power management 
+and security characteristics of the products that go together there. I would expect that that evaluation process will 
+happen over the rest of this year and we'll start seeing corporate purchases on a refresh basis begin in 2010. 
+GUS RICHARD: Great. Thank you. 
+PAUL OTELLINI: Thanks, Gus. Go ahead. 
+OPERATOR: Your next question is from the line of Doug Freedman with Broadpoint. 
+DOUG FREEDMAN, ANALYST, BROADPOINT AMTECH: Great, thanks, guys, for taking my question. Paul, you 
+you've been spending a lot of effort on growing sort of non-core revenues. You've got a whole bunch of pieces 
+you've assembled now. Is there any sort of guidance you would like to offer us on how much impact that could 
+have to incremental revs in 2010? 
+PAUL OTELLINI: Oh, in 2010, no, I won't give you a lot guidance, I can't give you a lot of guidance there except 
+to point out the trends that we did in the analyst meeting, Doug, which is that of those four businesses that we 
+really aimed at with the Atom system on chip products, the one that's shipping in high volume today is the 
+embedded business and that's converting to Atom and growing around that and that side of the business which is 
+well north of $1 billion on a very nice growth rate so that's the one you'll see the revenue appear first in in terms of 
+measurable amounts. The consumer electronics and ultra mobile activities are proceeding nicely in terms of 
+design wins and product development but the volume there is really out in time a bit.
+
+Page 7 of 16 © 2013 Factiva, Inc. All rights reserved. 
+STACY SMITH: If I could add to that, if you look at the clip we're on with Atom where we're seeing nice growth, 
+Atom and netbooks, exiting this year, that's at a clip that should be a pretty significant growth driver for us next 
+year. 
+PAUL OTELLINI: Thanks, Doug. 
+DOUG FREEDMAN: Thank you. 
+PAUL OTELLINI: Next question. 
+OPERATOR: Your next question is from the line of John Barton with Cowen. 
+JOHN BARTON, ANALYST, COWEN: Thank you very much. Paul, could you provide us an update on how you're 
+thinking about the NAND Flash business? It's been a little while since we've really focused on that because prices 
+have stabilized, headed the right direction. What are you thinking about the importance to Intel, are solid state 
+drives something that's going to drive processor growth, you want to be there to enable it, those types of 
+thoughts, please. 
+PAUL OTELLINI: The job one for the NAND group is to drive themselves towards profitability and they've done a 
+very good job this year and albeit a rising market for NAND in doing that but the losses continue to get -- to 
+reduce substantially and they're on a path towards I think a sustainable business here. At the end of the day, 
+that's the ultimate test for this business. We love the fact that it has a strategic nature but it must make profits for 
+us. We are increasing the amount of our NAND that goes into solid state drives, both at the enterprise and client 
+level and we think that is important for our platforms and we think we have pretty good value there in terms of the 
+technology, both the quality of the parts and the algorithms that we use around drives. So that allows us to get a 
+slightly better than commodity margin on most of the NAND business. We've got a couple of other platform ideas 
+that you'll see unfolding from us over the next couple of years using this technology. 
+JOHN BARTON: Thank you. 
+PAUL OTELLINI: Thanks, John. 
+OPERATOR: Your next question is from the line of Manish Goyal with TIAA-CREF. 
+MANISH GOYAL, ANALYST, TIIA-CREF: Yes, hi, thank you. I was wondering if you can give some view on PC 
+unit growth for 2010 in light of the corporate refresh, potential for corporate refresh and do you think consumer is 
+likely to stay as strong in 2010? 
+STACY SMITH: Well, we certainly have a set of numbers we're looking at inside for capacity planning, Manish, 
+but we're not prepared to share them with you. I think if you look at what's happened with the third party forecasts 
+for 2010, they're now all inching above 10% unit growth and we wouldn't argue with that and some of them may 
+be more bullish than that as the year gets closer so let me just leave it there. The other part of your question was? 
+MANISH GOYAL: Consumer related. 
+STACY SMITH: Oh, consumer. 
+MANISH GOYAL: Where I was heading was that is if we do get an enterprise-led recovery next year, do you think 
+your ASPs could be more stable? 
+STACY SMITH: Well, in general, one of -- the pressures of our selling price this year has been the absence of the 
+normal mix of enterprise SKUs which tend to be a higher, richer mix using V-pro and things like that so if -- when 
+that market recovers, their buying characteristics don't change, that will be some relief on the ASP pressure that 
+we've seen through the growth on the consumer side. 
+MANISH GOYAL: Thank you. 
+PAUL OTELLINI: Thanks. Good to have you in the queue. 
+OPERATOR: Your next question is from the line of Mark Lipacis with Morgan Stanley. 
+PAUL OTELLINI: Mark, are you there? I think we'll go to the next question. 
+OPERATOR: Your next question is from the line of Brendan Furlong with Miller Tabak.
+
+Page 8 of 16 © 2013 Factiva, Inc. All rights reserved. 
+BRENDAN FURLONG, ANALYST, MILLER TABAK: Thank you for putting me in the queue. Quick question on 
+your richer product mix, CPU mix for Q4. Could you address how in general CULV is impacting the CPU mix in 
+terms of ASPs and gross margins, et cetera? Thank you. 
+PAUL OTELLINI: Sure. Well, remember, the CULV stands for consumer ultra low voltage so for every CULV SKU 
+that we have a consumer non-ultra low voltage SKU. From that perspective, when we ship a ULV product we get 
+a premium for that versus the non-ULV part. We've looked at this as being a premium product, taking advantage 
+of the technology since day one. The bulk of the units that have been shipped in that category to date were single 
+core versions of the products. Late last quarter, we introduced a dual core version of those products. I think you'll 
+start seeing a number of laptops show up in retail channels with the dual core versions for the holiday season that 
+are more ergonomically designed, thinner, lighter, more attractive chassis and those kinds of things which really 
+starts moving to where the sweet spot of the, I think the market is moving. 
+STACY SMITH: Brendan, this is Stacy. Based on how you asked that question I want to come back and just 
+clarify one thing and make sure you didn't misinterpret my words. I was not predicting a richer mix in the CPU 
+market. What I was articulating is you tend to see more chipsets sold in Q3 and more CPUs sold in Q4. So we'll 
+see a mix shift towards CPUs. We're not anticipating a richer mix inside those CPUs to Paul's earlier answer. Our 
+best guess is that the enterprise market continues to be relatively weak in Q4 and this continues to be more of a 
+consumer-led year. 
+BRENDAN FURLONG: Thank you very much. 
+PAUL OTELLINI: Thanks. Next question, go ahead. 
+OPERATOR: Your next question is from the line of Tristan Gerra with Robert Baird. 
+TRISTAN GERRA, ANALYST, ROBERT BAIRD: Hi, good afternoon. How do we view Atom strategically in your 
+PC mix next year? We've seen some constraints of Atom in China and also a little bit of a slowdown in netbooks 
+in Q3. If you could give us an idea of the growth that you see for Atom and netbooks in 2010? 
+PAUL OTELLINI: I don't know what you mean by a slowdown. If you mean a slowdown in the rate of growth given 
+that we started with relatively large -- very large growth rates in the early days, the law of large numbers kicks in. 
+Netbooks continue to grow. They grew nicely from Q2 to Q3. Both at the component level and sales through 
+levels as near as we can tell and I believe they'll grow again in Q4. And Stacy points out, even if you take a 
+simplistic Q4 times four model for 2010, that gives you significant growth over 2009 in netbooks. So we're still 
+bullish on it. What we've seen this quarter, though, is that the notebook market is alive and well and that netbooks 
+as we have been believing for quite some time are market additive for Intel in the industry. 
+TRISTAN GERRA: Great. Thank you. 
+PAUL OTELLINI: Thanks, Tristan. Go ahead, next question. 
+OPERATOR: Your next question is from the line of Ross Seymore with Deutsche Bank. 
+ROSS SEYMORE, ANALYST, DEUTSCHE BANK: Thanks, guys. Just a question on the gross margin in the 
+beginning of next year, mainly from a fab startup perspective. Remind us where we stand in the cost for ramping 
+the China fab and then if there's any impact from the 32-nanometer startup occurring in the second half of this 
+year rather than the original expectation of the first half of next? 
+PAUL OTELLINI: So I'll answer your question directly but I'll also refer you back to the chart that is still on our 
+website from the investor meeting that shows that. The expectations haven't changed. Next year will be a year 
+where startup costs are reduced over this year. At the big picture level what you had is this year there were 
+significant startup costs associated with 32-nanometer. We won't be starting with significant start up costs for 
+22-nanometer next year. We do have a little bit of startup cost associated with the fab in China but that was 
+included in the graph I showed you and even with that we'll be down and my expectations are roughly unchanged 
+in terms of the shape of this year and the shape of next year. 
+ROSS SEYMORE: And what was the quantity of the China one if you gave a precise number, a point, half a 
+point, et cetera? 
+PAUL OTELLINI: You can eye ball it but it's well less than a point of gross margin. 
+ROSS SEYMORE: Thank you.
+
+Page 9 of 16 © 2013 Factiva, Inc. All rights reserved. 
+PAUL OTELLINI: Thanks, Ross. 
+OPERATOR: Your next question is from the line of Tim Luke with Barclays Capital. 
+TIM LUKE, ANALYST, BARCLAYS CAPITAL: Thanks, first, well done on your quarter in execution. Just with 
+respect to the gross margin outlook, Stacy, in guiding it up, your variance of 3 points is a little bit wider than 
+sometimes and also in the guidance you mentioned that there are three points related to qualification of the sale 
+of 32-nanometer products and the sale of previously written off product. I guess the question is to what -- how 
+much of it is the sale of previously written off product? And then I guess going forward, if you could give us some 
+color on how you feel about the sustainability of the elevated 62% gross margin and what some of the key 
+variables might be and I guess in the prior two questions you had some allusion to the first quarter, if you're 
+continuing to build inventory, does that help, what are some of the key variables baked in this quarter's guidance 
+and maybe some of the variables for next year? Thanks. 
+KEVIN SELLERS: Did we say we're going to cover one question or four. 
+PAUL OTELLINI: We got Uche with two. Tim, I lost count. I'll turn it over to Stacy. 
+STACY SMITH: I'm not sure how to start with that one. Let me take a shot. And I'll just preface this up front by 
+saying I'm probably going to disappoint you because I'm not going to give you a point estimate for next year or a 
+shape of the year but I'll talk about some of the drivers. Q4, your first question was how much of that 3 points of 
+qualification for sale of the 32-nanometer product, how much of it is sale of previously written off product. They're 
+both significant drivers within that 3 points. I'm not going to get more precise than that. They're both multi point, 
+more than a point kinds of impact there. In terms of the sustainability of 62%, I have to point out by historical 
+standards that 62% is pretty rare. It really does show the financial performance that we can generate when we 
+have a strengthening market and we're executing well. 
+I think it really underscores for us that the strategy, how important the strategy is of having a segmented product 
+line as Paul said in his prepared remarks, having the right products at the right cost to satisfy the growth in 
+consumer and emerging markets and Internet consumption devices with Atom and refreshing the high end of the 
+product line with our 32-nanometer product, that helps a lot. But I wouldn't try to argue for you that that's the new 
+normal. I still believe that over a long period of time our gross margin even inclusive of all the growth businesses 
+is kind of between 50 and 60% and we're executing well and we're at the high end now and some day we'll be at 
+the low end. 
+When I think about 2010, I'll refer you back to a couple of the things we showed at the investor meeting. I would 
+expect startup costs next year to be lower than they are this year, per the question we had earlier. And -- so that 
+will be one of the drivers and I think that we're likely to see 2010 as we progress through the year, we'll see the 
+costs coming down on our 32-nanometer products and we showed a graph that showed that by the end of next 
+year, we expect to be lower costs than ending 2009. I still expect that to be the case as we come up the learning 
+curve on 32-nanometer and bring those costs down. So I think those two things give us a little bit of tailwind. 
+TIM LUKE: The three point spread, any sense there? The wider range. 
+STACY SMITH: Sorry, I knew I would forget one of your four. That one was just matching the topline growth. If we 
+have -- if we end up at the top end of the revenue range, then we'll be pushing the top end of the gross margin 
+range. If we end up at the bottom end of the revenue range we're at the bottom end of the gross margin range, so 
+really make those symmetrical. 
+TIM LUKE: Thanks, guys. 
+PAUL OTELLINI: Thanks, Tim. Next question. 
+OPERATOR: Your next question is from the line of Jim Covello with Goldman Sachs. 
+JIM COVELLO, ANALYST, GOLDMAN SACHS: Thanks so much. Congratulations on the great results. This has 
+been sort of kicked around but I want to ask it a little bit of a different way. The supply chain hasn't really been 
+able to catch up with end demand this year because we entered the year undershipping demand by so much. 
+And so much of your growth this year has been a function of that. Plus, the better than expected demand relative 
+to six months ago. As we exit this year, do you think you'll still be undershipping demand, shipping in line with 
+demand or shipping a little bit more than demand on sort of a quarterly basis? Thanks. 
+PAUL OTELLINI: I guess I have to pick a bone with your assertion, Jim. I don't think the industry undershipped 
+demand in the first part of this year. People could buy a computer any day, any place on earth they wanted. I
+
+Page 10 of 16 © 2013 Factiva, Inc. All rights reserved. 
+don't know of any system level shortages throughout, nor any component level shortages except for some spot 
+stuff here and there. It never really constrained demand. 
+JIM COVELLO: Well, what I mean, just, I'm sorry if I wasn't more clear. I go back to the fourth quarter of last year, 
+PC units were down a couple percent. Your product -- Intel's microprocessor units were down 18. You were 
+undershipping demand as the supply chain was liquidating inventory then. There's been some of your 
+tremendous growth this year, obviously great execution and demand has been better than expected earlier in the 
+year but some of it has been a catch-up from that undershipment towards the latter part of last year and do we 
+think that on a quarterly basis, what I'm really trying to get at is for 2010, do we think Intel's microprocessor unit 
+shipments should equal PC unit shipments? 
+PAUL OTELLINI: Over the course of the year, ours plus our competition do, yes. I don't think that the pipeline will 
+expand -- needs to expand much more to accommodate the growth numbers that are likely to happen in 2010. 
+JIM COVELLO: That's exactly what I was getting at. 
+PAUL OTELLINI: You could conceive of a corner case that by Q4 of next year at the very upper bound of 
+people's forecasts, that the numbers get to be pretty large. But we've been here before. 
+JIM COVELLO: Terrific. Really helpful. Thanks so much for everything. 
+PAUL OTELLINI: I think we'll take a couple more questions, if we could. 
+OPERATOR: Yes, sir. Your next question Fridays the line of David Wong with Wells Fargo Securities. 
+DAVID WONG, ANALYST, WELLS FARGO SECURITIES: Thanks very much. Could you tell us what percent of 
+your DP server sales were Nehalem in the September quarter and did the MP server revenues grow sequentially 
+or decline sequentially in September. 
+PAUL OTELLINI: It was well over half of the DP sales were Nehalem and I don't have the MP number, relative 
+growth number in my head, I'm sorry. 
+DAVID WONG: Thanks. 
+PAUL OTELLINI: All right, David. Go ahead. Actually, we'll take two more from here. We have two more that we 
+know, so go ahead. 
+OPERATOR: Next question is from the line of Mark Lipacis with Morgan Stanley. 
+PAUL OTELLINI: Did we get you back, Mark? 
+OPERATOR: Your line is open. 
+MARK LIPACIS, ANALYST, MORGAN STANLEY: Can you hear me? 
+PAUL OTELLINI: We got you. 
+STACY SMITH: Yes, Mark. 
+MARK LIPACIS: Okay. From what I can tell, server microprocessor revenues have been an increasing part of 
+your microprocessor revenues over the last five years, been a pretty steady growth trend as a percentage of your 
+microprocessor revenues. My question is is there any reason that that trend should stop or have we reached 
+some kind of saturation point and does Nehalem impact that one way or another? Thank you. 
+PAUL OTELLINI: If you look at a five-year look back, Mark, it wasn't consistent. There was a period in the '06, '07 
+time frame when Intel lost some share in servers and now we've come roaring back. So it wasn't always a 
+consistent adder to our numbers over the course of -- over the five-year period. If you take, say, a two to three 
+year period I hope that's a fair assumption. Did we answer your question, Mark? 
+MARK LIPACIS: Yes. So is it fair to assume, then, that microprocess -- server microprocessors as a percent of 
+your total is, it kind of stays steady state over time or it does not grow? 
+STACY SMITH: As a percent of the total business, the server business is running about the same as the PC unit 
+growth numbers, to a first order there's some things moving in and out in terms of DP and MP and how many 
+chips per system and those kinds of things. The thing that could change that dramatically is if, coming out of this
+
+Page 11 of 16 © 2013 Factiva, Inc. All rights reserved. 
+recession, the Internet data centers start deploying and move towards some of the cloud based services. That 
+could drive pretty healthy demand for rack-mounted servers and blade servers for a while. 
+MARK LIPACIS: Okay. Thanks very much. 
+PAUL OTELLINI: Thanks, Mark. We'll take -- this will be our final question. 
+OPERATOR: Your final question is from the line of Alex Gauna with JMP Securities. 
+ALEX GAUNA, ANALYST, JMP SECURITIES: Thanks for getting me in and let me also say I appreciate the new 
+format. Can I ask ask you, Paul, you mentioned that right now, and, Stacy, I believe you also said this, that 
+enterprise has not been a part of the strength. With the Pro, how do you look at when that might step in in 2010 
+and is there any risk to that? You mentioned Cloud computing here with virtualization, do we perhaps not see 
+enterprise come back on the client side but stay more concentrated in the server side and what would that mean 
+to gross margins? Thank you. 
+PAUL OTELLINI: The last part of your question actually gave a clarification I was going to put out which is we are 
+seeing pretty good strength in the enterprise relative to the server part of the business. It's the client part, the 
+desktop and notebook part where the lights have been out for quite a while and now we're starting to see some 
+people doing evaluation of our new platforms with Win 7. I can't give you a curve for that for 2010. It really gets 
+down to when CEOs and CFOs set the budgets in the next couple of months for 2010 in terms of CapEx and do 
+they want to open the checkbooks again. The compelling value for a refresh is there. 
+Machines that are four and five years old which is the average fleet age right now are costing more to keep than 
+to buy a new machine. Just the maintenance, the out of warranty expenses, the security upgrades, et cetera, et 
+cetera, are problematic and you all know the situation with XP support so people are going to want to move to 
+Win 7. And it's just a matter of I think you how fast they do that next year. 
+In terms of cloud and virtualization, our focus has been bring it on. The data center -- the amount of data in the 
+worldwide data centers is growing much faster than people can supply servers or deploy servers. The only 
+solution to that any time soon is virtualization. Virtualization typically requires new server configurations. We've 
+been benefiting by this and we're not iconoclast in terms of thinking the cloud is not good for us or will not happen. 
+ALEX GAUNA: Well, just real quickly, you mentioned that the valuations are happening. Are there any 
+encouraging signs that we will get on the client side and enterprise uplift for V-Pro or other hooks that go into 
+virtualization or cloud computing or will we be able to get by with some of these other more elegant ULV or CLV 
+platforms? 
+PAUL OTELLINI: The V-Pro is a client hook, not a server hook. 
+ALEX GAUNA: Right. 
+PAUL OTELLINI: They're really apples and oranges in terms of cloud. I just tell you that Intel's evaluating and 
+we're going to be buying a significant number of PCs next year for our employees because we've been out of the 
+market for a while and our fleet's aging. I suspect a lot of other companies are coming to that same conclusion. 
+ALEX GAUNA: Okay. Thanks, very much, and congratulations on the powerful results. 
+STACY SMITH: Thank you. 
+PAUL OTELLINI: Thanks, Alex. Hey, thank you all for joining the call today. As a reminder, our quiet period for 
+the fourth quarter will begin at the close of business on Wednesday, November 25. Our fourth quarter earnings 
+conference call is scheduled for Thursday, January 14, 2010. Thank you, again, and good night. 
+OPERATOR: Thank you for joining today's conference call. You may now disconnect. 
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web 
+site without obligation to notify any person of such changes. 
+In the conference calls upon which Event Briefs are based, companies may make projections or other 
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any 
+forward-looking statement based on a number of important factors and risks, which are more specifically identified 
+in the companies' most recent SEC filings. Although the companies may indicate and believe that the
+
+Page 12 of 16 © 2013 Factiva, Inc. All rights reserved. 
+assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove 
+inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the 
+forward-looking statements will be realized. 
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS THOMSON FINANCIAL'S SUBJECTIVE 
+CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE 
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE 
+CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY 
+ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE 
+INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO 
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S 
+SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.] 
+Document FNDW000020091027e5ad00106
+
+Page 13 of 16 © 2013 Factiva, Inc. All rights reserved. 
+Intel agrees to acquire Wind River for $884M; Purchase to help chipmaker move into consumer electronics, wireless devices 
+Business & Technology 
+Intel agrees to acquire Wind River for $884M; Purchase to help chipmaker move into consumer 
+electronics, wireless devices 
+Ian King, and Tim Mullaney 
+Bloomberg News 
+441 words 
+5 June 2009 
+Ottawa Citizen 
+OTCT 
+Final 
+E3 
+English 
+Copyright © 2009 Ottawa Citizen 
+Intel Corp., the world's largest maker of semiconductors, agreed to buy software company Wind River Systems 
+Inc. for about $884 million, a bid to get its chips into more consumer electronics and wireless devices. 
+The price is $11.50 a share in cash, Santa Clara, California-based Intel said Thursday in a statement, offering a 
+44-per-cent premium over Wind River's closing price Wednesday. Wind River makes operating systems for 
+everything from cars 
+to mobile phones, serving customers such as Sony Corp. and Boeing Co. 
+Intel, whose processors run about 80 per cent of the world's personal computers, is expanding into new markets, 
+including chips for televisions and mobile devices. Wind River's software and customer list will pave the way for 
+Intel to win more chip contracts, said Cody Acree, an analyst at Stifel Nicolaus & Co. 
+"If you have a chip you want to put in a lot of things other than a PC, you need code," said the Dallas-based 
+analyst. 
+"Wind River brings that, and it brings customers." 
+The purchase marks Intel's first major acquisition since Paul Otellini took over as chief executive officer in 2005. 
+Intel expects chips for "embedded systems," such as the electronics in car-navigation systems, to generate 
+billions of dollars in annual sales, said Bill Kircos, a company spokesman. Intel already supplies chips to BMW 
+Werke AG for car stereos that use Wind River software. 
+"It's trying to get our chips into new systems in your car, into new meters that let you monitor how you use 
+electricity," Kircos said. "It's about getting into new consumer electronics, smart phones and health care." 
+This is the second large technology acquisition announcement this week. 
+Data Domain Inc., which makes a product that reduces the amount of disk space needed to store data, accepted 
+a $1.9 billion offer from Net-App Inc. Wednesday. EMC Corp. also bid for Data Domain earlier this week. 
+Wind River also distributes versions of the Linux operating system, competing with products from Microsoft 
+Corp., Intel's main software partner on PCs. 
+The company is adapting that software for mobile Internet devices -- the successors to today's smart phones -- a 
+market that Intel is trying to crack with its Atom chip. 
+Colour Photo: Nicky Loh, Reuters / A man walks past Intel motherboard displays at the huge Computex exhibition 
+in Taipei. The world's largest maker of semiconductors is buying software specialist Wind River. ; 
+Document OTCT000020090605e56500034
+
+Page 14 of 16 © 2013 Factiva, Inc. All rights reserved. 
+Intel sets sights on new frontiers with $884m Wind River purchase 
+COMPANIES - INTERNATIONAL 
+Intel sets sights on new frontiers with $884m Wind River purchase 
+By Chris Nuttall in San Francisco and Maija Palmer in London 
+382 words 
+5 June 2009 
+Financial Times 
+FTFT 
+Asia Ed1 
+16 
+English 
+(c) 2009 The Financial Times Limited. All rights reserved 
+TECHNOLOGY HARDWARE 
+Intel yesterday paid $884m in cash for Wind River Systems, a software company that should help the 
+chipmaker's push into new markets. 
+Wind River, based in the San Francisco Bay Area, represents Intel's biggest acquisition in the four-year tenure of 
+Paul Otellini as chief executive. 
+Mr Otellini stressed at the company's analyst day last month that software was now a "core competency" for the 
+world's biggest chipmaker as it entered new markets in the mobile device and embedded systems industries. 
+Wind River makes software that helps companies programme and manage devices such as mobile phones and 
+in-car entertainment systems. Intel is keen to expand into markets such as these as growth slows in the more 
+mature PC and server markets that it currently dominates. 
+Intel's strategy is built around its Atom processor - a chip that is smaller and requires much less power than its 
+regular PC microprocessors, putting it in competition with chips based on designs by the UK's Arm Holdings. 
+Mr Otellini believes Intel can build a key advantage for Atom by supporting it with a large software effort. 
+"This acquisition will bring us complementary, market-leading software assets and an incredibly talented group of 
+people to help us continue to grow our embedded systems and mobile device capabilities," said Renee James, 
+Intel vice-president and general manager of the company's Software and Services Group. 
+Atom has so far dominated the netbook category of small, cheap notebook computers. Intel is supporting its 
+adoption through development of a new open source operating system to rival Windows, called Moblin. 
+Intel will pay $11.50 per Wind River share, a 44 per cent premium to the closing price on Wednesday. The 
+company's stock soared $3.54 or 44 per cent to $11.54 at the open yesterday. 
+Wind River, which has 1,600 employees, had annual revenues of $359.7m in 2008, an increase of $31.2m from 
+the previous year. The company also moved into profit in fiscal year 2009 of $10.8m from a loss of $2.4m the 
+year before. 
+ftnewspaper_20090605.xml|20090605A116.309 
+Document FTFT000020090605e56500010
+
+Page 15 of 16 © 2013 Factiva, Inc. All rights reserved. 
+Intel to buy Wind River, charging into software 
+Corporate News 
+Intel to buy Wind River, charging into software 
+By Don Clark 
+497 words 
+5 June 2009 
+The Wall Street Journal Europe 
+WSJE 
+6
+English 
+(Copyright (c) 2009, Dow Jones & Company, Inc.) 
+Intel Corp. agreed to buy Wind River Systems Inc. for about $884 million, a surprise move that gives the chip 
+maker a significant software business and could help take its technology to new markets. 
+The transaction also makes Intel a direct competitor with Microsoft Corp., though mainly in industrial and 
+consumer businesses that don't affect the technology giants' longtime partnership in the personal-computer 
+industry. 
+Wind River, of Alameda, Calif., has the leading market share among software suppliers for so-called embedded 
+applications used in cars, office equipment, industrial controls, telecommunications gear and 
+consumer-electronics devices. The company is known for an operating system called VxWorks but has more 
+recently built a business around varieties of the Linux operating system. 
+Intel, of Santa Clara, Calif., already sells most chips that serve as calculating engines in computers. Paul Otellini, 
+its chief executive officer, has vowed to use a low-end chip called Atom to make the company a bigger player in 
+pocket-size devices, consumer-electronics gear and the embedded applications that are Wind River's specialty. 
+Intel has already built up a sizable internal software-development operation, which recently created a free Linux 
+variant called Moblin for use with Atom in mobile-computing and other markets. But Wind River will for the first 
+time give Intel a way to turn software into a potential source of revenue and profit. 
+Wind River will operate as a separate unit and continue to deliver programs that work on other chips in addition 
+to Intel's, which make up the bulk of its business now. "They are trying to build a software business, which makes 
+this a monumental transaction," said John Bruggeman, Wind River's chief marketing officer. 
+Bill Kircos, an Intel spokesman, downplayed the potential competition with Microsoft; for one thing, he said, Wind 
+River mainly competes in markets where the main alternative for companies is internally developed software. He 
+added that buying Wind River, instead of continuing to work with them as an independent partner, will allow Intel 
+to help step up the software company's investments around Atom and other Intel chips. 
+Another possible motivation is defensive -- keeping Wind River out of the hands of other giants, including chip 
+makers such as Qualcomm Inc., said Roger Kay, an analyst at Endpoint Technologies Associates. "It's a parry 
+and thrust thing," he said. 
+Mr. Bruggeman would not discuss any other potential suitors, though he said "you have to imagine this is a hotly 
+contested space." 
+Intel agreed to pay $11.50 a share in cash for Wind River, 44% above the closing price of that company's shares 
+on Wednesday. Wind River shares jumped 44% to $11.52 in afternoon trading on the Nasdaq Stock Market. 
+Wind River has about 1,600 employees and reported revenue of $359.7 million in the fiscal year ended Jan. 31. 
+License this article from Dow Jones Reprint Service 
+Document WSJE000020090605e5650002b 
+Search Summary
+
+Page 16 of 16 © 2013 Factiva, Inc. All rights reserved. 
+Text Paul Otellini AND Wind River 
+Date 01/01/1990 to 01/01/2010 
+Source All Publications 
+Author All Authors 
+Company Intel Corp. 
+Subject Acquisitions/Mergers/Takeovers 
+Industry All Industries 
+Region All Regions 
+Language English
+
